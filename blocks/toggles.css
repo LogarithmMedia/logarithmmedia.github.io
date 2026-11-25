@@ -1,0 +1,18 @@
+/* LM-BLK-004: native checkbox state, explicit visual track, no runtime dependency */
+.lm-toggle{display:flex;align-items:center;justify-content:space-between;gap:16px;min-height:48px;cursor:pointer;color:var(--lab-text)}
+.lm-toggle input,.lm-chip input{position:absolute;width:1px;height:1px;clip-path:inset(50%);overflow:hidden;margin:-1px}
+.lm-track{display:flex;align-items:center;flex:none;width:52px;height:30px;padding:3px;border:2px solid var(--btn-edge);border-radius:999px;background:var(--lab-page)}
+.lm-track:before{content:"";width:20px;height:20px;border-radius:50%;background:var(--lab-muted);transition:transform 150ms ease}
+.lm-toggle input:checked+.lm-track{background:var(--lm-blue);border-color:var(--btn-edge)}
+.lm-toggle input:checked+.lm-track:before{transform:translateX(20px);background:white}
+.lm-toggle input:focus-visible+.lm-track,.lm-chip input:focus-visible+span{outline:3px solid var(--lab-focus);outline-offset:4px}
+.lm-toggle:has(input:disabled),.lm-chip:has(input:disabled){opacity:.6;cursor:not-allowed}
+.lm-chip{position:relative;display:inline-flex;cursor:pointer;max-width:100%}
+.lm-chip span,.lm-removable{display:inline-flex;align-items:center;gap:8px;min-height:44px;padding:8px 16px;border:1.5px solid var(--btn-edge);border-radius:999px;background:var(--lab-card);color:var(--lab-text);font:600 .875rem/1.4 var(--lm-font);overflow-wrap:anywhere}
+.lm-chip input:checked+span{background:var(--lm-blue);color:white}
+.lm-chip input:checked+span:before{content:"✓"}
+.lm-removable{cursor:pointer}.lm-removable:focus-visible{outline:3px solid var(--lab-focus);outline-offset:4px}
+.lm-tag{display:inline-flex;padding:5px 10px;border-radius:6px;background:var(--lab-page);color:var(--lab-text);font:500 .75rem/1.5 var(--lm-mono);border:1px solid var(--lab-line)}
+.lm-tag.outlined{background:transparent;border-color:var(--btn-edge)}.lm-tag.tinted{background:var(--lm-blue-soft);color:var(--lm-ink)}
+@media(prefers-reduced-motion:reduce){.lm-track:before{transition:none}}
+@media(forced-colors:active){.lm-track{border-color:ButtonText}.lm-track:before{background:ButtonText}.lm-toggle input:checked+.lm-track,.lm-chip input:checked+span{background:Highlight;color:HighlightText;border-color:Highlight}.lm-toggle input:checked+.lm-track:before{background:HighlightText}.lm-toggle input:focus-visible+.lm-track,.lm-chip input:focus-visible+span,.lm-removable:focus-visible{outline-color:Highlight}}
