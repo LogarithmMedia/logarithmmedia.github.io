@@ -1,0 +1,48 @@
+/* Review-only homepage form alternative. Shared hero and form rules remain intact. */
+.lm-home-hero-audit.lm-audit-float {
+  --audit-halo: color-mix(in srgb, var(--lm-blue-2) 34%, transparent);
+  --audit-edge: color-mix(in srgb, var(--lm-blue-2) 70%, var(--lab-card));
+  border-color: var(--audit-edge);
+  background: var(--lab-card);
+  box-shadow:
+    0 0 0 1px var(--audit-edge),
+    0 0 16px var(--audit-halo),
+    0 0 48px 8px var(--audit-halo),
+    0 28px 48px -12px rgb(10 19 32 / .30),
+    0 52px 80px -28px rgb(29 79 216 / .42);
+  transition: box-shadow var(--lm-transition);
+}
+.lm-audit-float:focus-within {
+  --audit-halo: color-mix(in srgb, var(--lm-blue-2) 43%, transparent);
+}
+.lm-audit-float .lm-field input {
+  background: color-mix(in srgb, var(--lab-card) 78%, var(--lab-page));
+}
+.lm-audit-float .lm-btn.primary {
+  box-shadow: 0 6px 20px -6px var(--lm-blue-2);
+}
+@container home-hero (min-width: 56rem) {
+  .lm-audit-float { transform: translateY(-8px); }
+  @media (prefers-reduced-motion: no-preference) and (forced-colors: none) {
+    .lm-audit-float:not(:hover):not(:focus-within) {
+      animation: lm-audit-float-in 4.4s ease-in-out 1 both;
+    }
+  }
+}
+/* A single gentle float cycle settles into a visibly elevated, stationary form. */
+@keyframes lm-audit-float-in {
+  0%, 100% { transform: translateY(-8px); }
+  50% { transform: translateY(-18px); }
+}
+@media (prefers-reduced-motion: reduce) {
+  .lm-audit-float { transition: none; }
+}
+@media (forced-colors: active) {
+  .lm-home-hero-audit.lm-audit-float {
+    transition: none;
+    border: 1px solid CanvasText;
+    box-shadow: none;
+    transform: none;
+  }
+  .lm-audit-float .lm-btn.primary { box-shadow: none; }
+}
