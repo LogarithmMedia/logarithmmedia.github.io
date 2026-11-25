@@ -1,0 +1,8 @@
+/* LM-BLK-007 — draft; shared Foundations and Lab theme aliases. */
+
+.lm-alert{display:flex;align-items:flex-start;gap:12px;padding:16px;border:1px solid var(--lab-line);border-inline-start:3px solid var(--btn-link);border-radius:var(--lm-radius-control);background:var(--lab-card);overflow-wrap:anywhere}
+.lm-alert>div{flex:1;min-width:0}.lm-alert strong{display:block;margin-bottom:4px}
+.lm-alert-icon{flex:none;display:grid;place-items:center;width:24px;height:24px;border:1.5px solid currentColor;border-radius:50%;font-weight:800}
+.lm-alert[data-kind=warning] .lm-alert-icon{border-style:dashed}.lm-alert[data-kind=error] .lm-alert-icon{border-radius:4px}
+.lm-alert .lm-btn{flex:none;box-shadow:none}.lm-alert[hidden],#notice[hidden]{display:none}
+@media(forced-colors:active){.lm-alert,.lm-alert-icon{border-color:CanvasText}}

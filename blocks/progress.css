@@ -1,0 +1,8 @@
+/* LM-BLK-009 â€” draft; shared Foundations and Lab theme aliases. */
+
+.lm-loading{display:flex;align-items:center;gap:12px}.lm-spinner{display:inline-block;flex:none;width:28px;height:28px;border:3px solid var(--lab-muted);border-top-color:var(--btn-link);border-radius:50%;animation:lm-progress-spin 1s linear 4}
+@keyframes lm-progress-spin{to{transform:rotate(360deg)}}
+.lm-skeleton{display:grid;gap:12px}.lm-skeleton span{display:block;height:16px;background:var(--lab-line);border-radius:var(--lm-radius-control)}.lm-skeleton span:last-child{width:62%}
+.lm-progress{width:100%;height:20px;accent-color:var(--btn-link)}
+@media(prefers-reduced-motion:reduce){.lm-spinner{animation:none}}
+@media(forced-colors:active){.lm-spinner{border-color:CanvasText;border-top-color:Highlight}.lm-skeleton span{border:1px solid CanvasText}}

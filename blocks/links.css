@@ -1,0 +1,13 @@
+/* LM-BLK-011 — draft; shared Foundations and Lab theme aliases. */
+
+.lm-text-link{color:var(--btn-link);text-decoration:underline;text-underline-offset:.18em;overflow-wrap:anywhere}
+.lm-text-link:hover{text-decoration-thickness:2px}
+.lm-breadcrumb{display:flex;flex-wrap:wrap;gap:8px 16px;list-style:none;margin:0;padding:0;align-items:center}
+.lm-breadcrumb li{display:flex;align-items:center;gap:12px;min-width:0;overflow-wrap:anywhere}
+.lm-breadcrumb li+li::before{content:"/";color:var(--lab-muted)}
+.lm-breadcrumb a,.lm-compact-nav a{display:inline-flex;align-items:center;min-height:44px}
+.lm-breadcrumb [aria-current]{font-weight:700}
+.lm-compact-nav{display:flex;flex-wrap:wrap;gap:8px 16px}.lm-compact-nav a{padding:8px 12px;border:1px solid var(--lab-line);border-radius:var(--lm-radius-control);color:var(--btn-link);text-decoration:underline;overflow-wrap:anywhere}
+.lm-compact-nav a[aria-current]{font-weight:700;border-color:var(--btn-link);text-decoration-thickness:2px}
+.lm-unavailable{color:var(--lab-muted)}
+@media(forced-colors:active){.lm-compact-nav a[aria-current]{border-color:LinkText}}
