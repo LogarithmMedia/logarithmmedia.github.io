@@ -20,6 +20,11 @@
     if (unavailable()) toggle.textContent = 'Scrolling unavailable in this display mode';
   }
   toggle.addEventListener('click', () => setMoving(!band.hasAttribute('data-moving')));
+  band.addEventListener('pointerup', event => {
+    if (event.pointerType === 'touch' && !event.target.closest('button') && !unavailable()) {
+      setMoving(!band.hasAttribute('data-moving'));
+    }
+  });
   reduced.addEventListener('change', () => setMoving(false));
   forced.addEventListener('change', () => setMoving(false));
   setMoving(true);
