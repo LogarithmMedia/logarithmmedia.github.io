@@ -1,0 +1,13 @@
+/* LM-BLK-003 — native selection controls, draft */
+.lm-choice{display:flex;align-items:center;gap:12px;min-height:48px;color:var(--lab-text);font:600 .9375rem/1.5 var(--lm-font);cursor:pointer}
+.lm-choice input{accent-color:var(--lm-blue);inline-size:20px;block-size:20px;flex:none;margin:0}
+[data-theme=dark] .lm-choice input{accent-color:var(--btn-link)}
+.lm-choice input:focus-visible,.lm-select:focus-visible{outline:3px solid var(--lab-focus);outline-offset:3px}
+.lm-choice:has(input:disabled){opacity:.65;cursor:not-allowed}
+.lm-select{box-sizing:border-box;inline-size:100%;min-block-size:48px;padding:10px 14px;border:1.5px solid var(--btn-edge);border-radius:var(--lm-radius-control);background:var(--lab-card);color:var(--lab-text);font:400 1rem/1.5 var(--lm-font)}
+.lm-select:hover:not(:disabled){border-color:var(--btn-link)}
+.lm-select:disabled{opacity:.65}
+.lm-select[aria-invalid=true]{border-style:dashed;border-width:2px}
+.lm-choice-group{min-inline-size:0;border:0;padding:0;margin:0}
+.lm-choice-group legend{font-weight:700;margin-block-end:8px}
+@media(forced-colors:active){.lm-choice input:focus-visible,.lm-select:focus-visible{outline-color:Highlight}}
