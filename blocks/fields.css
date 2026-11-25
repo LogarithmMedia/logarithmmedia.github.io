@@ -1,0 +1,16 @@
+/* LM-BLK-002 — draft primitives, using shared Lab semantic aliases */
+.lm-field{display:grid;gap:8px;min-width:0;font-family:var(--lm-font);color:var(--lab-text)}
+.lm-field label{font-weight:700;font-size:.875rem}
+.lm-field :is(input,textarea){box-sizing:border-box;width:100%;min-width:0;min-height:48px;border:1.5px solid var(--btn-edge);border-radius:var(--lm-radius-control);padding:12px 14px;background:var(--lab-card);color:var(--lab-text);font:400 1rem/1.5 var(--lm-font);transition:border-color var(--lm-transition)}
+.lm-field textarea{resize:vertical;min-height:128px}
+.lm-field :is(input,textarea)::placeholder{color:var(--lab-muted);opacity:1}
+.lm-field :is(input,textarea):hover:not(:disabled):not([readonly]){border-color:var(--btn-link)}
+.lm-field :is(input,textarea):focus-visible{outline:3px solid var(--lab-focus);outline-offset:3px}
+.lm-field :is(input,textarea):disabled{opacity:.65;cursor:not-allowed}
+.lm-field :is(input,textarea)[readonly]{background:var(--lab-page)}
+.lm-field .lm-field-note{font-size:.8rem;line-height:1.5;color:var(--lab-muted);margin:0}
+.lm-field [aria-invalid=true]{border-style:dashed;border-width:2px}
+.lm-field-error{font-size:.85rem;font-weight:700;color:var(--lab-text);margin:0}
+.lm-field-meta{display:flex;justify-content:space-between;gap:8px;flex-wrap:wrap}
+@media(prefers-reduced-motion:reduce){.lm-field :is(input,textarea){transition:none}}
+@media(forced-colors:active){.lm-field :is(input,textarea):focus-visible{outline-color:Highlight}}
