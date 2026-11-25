@@ -1,38 +1,43 @@
-/* LM-SEC-002: v2 service band with accessible, opt-in compositor motion. */
+/* LM-SEC-002: v2 service band with accessible compositor motion. */
 .lm-service-band {
   background: var(--lm-ink); color: var(--lm-white);
-  padding-block: clamp(1.5rem, 3vw, 2.5rem);
+  padding-block: clamp(1.1rem, 2.2vw, 1.8rem);
   --lab-focus: var(--lm-white);
   --btn-edge: #c9d2e0;
   --btn-shadow: var(--lm-shadow-button-dark);
   --btn-hover-shadow: 2px 2px 0 #c9d2e0;
-  --band-gap: clamp(1rem, 2vw, 2rem);
+  --band-gap: clamp(1.5rem, 3vw, 2.75rem);
 }
-.lm-service-band-head { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: var(--lm-space-4); margin-block-end: var(--lm-space-6); }
-.lm-service-band-head h2 { color: #c9d2e0; }
+.lm-service-band-head { display: flex; flex-wrap: wrap; justify-content: flex-end; align-items: center; gap: var(--lm-space-4); margin-block-end: var(--lm-space-2); }
+.lm-service-band-head h2 { position: absolute; inline-size: 1px; block-size: 1px; overflow: hidden; clip-path: inset(50%); }
+.lm-service-band-head button { background: transparent; border: 1px solid #c9d2e0; color: var(--lm-white); box-shadow: none; padding: 5px 12px; font-size: .75rem; min-height: 44px; }
 .lm-service-band-head button[hidden] { display: none; }
 .lm-service-band-head button[aria-disabled="true"] { cursor: default; }
 .lm-service-band-window { container: service-band / inline-size; }
 .lm-service-band-list {
-  display: flex; align-items: baseline; flex-wrap: wrap; gap: var(--band-gap);
+  display: flex; align-items: baseline; flex-wrap: wrap; gap: var(--band-gap); background: var(--lm-ink);
   margin: 0; padding: 0; list-style: none;
 }
 .lm-service-band-list li {
-  display: flex; align-items: baseline; gap: var(--band-gap);
-  font-size: clamp(1.5rem, 1rem + 2vw, 3rem); font-weight: 800; line-height: 1.2;
-  overflow-wrap: anywhere; min-inline-size: 0;
+  display: flex; align-items: center; gap: var(--band-gap);
+  font-size: clamp(1.6rem, 1rem + 2.4vw, 3rem); font-weight: 800; line-height: 1.1; letter-spacing: -.01em;
+  overflow-wrap: anywhere; min-inline-size: 0; background: var(--lm-ink);
 }
 @supports (font-size: 1cqi) {
-  .lm-service-band-list li { font-size: clamp(1.5rem, 1rem + 2.5cqi, 3rem); }
+  .lm-service-band-list li { font-size: clamp(1.6rem, 1rem + 2.4cqi, 3rem); }
 }
 .lm-service-band-list li:nth-child(even) { color: #c9d2e0; }
+@supports (-webkit-text-stroke: 1px white) {
+  @media (forced-colors: none) { .lm-service-band-list li:nth-child(even) { color: transparent; -webkit-text-stroke: 1.5px var(--lm-white); } }
+}
 .lm-service-band-list li::after { content: ""; flex: none; inline-size: .65em; block-size: .65em; background: var(--lm-blue-2); clip-path: polygon(50% 0, 64% 36%, 100% 50%, 64% 64%, 50% 100%, 36% 64%, 0 50%, 36% 36%); }
 .lm-service-band-list[data-band-copy] { display: none; }
 .lm-service-band-foot { margin-block-start: var(--lm-space-5); }
 .lm-service-band-foot a { display: inline-flex; align-items: center; gap: var(--lm-space-2); min-block-size: 44px; color: #c9d2e0; text-underline-offset: .25em; }
 @media (prefers-reduced-motion: no-preference) and (forced-colors: none) {
-  .lm-service-band[data-moving] .lm-service-band-window { overflow: clip; }
-  .lm-service-band[data-moving] .lm-service-band-track { display: flex; inline-size: max-content; animation: lm-service-scroll var(--lm-marquee) linear infinite; }
+  .lm-service-band[data-moving] .lm-service-band-window { overflow: clip; width: 100%; }
+  .lm-service-band[data-moving]:hover .lm-service-band-track { animation-play-state: paused; }
+  .lm-service-band[data-moving] .lm-service-band-track { background: var(--lm-ink); display: flex; inline-size: max-content; animation: lm-service-scroll var(--lm-marquee) linear infinite; }
   .lm-service-band[data-moving] .lm-service-band-list { display: flex; flex: none; flex-wrap: nowrap; align-items: center; padding-inline-end: var(--band-gap); }
   .lm-service-band[data-moving] .lm-service-band-list li { white-space: nowrap; }
 }
@@ -40,4 +45,5 @@
 @media (forced-colors: active) {
   .lm-service-band { border-block: 1px solid CanvasText; }
   .lm-service-band-list li::after { background: CanvasText; }
+  .lm-service-band-list li:nth-child(even) { color: CanvasText; -webkit-text-stroke: 0; }
 }

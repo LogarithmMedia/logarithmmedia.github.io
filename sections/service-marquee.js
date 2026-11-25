@@ -22,6 +22,6 @@
   toggle.addEventListener('click', () => setMoving(!band.hasAttribute('data-moving')));
   reduced.addEventListener('change', () => setMoving(false));
   forced.addEventListener('change', () => setMoving(false));
-  setMoving(false);
+  setMoving(true);
   toggle.hidden = false;
 })();
