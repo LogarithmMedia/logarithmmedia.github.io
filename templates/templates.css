@@ -1,0 +1,13 @@
+.lm-template-review{background:var(--lab-page);border-bottom:1px solid var(--lab-line)}
+.lm-template-review .wrap{display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:8px 16px;padding-block:8px}
+.lm-template-review a{min-height:44px;display:inline-flex;align-items:center;text-underline-offset:4px}
+.lm-template-review .mono{color:var(--lab-muted)}
+.lm-template-intro h1{max-width:18ch;text-wrap:balance}
+.lm-template-cta{display:flex;align-items:center;justify-content:space-between;gap:24px;flex-wrap:wrap}
+.lm-template-cta p{margin-top:12px;max-width:45rem}
+.lm-template .lm-footer-specimen{border-radius:0;margin:0;padding-inline:max(16px,calc((100% - min(1200px,92%))/2))}
+.lm-template .lm-footer-grid h2{font-size:1.1rem;font-weight:700;letter-spacing:normal;margin-bottom:8px}
+.lm-template .lm-site-header [aria-current=page]{text-decoration:underline;text-underline-offset:5px}
+.lm-template .lm-service-card a{color:inherit;text-decoration:underline;text-underline-offset:4px;display:inline-flex;align-items:center;min-height:44px}
+.lm-template .lm-service-card:target{outline:3px solid var(--lab-focus);outline-offset:4px}
+.lm-template .lm-footer-specimen:focus-within{overflow:visible}

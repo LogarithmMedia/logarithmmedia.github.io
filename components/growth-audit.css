@@ -1,0 +1,14 @@
+/* LM-COMP-002 — compose existing field, choice and button primitives. */
+.lm-audit-layout{display:grid;grid-template-columns:minmax(0,.7fr) minmax(0,1fr);gap:clamp(24px,5vw,72px);align-items:start}
+.lm-audit-intro{display:grid;gap:16px}
+.lm-audit-form{display:grid;gap:24px}
+.lm-audit-form>fieldset{border:0;padding:0;margin:0;min-width:0;display:grid;gap:24px}
+.lm-audit-form .fields{gap:20px}
+.lm-audit-choices{display:flex;flex-wrap:wrap;gap:8px 12px}
+.lm-audit-choices .lm-choice{border:1px solid var(--btn-edge);border-radius:var(--lm-radius-pill);padding:6px 14px;max-width:100%;overflow-wrap:anywhere}
+.lm-audit-choices .lm-choice:has(:checked){background:var(--lab-page);border-width:2px;padding:5px 13px}
+.lm-audit-form .lm-field{align-content:start}
+.lm-audit-status{font-size:.875rem;min-height:1.5em;overflow-wrap:anywhere}
+.lm-audit-note{font-size:.875rem;color:var(--lab-muted)}
+@media(max-width:900px){.lm-audit-layout{grid-template-columns:1fr}}
+@media(forced-colors:active){.lm-audit-choices .lm-choice:has(:checked){border-color:Highlight}}

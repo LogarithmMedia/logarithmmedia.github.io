@@ -1,0 +1,19 @@
+/* LM-SEC-005: semantic ordered process, one reading order at every size. */
+.lm-process-container { container: process / inline-size; }
+.lm-process .section-head h2 { max-inline-size: 18ch; margin-block-start: var(--lm-space-3); text-wrap: balance; }
+.lm-process-steps { list-style: none; margin: var(--lm-space-10) 0; padding: 0; display: grid; gap: var(--lm-space-4); }
+.lm-process-steps li { position: relative; min-inline-size: 0; display: grid; grid-template-columns: 3rem minmax(0, 1fr); gap: var(--lm-space-4); align-items: start; }
+.lm-process-steps li:not(:last-child)::before { content: ""; position: absolute; inset-block: 3rem calc(-1 * var(--lm-space-4)); inset-inline-start: 1.5rem; border-inline-start: 1px solid var(--btn-edge); }
+.lm-process-marker { z-index: 1; display: grid; place-items: center; inline-size: 3rem; block-size: 3rem; border-radius: var(--lm-radius-pill); background: var(--lm-blue); color: var(--lm-white); font: 500 .875rem var(--lm-mono); }
+.lm-process-card { display: grid; gap: var(--lm-space-3); min-inline-size: 0; padding: clamp(1rem, 2vw, 1.75rem); background: var(--lab-card); border: 1px solid var(--lab-line); border-radius: var(--lm-radius-card); overflow-wrap: anywhere; }
+.lm-process-card h3 { font-size: var(--lm-h3-candidate); line-height: 1.25; }
+.lm-process-output { border-block-start: 1px solid var(--lab-line); padding-block-start: var(--lm-space-3); color: var(--lab-text); font-weight: 600; }
+.lm-process-output span { display: block; color: var(--lab-muted); font: 500 .75rem/1.6 var(--lm-mono); }
+.lm-process-end { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: var(--lm-space-4); }
+@container process (min-width: 64rem) {
+  .lm-process-steps { grid-template-columns: repeat(4, minmax(0, 1fr)); }
+  .lm-process-steps li { grid-template-columns: minmax(0, 1fr); grid-template-rows: auto 1fr; align-items: stretch; }
+  .lm-process-steps li:not(:last-child)::before { inset-block: 1.5rem auto; inset-inline: 3rem calc(-1 * var(--lm-space-4)); border-inline-start: 0; border-block-start: 1px solid var(--btn-edge); }
+  .lm-process-card { align-content: start; grid-template-rows: auto 1fr auto; }
+}
+@media (forced-colors: active) { .lm-process-marker { border: 1px solid CanvasText; } .lm-process-steps li:not(:last-child)::before { border-color: CanvasText; } }

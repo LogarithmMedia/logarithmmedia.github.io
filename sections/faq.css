@@ -1,0 +1,14 @@
+/* LM-SEC-007: native, non-exclusive disclosure with theme-aware styling. */
+.lm-faq-layout { display:grid; grid-template-columns:repeat(auto-fit,minmax(min(100%,23rem),1fr)); gap:clamp(2rem,6vw,6rem); align-items:start; }
+.lm-faq-intro { display:grid; gap:var(--lm-space-5); min-inline-size:0; }
+.lm-faq-intro h2 { max-inline-size:15ch; text-wrap:balance; }
+.lm-faq-intro .lm-btn { justify-self:start; }
+.lm-faq-list { display:grid; gap:var(--lm-space-3); min-inline-size:0; }
+.lm-faq-list details { background:var(--lab-page); border:1px solid var(--lab-line); border-radius:var(--lm-radius-card); }
+.lm-faq-list summary { cursor:pointer; min-block-size:48px; padding:var(--lm-space-4); font-weight:700; line-height:1.5; }
+.lm-faq-list summary::marker { color:var(--btn-link); }
+.lm-faq-list summary:focus-visible { outline:3px solid var(--lab-focus); outline-offset:2px; border-radius:var(--lm-radius-card); }
+.lm-faq-list details[open] summary { border-block-end:1px solid var(--lab-line); }
+.lm-faq-list details > p { padding:var(--lm-space-4); color:var(--lab-body); margin:0; }
+.lm-faq-list details a { color:var(--btn-link); text-decoration:underline; text-underline-offset:3px; }
+@media (forced-colors:active) { .lm-faq-list details,.lm-faq-list details[open] summary { border-color:CanvasText; } .lm-faq-list summary::marker { color:CanvasText; } .lm-faq-list summary:focus-visible { outline-color:Highlight; } }

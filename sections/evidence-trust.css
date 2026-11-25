@@ -1,0 +1,14 @@
+/* LM-SEC-006: trust section, honest evidence boundary, shared brand palette. */
+.lm-trust { background: var(--lm-ink); color: var(--lm-white); --lab-focus: var(--lm-white); --btn-edge: #c9d2e0; --btn-shadow: var(--lm-shadow-button-dark); --btn-hover-shadow: 2px 2px 0 #c9d2e0; }
+.lm-trust p { color: #c9d2e0; }
+.lm-trust-layout { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 23rem), 1fr)); align-items: start; gap: clamp(2rem, 6vw, 6rem); }
+.lm-trust-intro { display: grid; gap: var(--lm-space-5); min-inline-size: 0; }
+.lm-trust-intro h2 { max-inline-size: 14ch; text-wrap: balance; }
+.lm-trust-intro .lm-btn { justify-self: start; }
+.lm-trust-cards { display: grid; gap: var(--lm-space-3); }
+.lm-trust-cards article { display: grid; gap: var(--lm-space-2); background: var(--lm-ink-2); border: 1px solid #344157; border-radius: var(--lm-radius-card); padding: clamp(1rem, 3vw, 1.75rem); min-inline-size: 0; }
+.lm-trust-cards h3 { font-size: var(--lm-h3-candidate); line-height: 1.25; }
+.lm-trust-cards a { display: inline-flex; align-items: center; min-block-size: 44px; justify-self: start; color: var(--lm-white); text-decoration-thickness: 1px; text-underline-offset: 3px; }
+.lm-trust-note { border-block-start: 1px solid #344157; padding-block-start: var(--lm-space-5); margin-block-start: var(--lm-space-10); }
+.lm-trust-note p { max-inline-size: 70ch; font-size: .875rem; }
+@media (forced-colors: active) { .lm-trust-cards article { border-color: CanvasText; } }

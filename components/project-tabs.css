@@ -1,0 +1,29 @@
+/* LM-COMP-003 — v2 editor surface, with a responsive tablist. */
+.lm-project-editor{background:var(--lm-ink);color:var(--lm-white);border:1px solid #344157;border-radius:var(--lm-radius-card);overflow:hidden;min-width:0}
+.lm-project-tabs{display:flex;overflow-x:auto;border-bottom:1px solid #344157}
+.lm-project-tab{position:relative;flex:none;min-height:54px;border:0;border-inline-end:1px solid #344157;padding:12px clamp(16px,3vw,24px);background:transparent;color:#c9d2e0;font:600 .9375rem/1.4 var(--lm-font);cursor:pointer}
+.lm-project-tab[aria-selected=true]{background:var(--lm-ink-2);color:var(--lm-white)}
+.lm-project-tab[aria-selected=true]::after{content:"";position:absolute;inset:auto 0 0;border-block-end:4px solid #a9c2ff}
+.lm-project-tab:focus-visible,.lm-project-panel:focus-visible{outline:3px solid var(--lm-white);outline-offset:-5px}
+.lm-project-panel[hidden]{display:none}
+.lm-project-body{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);min-height:380px}
+.lm-project-brief,.lm-project-preview{padding:clamp(20px,4vw,48px);display:grid;align-content:start;gap:20px;min-width:0}
+.lm-project-brief{border-inline-end:1px solid #344157}
+.lm-project-editor p,.lm-project-editor dt,.lm-project-editor figcaption{color:#c9d2e0}
+.lm-project-brief h3{font-size:var(--lm-h3-candidate);font-weight:400;line-height:1.3;overflow-wrap:anywhere}
+.lm-project-meta{margin:0;display:grid;grid-template-columns:minmax(0,5rem) minmax(0,1fr);gap:8px 16px;font:500 .875rem/1.5 var(--lm-mono)}
+.lm-project-meta dd{margin:0;overflow-wrap:anywhere}
+.lm-project-preview figure{margin:0;min-width:0;display:grid;gap:12px}
+.lm-project-preview figcaption{font-size:.875rem}
+.lm-project-mock{min-width:0;background:var(--lm-white);color:var(--lm-ink);border-radius:var(--lm-radius-control);padding:clamp(16px,3vw,26px);display:grid;gap:16px}
+.lm-project-mock p{color:var(--lm-body);font-size:.875rem;overflow-wrap:anywhere}
+.lm-project-mock h4{margin:0;font-size:1.2rem;line-height:1.35}
+.lm-project-cards{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:8px}
+.lm-project-cards span{display:grid;min-height:90px;align-content:end;padding:10px;background:var(--lm-blue-soft);color:var(--lm-ink);border-radius:8px;font-weight:700;font-size:.85rem;overflow-wrap:anywhere}
+.lm-project-cards span:nth-child(2),.lm-project-cards span:nth-child(3){background:var(--lm-ink-2);color:var(--lm-white)}
+.lm-project-query{border:1px solid var(--lm-muted-text);padding:12px;border-radius:var(--lm-radius-control);font-size:.875rem;overflow-wrap:anywhere}
+.lm-project-mock .lm-project-ad-title{color:var(--lm-blue)}
+.lm-project-footer{padding:14px clamp(20px,4vw,48px);border-top:1px solid #344157;color:#c9d2e0}
+.lm-project-fallback{padding:16px 24px}
+@media(max-width:860px){.lm-project-body{grid-template-columns:1fr;min-height:0}.lm-project-brief{border-inline-end:0;border-bottom:1px solid #344157}}
+@media(forced-colors:active){.lm-project-tab[aria-selected=true]::after{border-color:Highlight}.lm-project-tab:focus-visible,.lm-project-panel:focus-visible{outline-color:Highlight}.lm-project-mock,.lm-project-cards span{border:1px solid CanvasText}}
