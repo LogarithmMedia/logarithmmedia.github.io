@@ -96,3 +96,118 @@ if ('IntersectionObserver' in window && hsVariants.length) {
   hsMotion.addEventListener('change', syncMotion);
   syncMotion();
 }
+// Native document scrolling drives every stage in both directions.
+const scrollStories = [...document.querySelectorAll('[data-scroll-story]')].map(story => {
+  const stage = story.querySelector('[data-scroll-stage]');
+  const cards = [...story.querySelectorAll('[data-scroll-card]')];
+  const links = [...story.querySelectorAll('[data-scroll-step]')];
+  const clamp = (value, min, max) => Math.max(min, Math.min(max, value));
+  const stack = story.classList.contains('hs-scrollstack');
+  let selected = -1;
+  let enabled = false;
+  let top = 0;
+  let distance = 0;
+  function select(index) {
+    if (index === selected) return;
+    selected = index;
+    cards.forEach((card, i) => {
+      card.classList.toggle('is-active', i === index);
+      card.inert = i !== index;
+      if (i === index) card.removeAttribute('aria-hidden');
+      else card.setAttribute('aria-hidden', 'true');
+      if (i === index) links[i].setAttribute('aria-current', 'step');
+      else links[i].removeAttribute('aria-current');
+    });
+  }
+  function reset() {
+    enabled = false;
+    selected = -1;
+    story.classList.remove('is-scroll');
+    cards.forEach(card => {
+      card.inert = false;
+      card.removeAttribute('aria-hidden');
+      card.classList.remove('is-active');
+    });
+    links.forEach(link => link.removeAttribute('aria-current'));
+  }
+  function measure() {
+    if (!hsMotion.matches || innerHeight < 520) { reset(); return; }
+    story.classList.add('is-scroll');
+    story.style.setProperty('--scroll-count', cards.length - 1);
+    const height = stage.offsetHeight;
+    if (height > innerHeight - 30) { reset(); return; }
+    top = Math.max(12, Math.round((innerHeight - height) / 2));
+    story.style.setProperty('--stage-height', height + 'px');
+    story.style.setProperty('--stage-top', top + 'px');
+    distance = story.offsetHeight - height;
+    enabled = distance > 0;
+    if (!enabled) { reset(); return; }
+    update();
+  }
+  function update() {
+    if (!enabled) return;
+    const progress = clamp((top - story.getBoundingClientRect().top) / distance, 0, 1);
+    const position = progress * (cards.length - 1);
+    story.style.setProperty('--scroll-progress', progress);
+    select(Math.round(position));
+    if (stack) cards.forEach((card, i) => {
+      const offset = i - position;
+      const y = offset > 0 ? Math.min(120, offset * 120) : Math.max(-10, offset * 4);
+      card.style.setProperty('--stack-y', y + '%');
+      card.style.setProperty('--stack-scale', String(1 - Math.min(.12, Math.max(0, -offset) * .055)));
+      card.style.setProperty('--stack-layer', String(i + 1));
+    });
+  }
+  links.forEach((link, i) => link.addEventListener('click', event => {
+    if (!enabled) return;
+    event.preventDefault();
+    const start = story.getBoundingClientRect().top + scrollY - top;
+    window.scrollTo({top: start + distance * i / (cards.length - 1), behavior: 'instant'});
+    update();
+  }));
+  story.closest('.hs-variant')?.querySelector('[data-hs-replay]')?.addEventListener('click', () => { if (enabled) links[0].click(); });
+  return {measure, update};
+});
+if (scrollStories.length) {
+  let pending = false;
+  function updateScrollStories() {
+    if (pending) return;
+    pending = true;
+    requestAnimationFrame(() => {
+      scrollStories.forEach(story => story.update());
+      pending = false;
+    });
+  }
+  const measureStories = () => scrollStories.forEach(story => story.measure());
+  addEventListener('scroll', updateScrollStories, {passive:true});
+  addEventListener('resize', measureStories);
+  hsMotion.addEventListener('change', measureStories);
+  measureStories();
+  document.fonts?.ready.then(measureStories);
+}
+const opening = document.querySelector('[data-loader]');
+if (opening && typeof opening.showModal === 'function') {
+  const replay = document.querySelector('[data-loader-replay]');
+  const skip = opening.querySelector('[data-loader-skip]');
+  let timer;
+  function finish() {
+    clearTimeout(timer);
+    if (opening.open) opening.close();
+  }
+  function play() {
+    if (!hsMotion.matches || opening.open) return;
+    opening.showModal();
+    timer = setTimeout(finish, 2150);
+  }
+  function syncOpening() {
+    replay.hidden = !hsMotion.matches;
+    if (!hsMotion.matches) finish();
+  }
+  opening.addEventListener('cancel', event => { event.preventDefault(); finish(); });
+  opening.addEventListener('close', () => { if (!replay.hidden) replay.focus({preventScroll:true}); });
+  skip.addEventListener('click', finish);
+  replay.addEventListener('click', play);
+  hsMotion.addEventListener('change', syncOpening);
+  syncOpening();
+  play();
+}
