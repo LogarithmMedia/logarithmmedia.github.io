@@ -3,7 +3,7 @@
     "collection":  "LM-MEDIA-001",
     "title":  "Service illustrations",
     "release_status":  "draft",
-    "notes":  "A variants are crops of the generated contact sheet, not independently generated final illustrations. B/C variants are detailed draft renders. Image files imported and checksum verified. No asset approved for production.",
+    "notes":  "Nine contact-sheet crops and eleven standalone candidate renders. All imported files checksum verified. No asset approved for production.",
     "assets":  [
                    {
                        "id":  "LM-MEDIA-SVC-001-A",
@@ -125,6 +125,24 @@
                        "sha256":  "a4b4878b8bbafcd92b824f297746e286075372f75b33b2637c5b86a042e92c8a"
                    },
                    {
+                       "id":  "LM-MEDIA-SVC-003-C",
+                       "service":  "sem",
+                       "title":  "Search engine marketing",
+                       "variant":  "C",
+                       "description":  "Standalone detailed illustration",
+                       "alt":  "Paid and organic search pathways converging on a search results page",
+                       "format":  "webp",
+                       "width":  1200,
+                       "height":  800,
+                       "alpha":  true,
+                       "status":  "draft",
+                       "availability":  "available",
+                       "path":  "assets/services/LM-MEDIA-SVC-003-C-sem.webp",
+                       "bytes":  87238,
+                       "sha256":  "88fac2fd406eef7ded6712ad90f813f5a194764d55e367a0eeda68b32620a930",
+                       "source":  "a_detailed_3d_isometric_style_digital_illustration.png"
+                   },
+                   {
                        "id":  "LM-MEDIA-SVC-004-A",
                        "service":  "social",
                        "title":  "Social media marketing",
@@ -140,6 +158,24 @@
                        "path":  "assets/services/LM-MEDIA-SVC-004-A-social.webp",
                        "bytes":  8114,
                        "sha256":  "291088f7cef4660127551a31b79ce33bf22c72b867f91b0abe7722c410d77e6c"
+                   },
+                   {
+                       "id":  "LM-MEDIA-SVC-004-B",
+                       "service":  "social",
+                       "title":  "Social media marketing",
+                       "variant":  "B",
+                       "description":  "Standalone detailed illustration",
+                       "alt":  "Smartphone with social posts and engagement symbols",
+                       "format":  "webp",
+                       "width":  1200,
+                       "height":  800,
+                       "alpha":  true,
+                       "status":  "draft",
+                       "availability":  "available",
+                       "path":  "assets/services/LM-MEDIA-SVC-004-B-social.webp",
+                       "bytes":  147410,
+                       "sha256":  "fc2beb4e77e381940eb5ee9902990997353b52382f29f5bec3f9151761b6fe4d",
+                       "source":  "a_detailed_3d_isometric_marketing_social_media_ill.png"
                    },
                    {
                        "id":  "LM-MEDIA-SVC-005-A",
@@ -193,6 +229,24 @@
                        "sha256":  "4c0f1de7deb823c19136929f0c900ac497e6d44ecb51e6dc6f1c9f373918bae9"
                    },
                    {
+                       "id":  "LM-MEDIA-SVC-006-B",
+                       "service":  "email",
+                       "title":  "Email marketing",
+                       "variant":  "B",
+                       "description":  "Standalone detailed illustration",
+                       "alt":  "Open envelope connected to an automated message sequence",
+                       "format":  "webp",
+                       "width":  1200,
+                       "height":  800,
+                       "alpha":  true,
+                       "status":  "draft",
+                       "availability":  "available",
+                       "path":  "assets/services/LM-MEDIA-SVC-006-B-email.webp",
+                       "bytes":  128260,
+                       "sha256":  "6931cf12aa43d0b5c769fc6c58d7047f419b93b3058762ad1088c1ff5806d286",
+                       "source":  "a_detailed_isometric_3d_style_illustration_on_a_tr.png"
+                   },
+                   {
                        "id":  "LM-MEDIA-SVC-007-A",
                        "service":  "research",
                        "title":  "Market research",
@@ -208,6 +262,24 @@
                        "path":  "assets/services/LM-MEDIA-SVC-007-A-research.webp",
                        "bytes":  11050,
                        "sha256":  "968a806bc805c6e9cee2abb07c438dd53c980062b8d24effc04b59edf6656c70"
+                   },
+                   {
+                       "id":  "LM-MEDIA-SVC-007-B",
+                       "service":  "research",
+                       "title":  "Market research",
+                       "variant":  "B",
+                       "description":  "Standalone detailed illustration",
+                       "alt":  "Analytical dashboard with survey panels and magnifying glass",
+                       "format":  "webp",
+                       "width":  1200,
+                       "height":  800,
+                       "alpha":  true,
+                       "status":  "draft",
+                       "availability":  "available",
+                       "path":  "assets/services/LM-MEDIA-SVC-007-B-research.webp",
+                       "bytes":  103860,
+                       "sha256":  "869671ac427ec844e730eaf0ed9f6551847bc9efaa0c250efced5368757e8bd7",
+                       "source":  "a_high_detail_isometric_3d_illustration_on_a_trans.png"
                    },
                    {
                        "id":  "LM-MEDIA-SVC-008-A",
@@ -259,6 +331,24 @@
                        "path":  "assets/services/LM-MEDIA-SVC-009-A-ecommerce.webp",
                        "bytes":  13456,
                        "sha256":  "5071521b3725dd8fa2b1f34d362abee29a851f30406fb5f2a0d004049158e876"
+                   },
+                   {
+                       "id":  "LM-MEDIA-SVC-009-B",
+                       "service":  "ecommerce",
+                       "title":  "E-commerce development",
+                       "variant":  "B",
+                       "description":  "Standalone detailed illustration",
+                       "alt":  "Digital storefront with product cards, shopping cart and checkout",
+                       "format":  "webp",
+                       "width":  1200,
+                       "height":  800,
+                       "alpha":  true,
+                       "status":  "draft",
+                       "availability":  "available",
+                       "path":  "assets/services/LM-MEDIA-SVC-009-B-ecommerce.webp",
+                       "bytes":  117078,
+                       "sha256":  "033e1e59d0e1c5c517d64c6b7e3634a80796bbdccff8f1b2559141af5dd72ee6",
+                       "source":  "a_detailed_isometric_3d_e_commerce_illustration_on.png"
                    }
                ]
 }
