@@ -6,6 +6,9 @@
 .hs-variant-nav nav{display:flex;flex-wrap:wrap;gap:12px 24px;padding-block:18px}
 .hs-variant{padding-block:clamp(24px,5vw,72px);border-top:1px solid var(--lab-line);scroll-margin-top:1rem}
 .hs-review{display:flex;justify-content:space-between;align-items:baseline;gap:12px;flex-wrap:wrap;margin-bottom:18px}
+.hs-section-id{margin:0 0 6px}
+.hs-catalog-ids{list-style:none;padding:0;margin:0;display:grid;gap:8px}
+.hs-catalog-ids a{color:var(--btn-link);overflow-wrap:anywhere;text-underline-offset:.2em}
 .hs-review h2{font-size:clamp(1.2rem,2vw,1.7rem);font-weight:700;letter-spacing:normal}
 .hs-specimen{padding:var(--hs-pad);background:var(--lab-card);border:1px solid var(--lab-line);border-radius:var(--lm-radius-card);min-width:0}
 .hs-heading{max-width:37rem;margin-bottom:var(--hs-gap)}
