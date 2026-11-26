@@ -65,7 +65,6 @@
 .lm-home-hero-audit .lm-choice:has(input:focus-visible) { outline: 3px solid var(--lab-focus); outline-offset: 3px; }
 .lm-home-hero-audit .lm-audit-choices .lm-choice:has(:checked) { background: var(--lm-blue); color: var(--lm-white); border-color: var(--lm-blue); }
 .lm-home-hero-audit .lm-hero-demo { text-align: end; font-size: .75rem; flex: 1; min-width: 9rem; }
-.lm-home-hero-audit .lm-btn.primary { box-shadow: none; }
 .lm-home-hero-audit .lm-audit-form, .lm-home-hero-audit .lm-audit-form > fieldset { gap: var(--lm-space-3); }
 .lm-home-hero-audit .lm-audit-choices { gap: 8px; }
 .lm-home-hero-audit .lm-choice { font-size: .875rem; gap: 8px; min-height: 44px; padding-inline: 12px; }

@@ -18,9 +18,6 @@
 .lm-audit-float .lm-field input {
   background: color-mix(in srgb, var(--lab-card) 78%, var(--lab-page));
 }
-.lm-audit-float .lm-btn.primary {
-  box-shadow: 0 6px 20px -6px var(--lm-blue-2);
-}
 @container home-hero (min-width: 56rem) {
   .lm-audit-float { transform: translateY(-8px); }
   @media (prefers-reduced-motion: no-preference) and (forced-colors: none) {
@@ -44,5 +41,4 @@
     box-shadow: none;
     transform: none;
   }
-  .lm-audit-float .lm-btn.primary { box-shadow: none; }
 }

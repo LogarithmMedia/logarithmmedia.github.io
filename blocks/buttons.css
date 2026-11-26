@@ -21,4 +21,4 @@
 .lm-btn[aria-busy="true"]{cursor:progress}
 .lm-btn .spinner{animation:lm-spin 900ms linear infinite}
 @keyframes lm-spin{to{transform:rotate(360deg)}}
-@media(prefers-reduced-motion:reduce){.lm-btn{transition:none}.lm-btn .spinner{animation:none}.lm-btn:not(:disabled):hover,.lm-btn:not(:disabled):active,.lm-btn.is-pressed{transform:none}}
+@media(prefers-reduced-motion:reduce){.lm-btn{transition:none}.lm-btn .spinner{animation:none}.lm-btn:not(:disabled):not([aria-disabled="true"]):hover,.lm-btn:not(:disabled):not([aria-disabled="true"]):active,.lm-btn.demo-hover,.lm-btn.demo-pressed,.lm-btn.is-pressed{transform:none}}
