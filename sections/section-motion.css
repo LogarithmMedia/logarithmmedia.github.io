@@ -1,0 +1,10 @@
+/* Review-only controls; the specimens remain static without JavaScript. */
+.lm-section-motion-tools {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: var(--lm-space-3);
+  padding-block: var(--lm-space-4);
+}
+.lm-section-motion-tools[hidden] { display: none; }
+.lm-section-motion-tools p { font-size: .875rem; margin: 0; color: var(--lab-muted); }
