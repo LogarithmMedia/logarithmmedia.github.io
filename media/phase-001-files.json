@@ -1,0 +1,263 @@
+[
+  {
+    "id": "LM-MEDIA-SVC-001-A",
+    "collection": "LM-MEDIA-001",
+    "service": "seo",
+    "title": "SEO",
+    "variant": "A",
+    "description": "Fresh standalone 3D illustration; official navy, cobalt and cool-white art direction.",
+    "alt": "Magnifying glass over search result cards with abstract ranking bars",
+    "format": "webp",
+    "width": 1200,
+    "height": 800,
+    "alpha": true,
+    "status": "draft",
+    "availability": "available",
+    "path": "assets/services/LM-MEDIA-SVC-001-A-seo.webp",
+    "bytes": 59508,
+    "sha256": "babe6a5e2b8488e5a3306c32cc5da8a765bfcfacbd4306cad4182aca40a0574c",
+    "source_type": "ai-generated standalone illustration",
+    "transparency": {
+      "transparent_pixel_percent": 62.37,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "edge_alpha_max": 0
+    }
+  },
+  {
+    "id": "LM-MEDIA-SVC-002-A",
+    "collection": "LM-MEDIA-001",
+    "service": "ppc",
+    "title": "PPC advertising",
+    "variant": "A",
+    "description": "Fresh standalone 3D illustration; official navy, cobalt and cool-white art direction.",
+    "alt": "Campaign card with precision target and cursor",
+    "format": "webp",
+    "width": 1200,
+    "height": 800,
+    "alpha": true,
+    "status": "draft",
+    "availability": "available",
+    "path": "assets/services/LM-MEDIA-SVC-002-A-ppc.webp",
+    "bytes": 48580,
+    "sha256": "a042ee7832b216effcfb2ce26941d70f5ebaecc70698638cb2903638f8e57f1e",
+    "source_type": "ai-generated standalone illustration",
+    "transparency": {
+      "transparent_pixel_percent": 61.04,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "edge_alpha_max": 0
+    }
+  },
+  {
+    "id": "LM-MEDIA-SVC-003-A",
+    "collection": "LM-MEDIA-001",
+    "service": "sem",
+    "title": "Search engine marketing",
+    "variant": "A",
+    "description": "Fresh standalone 3D illustration; official navy, cobalt and cool-white art direction.",
+    "alt": "Search results with paired pathways connecting paid and organic search",
+    "format": "webp",
+    "width": 1200,
+    "height": 800,
+    "alpha": true,
+    "status": "draft",
+    "availability": "available",
+    "path": "assets/services/LM-MEDIA-SVC-003-A-sem.webp",
+    "bytes": 63014,
+    "sha256": "71b33af5ff31dd0fc1b960f4f0e9b9e3b4e1b66fb2eddebd224ee370ead3109c",
+    "source_type": "ai-generated standalone illustration",
+    "transparency": {
+      "transparent_pixel_percent": 56.72,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "edge_alpha_max": 0
+    }
+  },
+  {
+    "id": "LM-MEDIA-SVC-004-A",
+    "collection": "LM-MEDIA-001",
+    "service": "social",
+    "title": "Social media marketing",
+    "variant": "A",
+    "description": "Fresh standalone 3D illustration; official navy, cobalt and cool-white art direction.",
+    "alt": "Layered social content cards with engagement symbols",
+    "format": "webp",
+    "width": 1200,
+    "height": 800,
+    "alpha": true,
+    "status": "draft",
+    "availability": "available",
+    "path": "assets/services/LM-MEDIA-SVC-004-A-social.webp",
+    "bytes": 72002,
+    "sha256": "abb5c668891ce8b90932f5a92935273bb8e42a1ec9fa446aed8c127321f7b3c6",
+    "source_type": "ai-generated standalone illustration",
+    "transparency": {
+      "transparent_pixel_percent": 49.55,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "edge_alpha_max": 0
+    }
+  },
+  {
+    "id": "LM-MEDIA-SVC-005-A",
+    "collection": "LM-MEDIA-001",
+    "service": "content",
+    "title": "Content marketing",
+    "variant": "A",
+    "description": "Fresh standalone 3D illustration; official navy, cobalt and cool-white art direction.",
+    "alt": "Editorial document, media card and content calendar",
+    "format": "webp",
+    "width": 1200,
+    "height": 800,
+    "alpha": true,
+    "status": "draft",
+    "availability": "available",
+    "path": "assets/services/LM-MEDIA-SVC-005-A-content.webp",
+    "bytes": 63104,
+    "sha256": "5a7aa9ae9961262809e703fea822c74f0e76564fd772c23800b7e4a4077392cd",
+    "source_type": "ai-generated standalone illustration",
+    "transparency": {
+      "transparent_pixel_percent": 61.05,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "edge_alpha_max": 0
+    }
+  },
+  {
+    "id": "LM-MEDIA-SVC-006-A",
+    "collection": "LM-MEDIA-001",
+    "service": "email",
+    "title": "Email marketing",
+    "variant": "A",
+    "description": "Fresh standalone 3D illustration; official navy, cobalt and cool-white art direction.",
+    "alt": "Envelope connected to a sequence of message cards",
+    "format": "webp",
+    "width": 1200,
+    "height": 800,
+    "alpha": true,
+    "status": "draft",
+    "availability": "available",
+    "path": "assets/services/LM-MEDIA-SVC-006-A-email.webp",
+    "bytes": 70366,
+    "sha256": "1776250f9db41b0c689619eb93b85d17f84d2fff94f7a364c81adf3cc783e316",
+    "source_type": "ai-generated standalone illustration",
+    "transparency": {
+      "transparent_pixel_percent": 61.68,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "edge_alpha_max": 0
+    }
+  },
+  {
+    "id": "LM-MEDIA-SVC-007-A",
+    "collection": "LM-MEDIA-001",
+    "service": "research",
+    "title": "Market research",
+    "variant": "A",
+    "description": "Fresh standalone 3D illustration; official navy, cobalt and cool-white art direction.",
+    "alt": "Analytical lens over research charts and audience cards",
+    "format": "webp",
+    "width": 1200,
+    "height": 800,
+    "alpha": true,
+    "status": "draft",
+    "availability": "available",
+    "path": "assets/services/LM-MEDIA-SVC-007-A-research.webp",
+    "bytes": 74844,
+    "sha256": "3172fa239bbe106e0e09649aeace4af5b4ddeb50e2601775aa9704e6a49be22e",
+    "source_type": "ai-generated standalone illustration",
+    "transparency": {
+      "transparent_pixel_percent": 55.11,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "edge_alpha_max": 0
+    }
+  },
+  {
+    "id": "LM-MEDIA-SVC-008-A",
+    "collection": "LM-MEDIA-001",
+    "service": "web",
+    "title": "Web development",
+    "variant": "A",
+    "description": "Fresh standalone 3D illustration; official navy, cobalt and cool-white art direction.",
+    "alt": "Responsive desktop and mobile interfaces with code symbols",
+    "format": "webp",
+    "width": 1200,
+    "height": 800,
+    "alpha": true,
+    "status": "draft",
+    "availability": "available",
+    "path": "assets/services/LM-MEDIA-SVC-008-A-web.webp",
+    "bytes": 66796,
+    "sha256": "bf5a4e067b2ff0ebeedd06904508da02184f44c5848add745f5845605652b7d6",
+    "source_type": "ai-generated standalone illustration",
+    "transparency": {
+      "transparent_pixel_percent": 56.23,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "edge_alpha_max": 0
+    }
+  },
+  {
+    "id": "LM-MEDIA-SVC-009-A",
+    "collection": "LM-MEDIA-001",
+    "service": "ecommerce",
+    "title": "E-commerce development",
+    "variant": "A",
+    "description": "Fresh standalone 3D illustration; official navy, cobalt and cool-white art direction.",
+    "alt": "Digital storefront with product display and shopping cart",
+    "format": "webp",
+    "width": 1200,
+    "height": 800,
+    "alpha": true,
+    "status": "draft",
+    "availability": "available",
+    "path": "assets/services/LM-MEDIA-SVC-009-A-ecommerce.webp",
+    "bytes": 71712,
+    "sha256": "f986df0262a4c789bed3be93c7b28da5a3dc176effe60bfd520a75cc027a39a8",
+    "source_type": "ai-generated standalone illustration",
+    "transparency": {
+      "transparent_pixel_percent": 58.64,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "edge_alpha_max": 0
+    }
+  }
+]
