@@ -3,7 +3,7 @@
   "collection": "LM-MEDIA",
   "title": "Media Library",
   "release_status": "draft",
-  "notes": "Clean restart: nine transparent service illustrations, four transparent challenge illustrations, six transparent conceptual project mockups, four intentional full-bleed customer segment photographs, four transparent growth framework illustrations, five transparent process illustrations, and six intentional full-bleed editorial covers. Draft only; owner approval required before production use.",
+  "notes": "Clean restart: nine transparent service illustrations, four transparent challenge illustrations, six transparent conceptual project mockups, four intentional full-bleed customer segment photographs, four transparent growth framework illustrations, five transparent process illustrations, six intentional full-bleed editorial covers, and four opaque abstract brand backgrounds. Draft only; owner approval required before production use.",
   "assets": [
     {
       "id": "LM-MEDIA-SVC-001-A",
@@ -1107,6 +1107,106 @@
       ],
       "background_policy": "intentional full-bleed photography",
       "review_notes": "Readable strategy board and book labels in scene; natural plant accents."
+    },
+    {
+      "id": "LM-MEDIA-BG-001-A",
+      "collection": "LM-MEDIA-008",
+      "service": "dot-matrix",
+      "title": "Mathematical dot wave",
+      "variant": "A",
+      "description": "A sweeping mathematical dot wave and faint construction lines, with quiet space toward the upper left. AI-generated abstract background, color-graded to the official brand ramp.",
+      "alt": "A sweeping mathematical dot wave and faint construction lines, with quiet space toward the upper left.",
+      "format": "webp",
+      "width": 1600,
+      "height": 900,
+      "alpha": false,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/backgrounds/LM-MEDIA-BG-001-A-dot-matrix.webp",
+      "bytes": 99840,
+      "sha256": "fa243b177f9b939b033c5280956899f648d23fb5f4fabd7fc58d4988ea6e7370",
+      "source_type": "AI-generated abstract artwork; palette-normalized export",
+      "usage": [
+        "global"
+      ],
+      "background_policy": "intentional opaque full-bleed background",
+      "theme": "dark surface",
+      "review_notes": "Brand-ramp color grade removes cyan highlights; gradients and WebP compression produce intermediate shades. Decorative CSS background or empty alt when used decoratively. Check text contrast at the actual placement; no automatic light-mode recolor. Native source 1672 × 941, exported 1600 × 900 without enlargement."
+    },
+    {
+      "id": "LM-MEDIA-BG-002-A",
+      "collection": "LM-MEDIA-008",
+      "service": "logarithmic-curves",
+      "title": "Logarithmic curves",
+      "variant": "A",
+      "description": "A spiral-inspired curve and translucent ribbons on a deep navy field. AI-generated abstract background, color-graded to the official brand ramp.",
+      "alt": "A spiral-inspired curve and translucent ribbons on a deep navy field.",
+      "format": "webp",
+      "width": 1600,
+      "height": 900,
+      "alpha": false,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/backgrounds/LM-MEDIA-BG-002-A-logarithmic-curves.webp",
+      "bytes": 130322,
+      "sha256": "4d1918305f7941b8e2f1943528f59d5500c88f02f53e56a036f3078f7cf3c345",
+      "source_type": "AI-generated abstract artwork; palette-normalized export",
+      "usage": [
+        "global"
+      ],
+      "background_policy": "intentional opaque full-bleed background",
+      "theme": "dark surface",
+      "review_notes": "Brand-ramp color grade removes cyan highlights; gradients and WebP compression produce intermediate shades. Decorative CSS background or empty alt when used decoratively. Check text contrast at the actual placement; no automatic light-mode recolor. Native source 1672 × 941, exported 1600 × 900 without enlargement."
+    },
+    {
+      "id": "LM-MEDIA-BG-003-A",
+      "collection": "LM-MEDIA-008",
+      "service": "technical-grid",
+      "title": "Technical network",
+      "variant": "A",
+      "description": "A connected node mesh and flowing dotted terrain, with open upper-center space. AI-generated abstract background, color-graded to the official brand ramp.",
+      "alt": "A connected node mesh and flowing dotted terrain, with open upper-center space.",
+      "format": "webp",
+      "width": 1600,
+      "height": 900,
+      "alpha": false,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/backgrounds/LM-MEDIA-BG-003-A-technical-grid.webp",
+      "bytes": 180918,
+      "sha256": "51e1b509e411ebd4773dd51fe7fee9d10ad3cfccccc2cb5a41f489d0bb662fd1",
+      "source_type": "AI-generated abstract artwork; palette-normalized export",
+      "usage": [
+        "global"
+      ],
+      "background_policy": "intentional opaque full-bleed background",
+      "theme": "dark surface",
+      "review_notes": "Brand-ramp color grade removes cyan highlights; gradients and WebP compression produce intermediate shades. Decorative CSS background or empty alt when used decoratively. Check text contrast at the actual placement; no automatic light-mode recolor. Native source 1672 × 941, exported 1600 × 900 without enlargement."
+    },
+    {
+      "id": "LM-MEDIA-BG-004-A",
+      "collection": "LM-MEDIA-008",
+      "service": "geometric-architecture",
+      "title": "Geometric architecture",
+      "variant": "A",
+      "description": "Overlapping circular and diagonal architectural planes with fine construction arcs. AI-generated abstract background, color-graded to the official brand ramp.",
+      "alt": "Overlapping circular and diagonal architectural planes with fine construction arcs.",
+      "format": "webp",
+      "width": 1600,
+      "height": 900,
+      "alpha": false,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/backgrounds/LM-MEDIA-BG-004-A-geometric-architecture.webp",
+      "bytes": 78396,
+      "sha256": "fd112a1c4b0108b8ad2a05990adba1c4785fc4820f5e24c3fd7f0f099631f104",
+      "source_type": "AI-generated abstract artwork; palette-normalized export",
+      "usage": [
+        "global"
+      ],
+      "background_policy": "intentional opaque full-bleed background",
+      "theme": "dark surface",
+      "review_notes": "Brand-ramp color grade removes cyan highlights; gradients and WebP compression produce intermediate shades. Decorative CSS background or empty alt when used decoratively. Check text contrast at the actual placement; no automatic light-mode recolor. Native source 1672 × 941, exported 1600 × 900 without enlargement."
     }
   ],
   "collections": [
@@ -1137,6 +1237,10 @@
     {
       "id": "LM-MEDIA-007",
       "title": "Editorial covers"
+    },
+    {
+      "id": "LM-MEDIA-008",
+      "title": "Abstract Brand Backgrounds"
     }
   ]
 }
