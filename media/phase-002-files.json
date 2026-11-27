@@ -1,0 +1,122 @@
+[
+  {
+    "id": "LM-MEDIA-CHL-001-A",
+    "collection": "LM-MEDIA-002",
+    "section": "LM-SEC-003",
+    "service": "visibility",
+    "title": "Low online visibility",
+    "variant": "A",
+    "description": "Fresh standalone challenge illustration in navy, cobalt and cool white.",
+    "alt": "Browser search interface and magnifying glass with a slashed eye symbol",
+    "format": "webp",
+    "width": 1200,
+    "height": 800,
+    "alpha": true,
+    "status": "draft",
+    "availability": "available",
+    "path": "assets/challenges/LM-MEDIA-CHL-001-A-visibility.webp",
+    "bytes": 61180,
+    "sha256": "ad317b13efaac0c38a1d195f8ca221216df30101bc685bfa7733398ef4d6cd63",
+    "source_type": "ai-generated standalone illustration",
+    "transparency": {
+      "transparent_pixel_percent": 49.03,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "edge_alpha_max": 0
+    }
+  },
+  {
+    "id": "LM-MEDIA-CHL-002-A",
+    "collection": "LM-MEDIA-002",
+    "section": "LM-SEC-003",
+    "service": "conversion",
+    "title": "Traffic without conversions",
+    "variant": "A",
+    "description": "Fresh standalone challenge illustration in navy, cobalt and cool white.",
+    "alt": "Visitor funnel with an interrupted path to an empty shopping cart",
+    "format": "webp",
+    "width": 1200,
+    "height": 800,
+    "alpha": true,
+    "status": "draft",
+    "availability": "available",
+    "path": "assets/challenges/LM-MEDIA-CHL-002-A-conversion.webp",
+    "bytes": 78238,
+    "sha256": "fe794e5c5abd1945ad7642b9defed31da922e9732166ddc4e008da4d097968fc",
+    "source_type": "ai-generated standalone illustration",
+    "transparency": {
+      "transparent_pixel_percent": 72.25,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "edge_alpha_max": 0
+    }
+  },
+  {
+    "id": "LM-MEDIA-CHL-003-A",
+    "collection": "LM-MEDIA-002",
+    "section": "LM-SEC-003",
+    "service": "ad-spend",
+    "title": "Inefficient advertising spend",
+    "variant": "A",
+    "description": "Fresh standalone challenge illustration in navy, cobalt and cool white.",
+    "alt": "Megaphone beside descending abstract performance bars and a downward arrow",
+    "format": "webp",
+    "width": 1200,
+    "height": 800,
+    "alpha": true,
+    "status": "draft",
+    "availability": "available",
+    "path": "assets/challenges/LM-MEDIA-CHL-003-A-ad-spend.webp",
+    "bytes": 60084,
+    "sha256": "49815f85d724c85da69c0253b727f996aa79333932d2ff48d67ce1201b7e574f",
+    "source_type": "ai-generated standalone illustration",
+    "transparency": {
+      "transparent_pixel_percent": 68.71,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "edge_alpha_max": 0
+    }
+  },
+  {
+    "id": "LM-MEDIA-CHL-004-A",
+    "collection": "LM-MEDIA-002",
+    "section": "LM-SEC-003",
+    "service": "disconnected",
+    "title": "Disconnected marketing systems",
+    "variant": "A",
+    "description": "Fresh standalone challenge illustration in navy, cobalt and cool white.",
+    "alt": "Separated marketing puzzle blocks and a broken chain link",
+    "format": "webp",
+    "width": 1200,
+    "height": 800,
+    "alpha": true,
+    "status": "draft",
+    "availability": "available",
+    "path": "assets/challenges/LM-MEDIA-CHL-004-A-disconnected.webp",
+    "bytes": 75630,
+    "sha256": "d5d7086a29ad2db8dec088f1182f479f9233bfd894a2dd7b2132d566c7593cc1",
+    "source_type": "ai-generated standalone illustration",
+    "transparency": {
+      "transparent_pixel_percent": 59.8,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "edge_alpha_max": 0
+    }
+  }
+]
