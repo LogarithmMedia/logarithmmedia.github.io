@@ -1,0 +1,188 @@
+[
+  {
+    "id": "LM-MEDIA-WRK-001-A",
+    "collection": "LM-MEDIA-003",
+    "section": "LM-SEC-005",
+    "service": "responsive-web",
+    "title": "Responsive website showcase",
+    "variant": "A",
+    "description": "AI-generated conceptual project mockup. Not actual client work or measured performance.",
+    "alt": "Desktop monitor, tablet and phone displaying a coordinated website design",
+    "format": "webp",
+    "width": 1536,
+    "height": 1024,
+    "alpha": true,
+    "status": "draft",
+    "availability": "available",
+    "path": "assets/projects/LM-MEDIA-WRK-001-A-responsive-web.webp",
+    "bytes": 119424,
+    "sha256": "f8375a362fb822349d72dd303cb55a7c7befcce72cd6ff57e596f53220466de4",
+    "source_type": "ai-generated conceptual mockup",
+    "usage_boundary": "Illustrative concept only; do not attribute to clients or use as evidence of results.",
+    "transparency": {
+      "transparent_pixel_percent": 34.29,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "edge_alpha_max": 0
+    }
+  },
+  {
+    "id": "LM-MEDIA-WRK-002-A",
+    "collection": "LM-MEDIA-003",
+    "section": "LM-SEC-005",
+    "service": "ecommerce",
+    "title": "E-commerce storefront",
+    "variant": "A",
+    "description": "AI-generated conceptual project mockup. Not actual client work or measured performance.",
+    "alt": "Laptop and mobile phone displaying a conceptual online product catalog",
+    "format": "webp",
+    "width": 1536,
+    "height": 1024,
+    "alpha": true,
+    "status": "draft",
+    "availability": "available",
+    "path": "assets/projects/LM-MEDIA-WRK-002-A-ecommerce.webp",
+    "bytes": 158806,
+    "sha256": "be0e6010373ff1572d8349a32bff78f061d4b82f94f6075462afc5fe1f6e1673",
+    "source_type": "ai-generated conceptual mockup",
+    "usage_boundary": "Illustrative concept only; do not attribute to clients or use as evidence of results.",
+    "transparency": {
+      "transparent_pixel_percent": 36.37,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "edge_alpha_max": 0
+    }
+  },
+  {
+    "id": "LM-MEDIA-WRK-003-A",
+    "collection": "LM-MEDIA-003",
+    "section": "LM-SEC-005",
+    "service": "paid-media",
+    "title": "Paid advertising campaign",
+    "variant": "A",
+    "description": "AI-generated conceptual project mockup. Not actual client work or measured performance.",
+    "alt": "Campaign creative, targeting symbol and illustrative advertising dashboard",
+    "format": "webp",
+    "width": 1536,
+    "height": 1024,
+    "alpha": true,
+    "status": "draft",
+    "availability": "available",
+    "path": "assets/projects/LM-MEDIA-WRK-003-A-paid-media.webp",
+    "bytes": 149888,
+    "sha256": "7e46110ce65f49946b0a0e6412de57ac9630935dd8bbc8892d1c8ebfc60f42c7",
+    "source_type": "ai-generated conceptual mockup",
+    "usage_boundary": "Illustrative concept only; do not attribute to clients or use as evidence of results.",
+    "transparency": {
+      "transparent_pixel_percent": 33.38,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "edge_alpha_max": 0
+    }
+  },
+  {
+    "id": "LM-MEDIA-WRK-004-A",
+    "collection": "LM-MEDIA-003",
+    "section": "LM-SEC-005",
+    "service": "social-media",
+    "title": "Social media campaign",
+    "variant": "A",
+    "description": "AI-generated conceptual project mockup. Not actual client work or measured performance.",
+    "alt": "Coordinated social content cards, mobile screens and campaign imagery",
+    "format": "webp",
+    "width": 1536,
+    "height": 1024,
+    "alpha": true,
+    "status": "draft",
+    "availability": "available",
+    "path": "assets/projects/LM-MEDIA-WRK-004-A-social-media.webp",
+    "bytes": 145970,
+    "sha256": "18e66e8251e7fec304be2a290cdf5aa3e8895d0854f46d37b3976d1d9b3f778e",
+    "source_type": "ai-generated conceptual mockup",
+    "usage_boundary": "Illustrative concept only; do not attribute to clients or use as evidence of results.",
+    "transparency": {
+      "transparent_pixel_percent": 33.55,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "edge_alpha_max": 0
+    }
+  },
+  {
+    "id": "LM-MEDIA-WRK-005-A",
+    "collection": "LM-MEDIA-003",
+    "section": "LM-SEC-005",
+    "service": "lead-generation",
+    "title": "Lead generation journey",
+    "variant": "A",
+    "description": "AI-generated conceptual project mockup. Not actual client work or measured performance.",
+    "alt": "Responsive landing page and connected conceptual lead capture and follow-up cards",
+    "format": "webp",
+    "width": 1536,
+    "height": 1024,
+    "alpha": true,
+    "status": "draft",
+    "availability": "available",
+    "path": "assets/projects/LM-MEDIA-WRK-005-A-lead-generation.webp",
+    "bytes": 144578,
+    "sha256": "93090213eb121fdda55ec184db3776d6ad232dde3a13d6e9f24f035d644354a4",
+    "source_type": "ai-generated conceptual mockup",
+    "usage_boundary": "Illustrative concept only; do not attribute to clients or use as evidence of results.",
+    "transparency": {
+      "transparent_pixel_percent": 35.4,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "edge_alpha_max": 0
+    }
+  },
+  {
+    "id": "LM-MEDIA-WRK-006-A",
+    "collection": "LM-MEDIA-003",
+    "section": "LM-SEC-005",
+    "service": "analytics",
+    "title": "Performance reporting",
+    "variant": "A",
+    "description": "AI-generated conceptual project mockup. Not actual client work or measured performance.",
+    "alt": "Desktop and tablet with illustrative analytics charts and reporting interface",
+    "format": "webp",
+    "width": 1536,
+    "height": 1024,
+    "alpha": true,
+    "status": "draft",
+    "availability": "available",
+    "path": "assets/projects/LM-MEDIA-WRK-006-A-analytics.webp",
+    "bytes": 116084,
+    "sha256": "2443734c0ecb4bd6b3ca3f65d269fc70488a6d872bf0601d59a8d2106e13b371",
+    "source_type": "ai-generated conceptual mockup",
+    "usage_boundary": "Illustrative concept only; do not attribute to clients or use as evidence of results.",
+    "transparency": {
+      "transparent_pixel_percent": 39.91,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "edge_alpha_max": 0
+    }
+  }
+]
