@@ -3,7 +3,7 @@
   "collection": "LM-MEDIA",
   "title": "Media Library",
   "release_status": "draft",
-  "notes": "Clean restart: nine transparent service illustrations, four transparent challenge illustrations, six transparent conceptual project mockups, four intentional full-bleed customer segment photographs, four transparent growth framework illustrations, five transparent process illustrations, six intentional full-bleed editorial covers, and four opaque abstract brand backgrounds. Draft only; owner approval required before production use.",
+  "notes": "Clean restart: nine transparent service illustrations, four transparent challenge illustrations, six transparent conceptual project mockups, four intentional full-bleed customer segment photographs, four transparent growth framework illustrations, five transparent process illustrations, six intentional full-bleed editorial covers, four opaque abstract brand backgrounds, and three opaque social sharing cover bases. Draft only; owner approval required before production use.",
   "assets": [
     {
       "id": "LM-MEDIA-SVC-001-A",
@@ -1207,6 +1207,87 @@
       "background_policy": "intentional opaque full-bleed background",
       "theme": "dark surface",
       "review_notes": "Brand-ramp color grade removes cyan highlights; gradients and WebP compression produce intermediate shades. Decorative CSS background or empty alt when used decoratively. Check text contrast at the actual placement; no automatic light-mode recolor. Native source 1672 × 941, exported 1600 × 900 without enlargement."
+    },
+    {
+      "id": "LM-MEDIA-OG-001-A",
+      "collection": "LM-MEDIA-009",
+      "service": "website",
+      "title": "General website cover",
+      "variant": "A",
+      "description": "Minimal navy brand canvas with a small measured dot motif on the right.",
+      "alt": "Minimal navy brand canvas with a small measured dot motif on the right.",
+      "format": "jpeg",
+      "width": 1200,
+      "height": 630,
+      "alpha": false,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/social/LM-MEDIA-OG-001-A-website.jpg",
+      "bytes": 21402,
+      "sha256": "dd9581893e0fbe85c1646c7653b99f9e59a6821448c7faeb4c4450925e551256",
+      "source_type": "Original layout, exact design-system color fills.",
+      "usage": [
+        "global",
+        "open-graph",
+        "website"
+      ],
+      "background_policy": "intentional opaque social cover base",
+      "theme": "dark surface",
+      "review_notes": "White heading and approved wordmark in left title area. Calm revision supersedes earlier dramatic draft. No embedded headline or logo."
+    },
+    {
+      "id": "LM-MEDIA-OG-002-A",
+      "collection": "LM-MEDIA-009",
+      "service": "service",
+      "title": "Service page cover",
+      "variant": "A",
+      "description": "Responsive website device mockups on a soft blue panel with a cool-white title area.",
+      "alt": "Responsive website device mockups on a soft blue panel with a cool-white title area.",
+      "format": "jpeg",
+      "width": 1200,
+      "height": 630,
+      "alpha": false,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/social/LM-MEDIA-OG-002-A-service.jpg",
+      "bytes": 67454,
+      "sha256": "85c892fb3ab6570de35381ce9f16efe6dda8d06c488735a81f1f3b7627f94093",
+      "source_type": "Original layout with existing AI-generated conceptual mockup LM-MEDIA-WRK-001-A. Device screens retain their existing artwork.",
+      "usage": [
+        "global",
+        "open-graph",
+        "service"
+      ],
+      "background_policy": "intentional opaque social cover base",
+      "theme": "light surface",
+      "review_notes": "Navy heading and approved wordmark in left title area. Use for web-related services or replace mockup with a relevant service asset. Calm revision supersedes earlier dramatic draft. No embedded headline or logo."
+    },
+    {
+      "id": "LM-MEDIA-OG-003-A",
+      "collection": "LM-MEDIA-009",
+      "service": "editorial",
+      "title": "Editorial article cover",
+      "variant": "A",
+      "description": "A thoughtful Indian professional at a desk in a quiet photographic panel, with a cool-white title area.",
+      "alt": "A thoughtful Indian professional at a desk in a quiet photographic panel, with a cool-white title area.",
+      "format": "jpeg",
+      "width": 1200,
+      "height": 630,
+      "alpha": false,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/social/LM-MEDIA-OG-003-A-editorial.jpg",
+      "bytes": 117887,
+      "sha256": "2072d51529b2d306a251d2c9172c8abaeffecf16e2f67318fe88625366f1af60",
+      "source_type": "Original layout with AI-generated illustrative portrait; not an actual employee or client. Natural foliage and skin tones retained.",
+      "usage": [
+        "global",
+        "open-graph",
+        "editorial"
+      ],
+      "background_policy": "intentional opaque social cover base",
+      "theme": "light surface",
+      "review_notes": "Navy heading and approved wordmark in left title area. Calm revision supersedes earlier dramatic draft. No embedded headline or logo."
     }
   ],
   "collections": [
@@ -1241,6 +1322,10 @@
     {
       "id": "LM-MEDIA-008",
       "title": "Abstract Brand Backgrounds"
+    },
+    {
+      "id": "LM-MEDIA-009",
+      "title": "Social sharing covers"
     }
   ]
 }
