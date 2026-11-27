@@ -3,7 +3,7 @@
   "collection": "LM-MEDIA",
   "title": "Media Library",
   "release_status": "draft",
-  "notes": "Clean restart: nine transparent service illustrations, four transparent challenge illustrations, six transparent conceptual project mockups, four intentional full-bleed customer segment photographs, four transparent growth framework illustrations, five transparent process illustrations, six intentional full-bleed editorial covers, four opaque abstract brand backgrounds, and three opaque social sharing cover bases. Draft only; owner approval required before production use.",
+  "notes": "Clean restart: nine transparent service illustrations, four transparent challenge illustrations, six transparent conceptual project mockups, four intentional full-bleed customer segment photographs, four transparent growth framework illustrations, five transparent process illustrations, six intentional full-bleed editorial covers, eight opaque abstract brand backgrounds (four original and four calm alternatives), and three opaque social sharing cover bases. Draft only; owner approval required before production use.",
   "assets": [
     {
       "id": "LM-MEDIA-SVC-001-A",
@@ -1134,6 +1134,31 @@
       "review_notes": "Brand-ramp color grade removes cyan highlights; gradients and WebP compression produce intermediate shades. Decorative CSS background or empty alt when used decoratively. Check text contrast at the actual placement; no automatic light-mode recolor. Native source 1672 × 941, exported 1600 × 900 without enlargement."
     },
     {
+      "id": "LM-MEDIA-BG-001-B",
+      "collection": "LM-MEDIA-008",
+      "service": "dot-matrix",
+      "title": "Quiet mathematical dot wave",
+      "variant": "B",
+      "description": "A subtle single dotted swell on a deep navy field with quiet space above.",
+      "alt": "A subtle single dotted swell on a deep navy field with quiet space above.",
+      "format": "webp",
+      "width": 1600,
+      "height": 900,
+      "alpha": false,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/backgrounds/LM-MEDIA-BG-001-B-dot-matrix.webp",
+      "bytes": 83714,
+      "sha256": "bc6bf68e03b027090a32212298c1986dc78d6d7bb9619d8435643af5d5028dc9",
+      "source_type": "AI-generated abstract artwork; palette-normalized export",
+      "usage": [
+        "global"
+      ],
+      "background_policy": "intentional opaque full-bleed background",
+      "theme": "dark surface",
+      "review_notes": "Calm alternative draft; original A variant retained for comparison. Palette-ramp color grade with intermediate shades from gradients and compression. Native source 1672 × 941; 1600 × 900 crop/export. Decorative CSS background or empty alt when decorative. Check actual text contrast and responsive crops; mixed surfaces require careful placement."
+    },
+    {
       "id": "LM-MEDIA-BG-002-A",
       "collection": "LM-MEDIA-008",
       "service": "logarithmic-curves",
@@ -1157,6 +1182,31 @@
       "background_policy": "intentional opaque full-bleed background",
       "theme": "dark surface",
       "review_notes": "Brand-ramp color grade removes cyan highlights; gradients and WebP compression produce intermediate shades. Decorative CSS background or empty alt when used decoratively. Check text contrast at the actual placement; no automatic light-mode recolor. Native source 1672 × 941, exported 1600 × 900 without enlargement."
+    },
+    {
+      "id": "LM-MEDIA-BG-002-B",
+      "collection": "LM-MEDIA-008",
+      "service": "logarithmic-curves",
+      "title": "Soft logarithmic curves",
+      "variant": "B",
+      "description": "A fine spiral-inspired curve across soft blue and navy tonal planes.",
+      "alt": "A fine spiral-inspired curve across soft blue and navy tonal planes.",
+      "format": "webp",
+      "width": 1600,
+      "height": 900,
+      "alpha": false,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/backgrounds/LM-MEDIA-BG-002-B-logarithmic-curves.webp",
+      "bytes": 46628,
+      "sha256": "49b5ef46d201dd7853caf75f6d002b78d7c580a6aa697eabaeb584ee5b87de32",
+      "source_type": "AI-generated abstract artwork; palette-normalized export",
+      "usage": [
+        "global"
+      ],
+      "background_policy": "intentional opaque full-bleed background",
+      "theme": "light upper-right / dark lower-left; mixed surface",
+      "review_notes": "Calm alternative draft; original A variant retained for comparison. Palette-ramp color grade with intermediate shades from gradients and compression. Native source 1672 × 941; 1600 × 900 crop/export. Decorative CSS background or empty alt when decorative. Check actual text contrast and responsive crops; mixed surfaces require careful placement."
     },
     {
       "id": "LM-MEDIA-BG-003-A",
@@ -1184,6 +1234,31 @@
       "review_notes": "Brand-ramp color grade removes cyan highlights; gradients and WebP compression produce intermediate shades. Decorative CSS background or empty alt when used decoratively. Check text contrast at the actual placement; no automatic light-mode recolor. Native source 1672 × 941, exported 1600 × 900 without enlargement."
     },
     {
+      "id": "LM-MEDIA-BG-003-B",
+      "collection": "LM-MEDIA-008",
+      "service": "technical-grid",
+      "title": "Minimal technical grid",
+      "variant": "B",
+      "description": "Sparse construction lines and five connected nodes on a navy field.",
+      "alt": "Sparse construction lines and five connected nodes on a navy field.",
+      "format": "webp",
+      "width": 1600,
+      "height": 900,
+      "alpha": false,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/backgrounds/LM-MEDIA-BG-003-B-technical-grid.webp",
+      "bytes": 28438,
+      "sha256": "b8df45727cd76e4eb434d2a05adf6c5b287aa501ccf7e773744ac33f08cb1178",
+      "source_type": "AI-generated abstract artwork; palette-normalized export",
+      "usage": [
+        "global"
+      ],
+      "background_policy": "intentional opaque full-bleed background",
+      "theme": "dark surface",
+      "review_notes": "Calm alternative draft; original A variant retained for comparison. Palette-ramp color grade with intermediate shades from gradients and compression. Native source 1672 × 941; 1600 × 900 crop/export. Decorative CSS background or empty alt when decorative. Check actual text contrast and responsive crops; mixed surfaces require careful placement."
+    },
+    {
       "id": "LM-MEDIA-BG-004-A",
       "collection": "LM-MEDIA-008",
       "service": "geometric-architecture",
@@ -1207,6 +1282,31 @@
       "background_policy": "intentional opaque full-bleed background",
       "theme": "dark surface",
       "review_notes": "Brand-ramp color grade removes cyan highlights; gradients and WebP compression produce intermediate shades. Decorative CSS background or empty alt when used decoratively. Check text contrast at the actual placement; no automatic light-mode recolor. Native source 1672 × 941, exported 1600 × 900 without enlargement."
+    },
+    {
+      "id": "LM-MEDIA-BG-004-B",
+      "collection": "LM-MEDIA-008",
+      "service": "geometric-architecture",
+      "title": "Architectural planes",
+      "variant": "B",
+      "description": "Simple navy, blue and pale intersecting architectural planes.",
+      "alt": "Simple navy, blue and pale intersecting architectural planes.",
+      "format": "webp",
+      "width": 1600,
+      "height": 900,
+      "alpha": false,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/backgrounds/LM-MEDIA-BG-004-B-geometric-architecture.webp",
+      "bytes": 26012,
+      "sha256": "bda04a02c8f8bf5fb8199a4ad4722cda068d745b28e5a13e6ca5b191cb24ca1d",
+      "source_type": "AI-generated abstract artwork; palette-normalized export",
+      "usage": [
+        "global"
+      ],
+      "background_policy": "intentional opaque full-bleed background",
+      "theme": "dark upper-left / light lower-right; mixed surface",
+      "review_notes": "Calm alternative draft; original A variant retained for comparison. Palette-ramp color grade with intermediate shades from gradients and compression. Native source 1672 × 941; 1600 × 900 crop/export. Decorative CSS background or empty alt when decorative. Check actual text contrast and responsive crops; mixed surfaces require careful placement."
     },
     {
       "id": "LM-MEDIA-OG-001-A",
