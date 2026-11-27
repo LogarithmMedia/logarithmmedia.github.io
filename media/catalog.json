@@ -3,7 +3,7 @@
   "collection": "LM-MEDIA",
   "title": "Media Library",
   "release_status": "draft",
-  "notes": "Clean restart: nine transparent service illustrations, four transparent challenge illustrations, six transparent conceptual project mockups, and four intentional full-bleed customer segment photographs. Draft only; owner approval required before production use.",
+  "notes": "Clean restart: nine transparent service illustrations, four transparent challenge illustrations, six transparent conceptual project mockups, four intentional full-bleed customer segment photographs, and four transparent growth framework illustrations. Draft only; owner approval required before production use.",
   "assets": [
     {
       "id": "LM-MEDIA-SVC-001-A",
@@ -675,6 +675,134 @@
       "usage_boundary": "Illustrative customer segment only; do not present as actual clients or staff.",
       "background_type": "intentional full-bleed photography",
       "transparency_required": false
+    },
+    {
+      "id": "LM-MEDIA-GRW-001-A",
+      "collection": "LM-MEDIA-005",
+      "service": "connected-marketing",
+      "title": "Connected marketing",
+      "variant": "A",
+      "description": "AI-generated conceptual growth framework illustration featuring Indian professional characters; not actual staff or client results. Brand-colored design elements; natural skin tones.",
+      "alt": "Four professionals working together above a connected network of campaign, audience, content and website modules.",
+      "format": "webp",
+      "width": 1200,
+      "height": 800,
+      "alpha": true,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/growth/LM-MEDIA-GRW-001-A-connected-marketing.webp",
+      "bytes": 189926,
+      "sha256": "5a5d2dbef86cba8951f780f912b5f96272bee751f0cd1133132d19025e7a9093",
+      "source_type": "ai-generated standalone illustration",
+      "usage": [
+        "LM-SEC-007"
+      ],
+      "transparency": {
+        "transparent_pixel_percent": 46.58,
+        "corner_alpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "edge_alpha_max": 0
+      }
+    },
+    {
+      "id": "LM-MEDIA-GRW-002-A",
+      "collection": "LM-MEDIA-005",
+      "service": "data-led-decisions",
+      "title": "Data-led decisions",
+      "variant": "A",
+      "description": "AI-generated conceptual growth framework illustration featuring Indian professional characters; not actual staff or client results. Brand-colored design elements; natural skin tones.",
+      "alt": "Two professionals examining a conceptual analytics dashboard with a magnifying glass.",
+      "format": "webp",
+      "width": 1200,
+      "height": 800,
+      "alpha": true,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/growth/LM-MEDIA-GRW-002-A-data-led-decisions.webp",
+      "bytes": 118080,
+      "sha256": "ee1b899ca187ecb3cf142875c9ceb36e966ad414f5f62838624330699a03eabd",
+      "source_type": "ai-generated standalone illustration",
+      "usage": [
+        "LM-SEC-007"
+      ],
+      "transparency": {
+        "transparent_pixel_percent": 45.14,
+        "corner_alpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "edge_alpha_max": 0
+      }
+    },
+    {
+      "id": "LM-MEDIA-GRW-002-B",
+      "collection": "LM-MEDIA-005",
+      "service": "data-led-decisions",
+      "title": "Data-led decisions",
+      "variant": "B",
+      "description": "Alternative data-led decisions composition with Indian professional characters. AI-generated conceptual illustration; not actual staff or client results. Brand-colored objects and natural skin tones.",
+      "alt": "Three professionals collaborating at a laptop surrounded by conceptual analytics panels and a target.",
+      "format": "webp",
+      "width": 1200,
+      "height": 800,
+      "alpha": true,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/growth/LM-MEDIA-GRW-002-B-data-led-decisions.webp",
+      "bytes": 176796,
+      "sha256": "86213f2f92ff818a25f26c09e2fb9930ca482dc21188fa98feaf1575571428c5",
+      "source_type": "ai-generated standalone illustration",
+      "usage": [
+        "LM-SEC-007"
+      ],
+      "transparency": {
+        "transparent_pixel_percent": 26.36,
+        "corner_alpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "edge_alpha_max": 0
+      }
+    },
+    {
+      "id": "LM-MEDIA-GRW-003-A",
+      "collection": "LM-MEDIA-005",
+      "service": "continuous-optimization",
+      "title": "Continuous optimization",
+      "variant": "A",
+      "description": "AI-generated conceptual growth framework illustration featuring Indian professional characters; not actual staff or client results. Brand-colored design elements; natural skin tones.",
+      "alt": "Professionals adjusting controls and comparing creative cards inside a circular optimization loop.",
+      "format": "webp",
+      "width": 1200,
+      "height": 800,
+      "alpha": true,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/growth/LM-MEDIA-GRW-003-A-continuous-optimization.webp",
+      "bytes": 214328,
+      "sha256": "61a3b17911ef4d183799021fc1d7c26706bd9399dc5bf58a3f9b6a7958d6845d",
+      "source_type": "ai-generated standalone illustration",
+      "usage": [
+        "LM-SEC-007"
+      ],
+      "transparency": {
+        "transparent_pixel_percent": 38.68,
+        "corner_alpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "edge_alpha_max": 0
+      }
     }
   ],
   "collections": [
@@ -693,6 +821,10 @@
     {
       "id": "LM-MEDIA-004",
       "title": "Customer segments"
+    },
+    {
+      "id": "LM-MEDIA-005",
+      "title": "Growth framework"
     }
   ]
 }
