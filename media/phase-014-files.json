@@ -1,0 +1,37 @@
+[
+  {
+    "id": "LM-MEDIA-HLP-001-A",
+    "collection": "LM-MEDIA-014",
+    "service": "faq",
+    "title": "Questions and answers",
+    "variant": "A",
+    "description": "Two overlapping cobalt and cool-white speech bubbles with a question mark and navy ellipsis.",
+    "alt": "Two overlapping speech bubbles with a question mark and three dots.",
+    "format": "webp",
+    "width": 1200,
+    "height": 800,
+    "alpha": true,
+    "status": "draft",
+    "availability": "available",
+    "path": "assets/help/LM-MEDIA-HLP-001-A-faq.webp",
+    "bytes": 55960,
+    "sha256": "18764fb1ab5cb5ca130afa448583c9d56c6b3b3eb72abbb16a934be658945135",
+    "source_type": "AI-generated conceptual 3D illustration",
+    "source_sha256": "2244f8a0da62105f6e6648f4905884e7475765a4420e952b1ec4cdb575da2d4f",
+    "source_dimensions": [
+      1536,
+      1024
+    ],
+    "processing": "Aspect-preserving resize to 1140 x 760 and transparent padding to 1200 x 800; alpha values 0\u20132 cleared; WebP quality 92. No crop, recoloring or recomposition.",
+    "usage": [
+      "LM-SEC-012"
+    ],
+    "background_policy": "transparent cutout",
+    "theme": "both",
+    "transparency": {
+      "transparent_pixel_percent": 65.84,
+      "canvas_edges_clear": true
+    },
+    "review_notes": "Decorative FAQ artwork; use empty alt when adjacent copy already communicates its purpose. Original material shading approximates brand tokens. First generated candidate rejected due to scenic backdrop and haze."
+  }
+]
