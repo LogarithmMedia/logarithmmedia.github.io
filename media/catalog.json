@@ -3,7 +3,7 @@
   "collection": "LM-MEDIA",
   "title": "Media Library",
   "release_status": "draft",
-  "notes": "Clean restart: nine transparent service illustrations, four transparent challenge illustrations, six transparent conceptual project mockups, four intentional full-bleed customer segment photographs, and four transparent growth framework illustrations. Draft only; owner approval required before production use.",
+  "notes": "Clean restart: nine transparent service illustrations, four transparent challenge illustrations, six transparent conceptual project mockups, four intentional full-bleed customer segment photographs, four transparent growth framework illustrations, and five transparent process illustrations. Draft only; owner approval required before production use.",
   "assets": [
     {
       "id": "LM-MEDIA-SVC-001-A",
@@ -803,6 +803,166 @@
         ],
         "edge_alpha_max": 0
       }
+    },
+    {
+      "id": "LM-MEDIA-PRC-001-A",
+      "collection": "LM-MEDIA-006",
+      "service": "discover",
+      "title": "Discover",
+      "variant": "A",
+      "description": "AI-generated conceptual process illustration with Indian professional characters; not actual employees or client results. Navy, cobalt and cool-white designed objects; natural skin tones. Natural green plant accents are present.",
+      "alt": "Three professionals reviewing audience research alongside a magnifier and checklist.",
+      "format": "webp",
+      "width": 1200,
+      "height": 800,
+      "alpha": true,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/process/LM-MEDIA-PRC-001-A-discover.webp",
+      "bytes": 168222,
+      "sha256": "a87c5ec918556456e73b4dbcee42a8e2b48557378b9f8087d38786d4f23ce9a8",
+      "source_type": "ai-generated standalone illustration",
+      "usage": [
+        "LM-SEC-008"
+      ],
+      "transparency": {
+        "transparent_pixel_percent": 42.42,
+        "corner_alpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "edge_alpha_max": 0
+      }
+    },
+    {
+      "id": "LM-MEDIA-PRC-002-A",
+      "collection": "LM-MEDIA-006",
+      "service": "strategize",
+      "title": "Strategize",
+      "variant": "A",
+      "description": "AI-generated conceptual process illustration with Indian professional characters; not actual employees or client results. Navy, cobalt and cool-white designed objects; natural skin tones. Natural green plant accents are present.",
+      "alt": "Four professionals planning a strategy with a tactical board, target and chess piece.",
+      "format": "webp",
+      "width": 1200,
+      "height": 800,
+      "alpha": true,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/process/LM-MEDIA-PRC-002-A-strategize.webp",
+      "bytes": 166914,
+      "sha256": "f7cfe194312007a4bbf3f5cc864bd73dcac71864ca9ff1d1e61cb1ee2f58c7af",
+      "source_type": "ai-generated standalone illustration",
+      "usage": [
+        "LM-SEC-008"
+      ],
+      "transparency": {
+        "transparent_pixel_percent": 31.65,
+        "corner_alpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "edge_alpha_max": 0
+      }
+    },
+    {
+      "id": "LM-MEDIA-PRC-003-A",
+      "collection": "LM-MEDIA-006",
+      "service": "execute",
+      "title": "Execute",
+      "variant": "A",
+      "description": "AI-generated conceptual process illustration with Indian professional characters; not actual employees or client results. Navy, cobalt and cool-white designed objects; natural skin tones. Natural green plant accents are present. Recognizable social-platform symbols illustrate marketing channels, not endorsements or partnerships.",
+      "alt": "Three professionals implementing a campaign alongside a schedule and media panels.",
+      "format": "webp",
+      "width": 1200,
+      "height": 800,
+      "alpha": true,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/process/LM-MEDIA-PRC-003-A-execute.webp",
+      "bytes": 191914,
+      "sha256": "bd3914eb36ec1c109bccf744ba40d6491308bc5344ce0fa0a337c10a7fa2afd7",
+      "source_type": "ai-generated standalone illustration",
+      "usage": [
+        "LM-SEC-008"
+      ],
+      "transparency": {
+        "transparent_pixel_percent": 35.87,
+        "corner_alpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "edge_alpha_max": 0
+      }
+    },
+    {
+      "id": "LM-MEDIA-PRC-004-A",
+      "collection": "LM-MEDIA-006",
+      "service": "measure",
+      "title": "Measure",
+      "variant": "A",
+      "description": "AI-generated conceptual process illustration with Indian professional characters; not actual employees or client results. Navy, cobalt and cool-white designed objects; natural skin tones.",
+      "alt": "Two professionals reviewing conceptual analytics charts and a dashboard.",
+      "format": "webp",
+      "width": 1200,
+      "height": 800,
+      "alpha": true,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/process/LM-MEDIA-PRC-004-A-measure.webp",
+      "bytes": 144750,
+      "sha256": "49aec4af5c34d358545204f19a0acf20859a2db8fa839f8c7caf46587de7aaa5",
+      "source_type": "ai-generated standalone illustration",
+      "usage": [
+        "LM-SEC-008"
+      ],
+      "transparency": {
+        "transparent_pixel_percent": 45.68,
+        "corner_alpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "edge_alpha_max": 0
+      }
+    },
+    {
+      "id": "LM-MEDIA-PRC-005-A",
+      "collection": "LM-MEDIA-006",
+      "service": "optimize",
+      "title": "Optimize",
+      "variant": "A",
+      "description": "AI-generated conceptual process illustration with Indian professional characters; not actual employees or client results. Navy, cobalt and cool-white designed objects; natural skin tones. Natural green plant accents are present.",
+      "alt": "Three professionals reviewing test variants, adjustment controls and a feedback loop.",
+      "format": "webp",
+      "width": 1200,
+      "height": 800,
+      "alpha": true,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/process/LM-MEDIA-PRC-005-A-optimize.webp",
+      "bytes": 193660,
+      "sha256": "65858df8c1ee320e128b5f3a8f167a07ae0904017422c2a911befb17260f6504",
+      "source_type": "ai-generated standalone illustration",
+      "usage": [
+        "LM-SEC-008"
+      ],
+      "transparency": {
+        "transparent_pixel_percent": 40.07,
+        "corner_alpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "edge_alpha_max": 0
+      }
     }
   ],
   "collections": [
@@ -825,6 +985,10 @@
     {
       "id": "LM-MEDIA-005",
       "title": "Growth framework"
+    },
+    {
+      "id": "LM-MEDIA-006",
+      "title": "Process illustrations"
     }
   ]
 }
