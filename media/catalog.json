@@ -3,7 +3,7 @@
   "collection": "LM-MEDIA",
   "title": "Media Library",
   "release_status": "draft",
-  "notes": "Clean restart: nine transparent service illustrations, four transparent challenge illustrations, six transparent conceptual project mockups, four intentional full-bleed customer segment photographs, four transparent growth framework illustrations, five transparent process illustrations, six intentional full-bleed editorial covers, eight opaque abstract brand backgrounds (four original and four calm alternatives), five opaque social sharing cover bases, and four opaque hero alternatives. Draft only; owner approval required before production use.",
+  "notes": "Clean restart: nine transparent service illustrations, four transparent challenge illustrations, six transparent conceptual project mockups, four intentional full-bleed customer segment photographs, four transparent growth framework illustrations, five transparent process illustrations, six intentional full-bleed editorial covers, eight opaque abstract brand backgrounds (four original and four calm alternatives), five opaque social sharing cover bases, four opaque hero alternatives, and three transparent pricing and engagement illustrations. Draft only; owner approval required before production use.",
   "assets": [
     {
       "id": "LM-MEDIA-SVC-001-A",
@@ -1576,6 +1576,132 @@
       "background_policy": "intentional opaque hero visual panel; not a transparent cutout",
       "theme": "light surface",
       "review_notes": "Use as a distinct visual panel; spiral is artistic, not a mathematically verified logarithmic curve. Original dimensions preserved; WebP optimization only, no crop, color grade or redesign. Review responsive placement and both themes."
+    },
+    {
+      "id": "LM-MEDIA-PRCNG-001-A",
+      "collection": "LM-MEDIA-013",
+      "service": "starter",
+      "title": "Starter — Basic",
+      "variant": "A",
+      "description": "A cool-white foundation slab with an inset cobalt cube.",
+      "alt": "A cool-white foundation slab with an inset cobalt cube.",
+      "format": "webp",
+      "width": 1200,
+      "height": 800,
+      "alpha": true,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/pricing/LM-MEDIA-PRCNG-001-A-starter.webp",
+      "bytes": 37776,
+      "sha256": "10f24f7ea2abad66f957d1ede6817b607a65bebcd45750be2db6443d9436d25c",
+      "source_type": "AI-generated conceptual architectural illustration",
+      "source_sha256": "2c567df30537ee3d1098d9190b0c093fb37f067617b30d084794fafe312249b1",
+      "source_dimensions": [
+        1536,
+        1024
+      ],
+      "processing": "Aspect-preserving resize to 1140 x 760 with transparent padding to 1200 x 800; WebP quality 92; no recoloring, crop or recomposition.",
+      "usage": [
+        "LM-SEC-010"
+      ],
+      "background_policy": "genuine transparent cutout with original soft shadows",
+      "theme": "both",
+      "transparency": {
+        "transparent_pixel_percent": 78.35,
+        "canvas_edges_clear": true
+      },
+      "pricing_reference": {
+        "source": "https://logarithmmedia.com/",
+        "checked_date": "2026-11-27",
+        "monthly_price_inr": 10000,
+        "not_embedded": true,
+        "scope": "homepage pricing only; separate digital marketing page not verified"
+      },
+      "review_notes": "Conceptual tier illustration, not a performance claim. Keep pricing, terms and feature text in HTML. Original render shading is approximate brand color, not exact token fills."
+    },
+    {
+      "id": "LM-MEDIA-PRCNG-002-A",
+      "collection": "LM-MEDIA-013",
+      "service": "booster",
+      "title": "Booster — Advanced",
+      "variant": "A",
+      "description": "Two architectural forms joined by a cobalt bridge on a white plinth.",
+      "alt": "Two architectural forms joined by a cobalt bridge on a white plinth.",
+      "format": "webp",
+      "width": 1200,
+      "height": 800,
+      "alpha": true,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/pricing/LM-MEDIA-PRCNG-002-A-booster.webp",
+      "bytes": 60888,
+      "sha256": "eb2f12275099d7d2c8597419e7ec7a4e393bd924970a08dcef158b6f5c51c2bb",
+      "source_type": "AI-generated conceptual architectural illustration",
+      "source_sha256": "1856b3f7c7a440360afd1edb5038b09dcbf057845813d3a0edffb6e0ebe760d7",
+      "source_dimensions": [
+        1536,
+        1024
+      ],
+      "processing": "Aspect-preserving resize to 1140 x 760 with transparent padding to 1200 x 800; WebP quality 92; no recoloring, crop or recomposition.",
+      "usage": [
+        "LM-SEC-010"
+      ],
+      "background_policy": "genuine transparent cutout with original soft shadows",
+      "theme": "both",
+      "transparency": {
+        "transparent_pixel_percent": 62.61,
+        "canvas_edges_clear": true
+      },
+      "pricing_reference": {
+        "source": "https://logarithmmedia.com/",
+        "checked_date": "2026-11-27",
+        "monthly_price_inr": 20000,
+        "not_embedded": true,
+        "scope": "homepage pricing only; separate digital marketing page not verified"
+      },
+      "review_notes": "Conceptual tier illustration, not a performance claim. Keep pricing, terms and feature text in HTML. Original render shading is approximate brand color, not exact token fills."
+    },
+    {
+      "id": "LM-MEDIA-PRCNG-003-A",
+      "collection": "LM-MEDIA-013",
+      "service": "pro",
+      "title": "PRO — Premium",
+      "variant": "A",
+      "description": "An integrated arrangement of nested navy, white and cobalt arches and modular platforms.",
+      "alt": "An integrated arrangement of nested navy, white and cobalt arches and modular platforms.",
+      "format": "webp",
+      "width": 1200,
+      "height": 800,
+      "alpha": true,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/pricing/LM-MEDIA-PRCNG-003-A-pro.webp",
+      "bytes": 66958,
+      "sha256": "e5432742714304ef4dff10b9bee48ae4d208ff5b08eda1ff1d08180ca5b1b44f",
+      "source_type": "AI-generated conceptual architectural illustration",
+      "source_sha256": "9223dbf0eeec9048a3c8ea9225214012772f39d0e127d8201fd708811a3e03b7",
+      "source_dimensions": [
+        1536,
+        1024
+      ],
+      "processing": "Aspect-preserving resize to 1140 x 760 with transparent padding to 1200 x 800; WebP quality 92; no recoloring, crop or recomposition.",
+      "usage": [
+        "LM-SEC-010"
+      ],
+      "background_policy": "genuine transparent cutout with original soft shadows",
+      "theme": "both",
+      "transparency": {
+        "transparent_pixel_percent": 50.94,
+        "canvas_edges_clear": true
+      },
+      "pricing_reference": {
+        "source": "https://logarithmmedia.com/",
+        "checked_date": "2026-11-27",
+        "monthly_price_inr": 30000,
+        "not_embedded": true,
+        "scope": "homepage pricing only; separate digital marketing page not verified"
+      },
+      "review_notes": "Conceptual tier illustration, not a performance claim. Keep pricing, terms and feature text in HTML. Original render shading is approximate brand color, not exact token fills."
     }
   ],
   "collections": [
@@ -1618,6 +1744,10 @@
     {
       "id": "LM-MEDIA-010",
       "title": "Hero Alternatives"
+    },
+    {
+      "id": "LM-MEDIA-013",
+      "title": "Pricing and Engagement"
     }
   ]
 }
