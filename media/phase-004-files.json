@@ -1,0 +1,78 @@
+[
+  {
+    "id": "LM-MEDIA-SEG-001-A",
+    "collection": "LM-MEDIA-004",
+    "service": "b2b",
+    "title": "B2B businesses",
+    "description": "Premium editorial office collaboration scene representing B2B and service businesses. Draft customer-segment image; not an actual client.",
+    "path": "assets/segments/LM-MEDIA-SEG-001-A-b2b.webp",
+    "status": "draft",
+    "availability": "available",
+    "width": 1448,
+    "height": 1086,
+    "alpha": false,
+    "bytes": 164292,
+    "sha256": "73f009a9f340fd348a44465eb9bd084d0ddcebbede0175f2b7ffa193a8584700",
+    "alt": "Premium editorial office collaboration scene representing B2B and service businesses. Draft customer-segment image; not an actual client.",
+    "usage": [
+      "LM-SEC-006"
+    ]
+  },
+  {
+    "id": "LM-MEDIA-SEG-002-A",
+    "collection": "LM-MEDIA-004",
+    "service": "ecommerce",
+    "title": "E-commerce brands",
+    "description": "Premium editorial dispatch and packing workspace representing e-commerce brands. Draft customer-segment image; not an actual client.",
+    "path": "assets/segments/LM-MEDIA-SEG-002-A-ecommerce.webp",
+    "status": "draft",
+    "availability": "available",
+    "width": 1448,
+    "height": 1086,
+    "alpha": false,
+    "bytes": 229812,
+    "sha256": "3a4215d8e5f8be2de4ba324c5fa17047991f247a289cabdf270caaeb37afd980",
+    "alt": "Premium editorial dispatch and packing workspace representing e-commerce brands. Draft customer-segment image; not an actual client.",
+    "usage": [
+      "LM-SEC-006"
+    ]
+  },
+  {
+    "id": "LM-MEDIA-SEG-003-A",
+    "collection": "LM-MEDIA-004",
+    "service": "local",
+    "title": "Local businesses",
+    "description": "Premium editorial neighborhood retail storefront representing local businesses. Draft customer-segment image; not an actual client.",
+    "path": "assets/segments/LM-MEDIA-SEG-003-A-local.webp",
+    "status": "draft",
+    "availability": "available",
+    "width": 1448,
+    "height": 1086,
+    "alpha": false,
+    "bytes": 398546,
+    "sha256": "b20a511e17ca60cb0fa314027ad609b50d61d58de18452c7b293c570af4d5421",
+    "alt": "Premium editorial neighborhood retail storefront representing local businesses. Draft customer-segment image; not an actual client.",
+    "usage": [
+      "LM-SEC-006"
+    ]
+  },
+  {
+    "id": "LM-MEDIA-SEG-004-A",
+    "collection": "LM-MEDIA-004",
+    "service": "startup",
+    "title": "Startups",
+    "description": "Premium editorial startup collaboration scene representing growing businesses and startups. Draft customer-segment image; not an actual client.",
+    "path": "assets/segments/LM-MEDIA-SEG-004-A-startup.webp",
+    "status": "draft",
+    "availability": "available",
+    "width": 1448,
+    "height": 1086,
+    "alpha": false,
+    "bytes": 200016,
+    "sha256": "f374367bfc3aff8d7c389b12f22fa6f3bd32c99f6d28ee56d77d6baccb543b99",
+    "alt": "Premium editorial startup collaboration scene representing growing businesses and startups. Draft customer-segment image; not an actual client.",
+    "usage": [
+      "LM-SEC-006"
+    ]
+  }
+]
