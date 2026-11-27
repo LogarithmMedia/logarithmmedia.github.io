@@ -3,7 +3,7 @@
   "collection": "LM-MEDIA",
   "title": "Media Library",
   "release_status": "draft",
-  "notes": "Clean restart: nine transparent service illustrations, four transparent challenge illustrations, six transparent conceptual project mockups, four intentional full-bleed customer segment photographs, four transparent growth framework illustrations, five transparent process illustrations, six intentional full-bleed editorial covers, eight opaque abstract brand backgrounds (four original and four calm alternatives), five opaque social sharing cover bases, four opaque hero alternatives, three transparent pricing and engagement illustrations, and one transparent contextual help illustration. Draft only; owner approval required before production use.",
+  "notes": "Clean restart: nine transparent service illustrations, four transparent challenge illustrations, six transparent conceptual project mockups, four intentional full-bleed customer segment photographs, four transparent growth framework illustrations, five transparent process illustrations, six intentional full-bleed editorial covers, eight opaque abstract brand backgrounds (four original and four calm alternatives), five opaque social sharing cover bases, four opaque hero alternatives, three transparent pricing and engagement illustrations, one transparent contextual help illustration, and four transparent brand identity PNGs. Draft only; owner approval required before production use.",
   "assets": [
     {
       "id": "LM-MEDIA-SVC-001-A",
@@ -1737,6 +1737,138 @@
         "canvas_edges_clear": true
       },
       "review_notes": "Decorative FAQ artwork; use empty alt when adjacent copy already communicates its purpose. Original material shading approximates brand tokens. First generated candidate rejected due to scenic backdrop and haze."
+    },
+    {
+      "id": "LM-MEDIA-BRD-001-A",
+      "collection": "LM-MEDIA-016",
+      "service": "wordmark-light",
+      "title": "Light-mode wordmark",
+      "variant": "A",
+      "description": "Black Logarithm Media wordmark with original blue lightning bolt.",
+      "alt": "Logarithm Media",
+      "format": "png",
+      "width": 628,
+      "height": 126,
+      "alpha": true,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/brand/LM-MEDIA-BRD-001-A-wordmark-light.png",
+      "bytes": 23648,
+      "sha256": "85c24e7451b40e9bfd2ad21d27a46991529bb58a14fbaca612406d442ef593d6",
+      "source_type": "Original first-party website artwork",
+      "source_url": "https://logarithmmedia.com/wp-content/uploads/2023/07/Logarithm-Media5.png",
+      "source_sha256": "85c24e7451b40e9bfd2ad21d27a46991529bb58a14fbaca612406d442ef593d6",
+      "source_dimensions": [
+        628,
+        126
+      ],
+      "processing": "Byte-for-byte original website PNG; no modification.",
+      "usage": [
+        "LM-SEC-014",
+        "global"
+      ],
+      "background_policy": "true alpha; original transparent canvas",
+      "theme": "light surface",
+      "review_notes": "Preserve original brand colors and typography. Do not recolor or redraw. Owner review before production use. PNG supplied; no invented SVG."
+    },
+    {
+      "id": "LM-MEDIA-BRD-002-A",
+      "collection": "LM-MEDIA-016",
+      "service": "wordmark-dark",
+      "title": "Dark-mode wordmark",
+      "variant": "A",
+      "description": "White Logarithm Media wordmark with original blue lightning bolt.",
+      "alt": "Logarithm Media",
+      "format": "png",
+      "width": 628,
+      "height": 126,
+      "alpha": true,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/brand/LM-MEDIA-BRD-002-A-wordmark-dark.png",
+      "bytes": 26349,
+      "sha256": "453f2cfe7bf149af5feb2b9f7b1b63ab82934244206f74dd9797ab63aa7a7988",
+      "source_type": "Original first-party website artwork",
+      "source_url": "https://logarithmmedia.com/wp-content/uploads/2023/07/Logarithm-Media4-1.png",
+      "source_sha256": "453f2cfe7bf149af5feb2b9f7b1b63ab82934244206f74dd9797ab63aa7a7988",
+      "source_dimensions": [
+        628,
+        126
+      ],
+      "processing": "Byte-for-byte original website PNG; no modification.",
+      "usage": [
+        "LM-SEC-014",
+        "global"
+      ],
+      "background_policy": "true alpha; original transparent canvas",
+      "theme": "dark surface",
+      "review_notes": "Preserve original brand colors and typography. Do not recolor or redraw. Owner review before production use. PNG supplied; no invented SVG."
+    },
+    {
+      "id": "LM-MEDIA-BRD-003-A",
+      "collection": "LM-MEDIA-016",
+      "service": "compact-icon",
+      "title": "Original compact brand icon",
+      "variant": "A",
+      "description": "Original blue lightning-bolt brand icon, including its original transparent canvas.",
+      "alt": "Logarithm Media lightning-bolt icon",
+      "format": "png",
+      "width": 500,
+      "height": 500,
+      "alpha": true,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/brand/LM-MEDIA-BRD-003-A-compact-icon.png",
+      "bytes": 33425,
+      "sha256": "b5ce91b4ad4523ce5693d14717ce76f6c1da5977ea77dfc87d73b2c887b596a1",
+      "source_type": "Original first-party website artwork",
+      "source_url": "https://logarithmmedia.com/wp-content/uploads/2025/06/Untitled-design3.png",
+      "source_sha256": "b5ce91b4ad4523ce5693d14717ce76f6c1da5977ea77dfc87d73b2c887b596a1",
+      "source_dimensions": [
+        500,
+        500
+      ],
+      "processing": "Byte-for-byte original website PNG; no modification.",
+      "usage": [
+        "LM-SEC-014",
+        "global"
+      ],
+      "background_policy": "true alpha; original transparent canvas",
+      "theme": "both themes",
+      "review_notes": "Preserve original brand colors and typography. Do not recolor or redraw. Owner review before production use. PNG supplied; no invented SVG."
+    },
+    {
+      "id": "LM-MEDIA-BRD-004-A",
+      "collection": "LM-MEDIA-016",
+      "service": "favicon",
+      "title": "Browser favicon",
+      "variant": "A",
+      "description": "Centered 48-pixel transparent favicon derived from the original lightning-bolt icon.",
+      "alt": "Logarithm Media lightning-bolt icon",
+      "format": "png",
+      "width": 48,
+      "height": 48,
+      "alpha": true,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/brand/LM-MEDIA-BRD-004-A-favicon.png",
+      "bytes": 2003,
+      "sha256": "412488cbfe5c78f3fc7cb8d7f5dd288aeed63a6cfa152ea9b15ae238a297603a",
+      "source_type": "Derivative of original first-party website artwork",
+      "source_url": "https://logarithmmedia.com/wp-content/uploads/2025/06/Untitled-design3.png",
+      "source_sha256": "b5ce91b4ad4523ce5693d14717ce76f6c1da5977ea77dfc87d73b2c887b596a1",
+      "source_dimensions": [
+        500,
+        500
+      ],
+      "processing": "Original alpha bounds cropped, proportionally resized and centered within a 48 x 48 transparent PNG; no recoloring or redrawing.",
+      "usage": [
+        "LM-SEC-014",
+        "global"
+      ],
+      "background_policy": "true alpha; centered favicon with transparent padding",
+      "theme": "both themes",
+      "review_notes": "Preserve original brand colors and typography. Do not recolor or redraw. Owner review before production use. PNG supplied; no invented SVG."
     }
   ],
   "collections": [
@@ -1787,6 +1919,10 @@
     {
       "id": "LM-MEDIA-014",
       "title": "Contextual Help"
+    },
+    {
+      "id": "LM-MEDIA-016",
+      "title": "Brand Identity"
     }
   ]
 }

@@ -16,7 +16,8 @@
     for (const card of cards) {
       card.hidden = (collection.value !== 'all' && card.dataset.collection !== collection.value) ||
         (service.value !== 'all' && card.dataset.service !== service.value);
-      card.querySelector('.media-preview').dataset.backdrop = backdrop.value;
+      const preview = card.querySelector('.media-preview');
+      preview.dataset.backdrop = backdrop.value === 'auto' ? (preview.dataset.defaultBackdrop || 'light') : backdrop.value;
     }
     for (const section of sections) {
       section.hidden = !section.querySelector('.media-card:not([hidden])');
