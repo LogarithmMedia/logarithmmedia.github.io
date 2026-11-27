@@ -3,7 +3,7 @@
   "collection": "LM-MEDIA",
   "title": "Media Library",
   "release_status": "draft",
-  "notes": "Clean restart: nine standalone transparent service illustrations, four standalone transparent challenge illustrations, and six transparent conceptual project mockups; all checksums and decoded alpha verified. Draft only; owner approval required before production use.",
+  "notes": "Clean restart: nine transparent service illustrations, four transparent challenge illustrations, six transparent conceptual project mockups, and one intentional full-bleed customer segment photograph. Customer segments collection is partial (1 of 4). Draft only; owner approval required before production use.",
   "assets": [
     {
       "id": "LM-MEDIA-SVC-001-A",
@@ -571,6 +571,29 @@
         ],
         "edge_alpha_max": 0
       }
+    },
+    {
+      "id": "LM-MEDIA-SEG-001-A",
+      "collection": "LM-MEDIA-004",
+      "section": "LM-SEC-006",
+      "service": "b2b",
+      "title": "B2B and service businesses",
+      "variant": "A",
+      "description": "AI-generated editorial photograph representing a B2B customer segment, not actual clients.",
+      "alt": "Business professionals reviewing documents around a conference table",
+      "format": "webp",
+      "width": 1448,
+      "height": 1086,
+      "alpha": false,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/segments/LM-MEDIA-SEG-001-A-b2b.webp",
+      "bytes": 151426,
+      "sha256": "ddd8cf27e1e2a68de5bba9bdc5939474f9a9b7b46402a9f4c173ab284f3a54fe",
+      "source_type": "AI-generated editorial photography",
+      "usage_boundary": "Illustrative customer segment only; do not present as actual clients or staff.",
+      "background_type": "intentional full-bleed photography",
+      "transparency_required": false
     }
   ],
   "collections": [
@@ -585,6 +608,17 @@
     {
       "id": "LM-MEDIA-003",
       "title": "Project showcase and mockups"
+    },
+    {
+      "id": "LM-MEDIA-004",
+      "title": "Customer segments",
+      "status": "partial",
+      "planned_asset_count": 4,
+      "missing_segments": [
+        "E-commerce brands",
+        "Local businesses",
+        "Startups"
+      ]
     }
   ]
 }

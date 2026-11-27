@@ -1,0 +1,25 @@
+[
+  {
+    "id": "LM-MEDIA-SEG-001-A",
+    "collection": "LM-MEDIA-004",
+    "section": "LM-SEC-006",
+    "service": "b2b",
+    "title": "B2B and service businesses",
+    "variant": "A",
+    "description": "AI-generated editorial photograph representing a B2B customer segment, not actual clients.",
+    "alt": "Business professionals reviewing documents around a conference table",
+    "format": "webp",
+    "width": 1448,
+    "height": 1086,
+    "alpha": false,
+    "status": "draft",
+    "availability": "available",
+    "path": "assets/segments/LM-MEDIA-SEG-001-A-b2b.webp",
+    "bytes": 151426,
+    "sha256": "ddd8cf27e1e2a68de5bba9bdc5939474f9a9b7b46402a9f4c173ab284f3a54fe",
+    "source_type": "AI-generated editorial photography",
+    "usage_boundary": "Illustrative customer segment only; do not present as actual clients or staff.",
+    "background_type": "intentional full-bleed photography",
+    "transparency_required": false
+  }
+]
