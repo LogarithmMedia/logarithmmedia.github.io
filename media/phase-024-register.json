@@ -317,10 +317,32 @@
       "category": "female-led",
       "title": "Business owner reviewing website on tablet",
       "intended_placement": "Web development service page",
-      "state": "planned",
+      "state": "accepted-draft",
       "release_status": "draft",
       "production_ready": false,
-      "acceptance": null
+      "acceptance": {
+        "scores": {
+          "palette": 19,
+          "relevance": 20,
+          "craftsmanship": 18,
+          "originality": 14,
+          "technical": 15,
+          "placement": 9
+        },
+        "total": 95,
+        "visual_checks": "Final WebP reviewed individually in both themes; natural anatomy, palette, full silhouette, clean edges and meaningful alpha checked. Scores are editorial judgments. Isolated speck removed and final preview rechecked."
+      },
+      "width": 1536,
+      "height": 1024,
+      "bytes": 78728,
+      "sha256": "d7e5057a97e0aef22616ad79a909e2b5418cf11f125373bfeadcc4143f178003",
+      "alpha_zero_pct": 76.59,
+      "source_sha256": "f9e673355d9612be14919be66032d6cc85af85fd1bc0ef04db24fd172608cd96",
+      "edge_alpha_max": 0,
+      "alt": "A standing business owner compares a tablet with a laptop and phone on a display stand.",
+      "processing": "Near-opaque alpha normalized, low alpha residue cleared, proportional transparent padding, WebP quality 90. Original preserved. Removed isolated alpha speck above subject; earlier clipped candidate retained outside gallery.",
+      "path": "assets/web-development/LM-MEDIA-WEB-001-B-business-owner-reviewing-website-on-tablet.webp",
+      "source_filename": "call_Sdx_NnPY6aw0n5o8Ymib59PUleHuajEN.png"
     },
     {
       "id": "LM-MEDIA-WEB-002-B",
@@ -329,10 +351,32 @@
       "category": "female-led",
       "title": "UI/UX designer working on wireframes",
       "intended_placement": "Web development service page",
-      "state": "planned",
+      "state": "accepted-draft",
       "release_status": "draft",
       "production_ready": false,
-      "acceptance": null
+      "acceptance": {
+        "scores": {
+          "palette": 19,
+          "relevance": 20,
+          "craftsmanship": 18,
+          "originality": 14,
+          "technical": 15,
+          "placement": 9
+        },
+        "total": 95,
+        "visual_checks": "Final WebP reviewed individually in both themes; natural anatomy, palette, full silhouette, clean edges and meaningful alpha checked. Scores are editorial judgments."
+      },
+      "width": 1536,
+      "height": 1024,
+      "bytes": 106094,
+      "sha256": "a713f57f74eaf871f5b7e42827c8c0383c0d8f3f19f01f65da97c1afab1b39d6",
+      "alpha_zero_pct": 67.67,
+      "source_sha256": "9f70e2808e26a5cf8f3b47bafe18ab468bce4575155742c4cc5d9632154c1774",
+      "edge_alpha_max": 0,
+      "alt": "A seated designer arranges interface wireframes on a freestanding review board.",
+      "processing": "Near-opaque alpha normalized, low alpha residue cleared, proportional transparent padding, WebP quality 90. Original preserved. Earlier clipped candidate retained outside gallery.",
+      "path": "assets/web-development/LM-MEDIA-WEB-002-B-ui-ux-designer-working-on-wireframes.webp",
+      "source_filename": "call_Rkocg97NAIC8tEr0jO4ylPu2cnRfH9is.png"
     },
     {
       "id": "LM-MEDIA-WEB-003-B",
@@ -341,10 +385,32 @@
       "category": "female-led",
       "title": "Mobile performance tester",
       "intended_placement": "Web development service page",
-      "state": "planned",
+      "state": "accepted-draft",
       "release_status": "draft",
       "production_ready": false,
-      "acceptance": null
+      "acceptance": {
+        "scores": {
+          "palette": 19,
+          "relevance": 19,
+          "craftsmanship": 18,
+          "originality": 13,
+          "technical": 15,
+          "placement": 9
+        },
+        "total": 93,
+        "visual_checks": "Final WebP reviewed individually in both themes; natural anatomy, palette, full silhouette, clean edges and meaningful alpha checked. Scores are editorial judgments."
+      },
+      "width": 1536,
+      "height": 1024,
+      "bytes": 73440,
+      "sha256": "5014e756607a46072d58a0b56ef520162b4a10bb39bab0ad31ebecf290c42765",
+      "alpha_zero_pct": 79.77,
+      "source_sha256": "c29eb2897b96c6212284af56d99019d768bc0d09b3a9bb2a588f5ac8145da1d9",
+      "edge_alpha_max": 0,
+      "alt": "A seated mobile tester uses a smartphone next to a standalone performance display.",
+      "processing": "Near-opaque alpha normalized, low alpha residue cleared, proportional transparent padding, WebP quality 90. Original preserved. Earlier clipped candidate retained outside gallery.",
+      "path": "assets/web-development/LM-MEDIA-WEB-003-B-mobile-performance-tester.webp",
+      "source_filename": "call_yHw4-Ayke0pto5wcvEUCFqwWOstkI1m4.png"
     },
     {
       "id": "LM-MEDIA-WEB-004-B",
@@ -353,10 +419,32 @@
       "category": "female-led",
       "title": "Integration specialist",
       "intended_placement": "Web development service page",
-      "state": "planned",
+      "state": "accepted-draft",
       "release_status": "draft",
       "production_ready": false,
-      "acceptance": null
+      "acceptance": {
+        "scores": {
+          "palette": 19,
+          "relevance": 20,
+          "craftsmanship": 18,
+          "originality": 14,
+          "technical": 15,
+          "placement": 9
+        },
+        "total": 95,
+        "visual_checks": "Final WebP reviewed individually in both themes; natural anatomy, palette, full silhouette, clean edges and meaningful alpha checked. Scores are editorial judgments. Board feet and shoes fully inside padded canvas."
+      },
+      "width": 1536,
+      "height": 1024,
+      "bytes": 140980,
+      "sha256": "5eef9efe8b031a1b97391fa806adc082f5ad58018a9267aaca81892346568756",
+      "alpha_zero_pct": 62.13,
+      "source_sha256": "23b7ce8a85d361d57f49551d98c8477a18e66a8f9254664d2d1ce2510fd3ff9c",
+      "edge_alpha_max": 0,
+      "alt": "A crouching integration specialist points to connected system modules on a whiteboard while holding a tablet.",
+      "processing": "Near-opaque alpha normalized, low alpha residue cleared, proportional transparent padding, WebP quality 90. Original preserved.",
+      "path": "assets/web-development/LM-MEDIA-WEB-004-B-integration-specialist.webp",
+      "source_filename": "call_Lkq8gl50CJi_T6kxOupQBtcMDXUOerV2.png"
     },
     {
       "id": "LM-MEDIA-WEB-001-C",
@@ -861,7 +949,13 @@
       "date": "2026-11-28",
       "phase": "01.2",
       "state": "accepted-draft",
-      "evidence": "Four optimized WebPs individually reviewed in both themes; dimensions, hashes, alpha and clear canvas edges checked. Public deployment verification pending."
+      "evidence": "Four optimized WebPs individually reviewed in both themes; dimensions, hashes, alpha and clear canvas edges checked. Public Pages run 46149475631 succeeded for 7ba53afd56392427f1f34b69f0e8ea3323ce8528; nine changed files and root byte-identical; six local and six public browser/viewport checks passed."
+    },
+    {
+      "date": "2026-11-28",
+      "phase": "02.1",
+      "state": "accepted-draft",
+      "evidence": "Four final female-led WebPs individually reviewed on both surfaces. Dimensions, checksums, alpha and edges verified. Three clipped candidates replaced; isolated alpha artifact removed from 001-B. Public deployment verification pending."
     }
   ]
 }

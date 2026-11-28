@@ -3,7 +3,7 @@
   "collection": "LM-MEDIA",
   "title": "Media Library",
   "release_status": "draft",
-  "notes": "Clean restart: nine transparent service illustrations, four transparent challenge illustrations, six transparent conceptual project mockups, four intentional full-bleed customer segment photographs, four transparent growth framework illustrations, five transparent process illustrations, six intentional full-bleed editorial covers, eight opaque abstract brand backgrounds (four original and four calm alternatives), five opaque social sharing cover bases, four opaque hero alternatives, three transparent pricing and engagement illustrations, one transparent contextual help illustration, four transparent brand identity PNGs, eight transparent SEO service-page illustrations (four original variants and four human-led supplements), eight transparent Google Ads & PPC service-page illustrations (four object-only and four human-led), eight transparent Search Engine Marketing service-page illustrations (four object-only and four human-led), and twelve intentional full-bleed Social Media Marketing photographs and twelve transparent Social Media Marketing illustrations (four object-only A, four female-led B and four male-led C), plus four supplemental male-oriented derived crops with observed alpha, and eighteen transparent Content Marketing illustrations (nine core and nine supplemental; three core slots pending), and fourteen transparent Email Marketing illustrations (eleven core and three supplemental; retention object-only pending; six edge-alpha review flags), and twenty-two transparent Market Research illustrations (twelve core and ten supplemental). Four transparent Web Development technical illustrations (first batch). Draft only; owner approval required before production use.",
+  "notes": "Clean restart: nine transparent service illustrations, four transparent challenge illustrations, six transparent conceptual project mockups, four intentional full-bleed customer segment photographs, four transparent growth framework illustrations, five transparent process illustrations, six intentional full-bleed editorial covers, eight opaque abstract brand backgrounds (four original and four calm alternatives), five opaque social sharing cover bases, four opaque hero alternatives, three transparent pricing and engagement illustrations, one transparent contextual help illustration, four transparent brand identity PNGs, eight transparent SEO service-page illustrations (four original variants and four human-led supplements), eight transparent Google Ads & PPC service-page illustrations (four object-only and four human-led), eight transparent Search Engine Marketing service-page illustrations (four object-only and four human-led), and twelve intentional full-bleed Social Media Marketing photographs and twelve transparent Social Media Marketing illustrations (four object-only A, four female-led B and four male-led C), plus four supplemental male-oriented derived crops with observed alpha, and eighteen transparent Content Marketing illustrations (nine core and nine supplemental; three core slots pending), and fourteen transparent Email Marketing illustrations (eleven core and three supplemental; retention object-only pending; six edge-alpha review flags), and twenty-two transparent Market Research illustrations (twelve core and ten supplemental). Eight transparent Web Development technical illustrations and four transparent photorealistic female-led illustrations. Draft only; owner approval required before production use.",
   "assets": [
     {
       "id": "LM-MEDIA-SVC-001-A",
@@ -6958,6 +6958,198 @@
       "review_notes": "Conceptual 3D illustration; final optimized artwork visually checked on cool white and deep navy. Draft review required before production use.",
       "production_ready": false,
       "acceptance_score": 97
+    },
+    {
+      "id": "LM-MEDIA-WEB-001-B",
+      "collection": "LM-MEDIA-024",
+      "service": "web-development",
+      "subcategory": "female-led",
+      "title": "Business owner reviewing website on tablet",
+      "variant": "B",
+      "visual_type": "photorealistic-female-led",
+      "concept": "001",
+      "concept_title": "Responsive website across devices",
+      "description": "A standing business owner compares a tablet with a laptop and phone on a display stand.",
+      "alt": "A standing business owner compares a tablet with a laptop and phone on a display stand.",
+      "format": "webp",
+      "width": 1536,
+      "height": 1024,
+      "alpha": true,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/web-development/LM-MEDIA-WEB-001-B-business-owner-reviewing-website-on-tablet.webp",
+      "bytes": 78728,
+      "sha256": "d7e5057a97e0aef22616ad79a909e2b5418cf11f125373bfeadcc4143f178003",
+      "source_sha256": "f9e673355d9612be14919be66032d6cc85af85fd1bc0ef04db24fd172608cd96",
+      "source_dimensions": [
+        1536,
+        1024
+      ],
+      "source_type": "AI-generated photorealistic artwork",
+      "processing": "Near-opaque alpha normalized, low alpha residue cleared, proportional transparent padding, WebP quality 90. Original preserved. Removed isolated alpha speck above subject; earlier clipped candidate retained outside gallery.",
+      "usage": [
+        "Web development service page",
+        "Draft visual review"
+      ],
+      "background_policy": "transparent illustration",
+      "theme": "both themes",
+      "transparency": {
+        "transparent_pixel_percent": 76.59,
+        "edge_alpha_max": 0,
+        "corner_alpha": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "review_notes": "Photorealistic AI-generated illustration; final optimized artwork individually reviewed on cool white and deep navy. Draft review required before production use.",
+      "production_ready": false,
+      "acceptance_score": 95
+    },
+    {
+      "id": "LM-MEDIA-WEB-002-B",
+      "collection": "LM-MEDIA-024",
+      "service": "web-development",
+      "subcategory": "female-led",
+      "title": "UI/UX designer working on wireframes",
+      "variant": "B",
+      "visual_type": "photorealistic-female-led",
+      "concept": "002",
+      "concept_title": "UI/UX design and components",
+      "description": "A seated designer arranges interface wireframes on a freestanding review board.",
+      "alt": "A seated designer arranges interface wireframes on a freestanding review board.",
+      "format": "webp",
+      "width": 1536,
+      "height": 1024,
+      "alpha": true,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/web-development/LM-MEDIA-WEB-002-B-ui-ux-designer-working-on-wireframes.webp",
+      "bytes": 106094,
+      "sha256": "a713f57f74eaf871f5b7e42827c8c0383c0d8f3f19f01f65da97c1afab1b39d6",
+      "source_sha256": "9f70e2808e26a5cf8f3b47bafe18ab468bce4575155742c4cc5d9632154c1774",
+      "source_dimensions": [
+        1536,
+        1024
+      ],
+      "source_type": "AI-generated photorealistic artwork",
+      "processing": "Near-opaque alpha normalized, low alpha residue cleared, proportional transparent padding, WebP quality 90. Original preserved. Earlier clipped candidate retained outside gallery.",
+      "usage": [
+        "Web development service page",
+        "Draft visual review"
+      ],
+      "background_policy": "transparent illustration",
+      "theme": "both themes",
+      "transparency": {
+        "transparent_pixel_percent": 67.67,
+        "edge_alpha_max": 0,
+        "corner_alpha": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "review_notes": "Photorealistic AI-generated illustration; final optimized artwork individually reviewed on cool white and deep navy. Draft review required before production use.",
+      "production_ready": false,
+      "acceptance_score": 95
+    },
+    {
+      "id": "LM-MEDIA-WEB-003-B",
+      "collection": "LM-MEDIA-024",
+      "service": "web-development",
+      "subcategory": "female-led",
+      "title": "Mobile performance tester",
+      "variant": "B",
+      "visual_type": "photorealistic-female-led",
+      "concept": "003",
+      "concept_title": "Performance and efficient delivery",
+      "description": "A seated mobile tester uses a smartphone next to a standalone performance display.",
+      "alt": "A seated mobile tester uses a smartphone next to a standalone performance display.",
+      "format": "webp",
+      "width": 1536,
+      "height": 1024,
+      "alpha": true,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/web-development/LM-MEDIA-WEB-003-B-mobile-performance-tester.webp",
+      "bytes": 73440,
+      "sha256": "5014e756607a46072d58a0b56ef520162b4a10bb39bab0ad31ebecf290c42765",
+      "source_sha256": "c29eb2897b96c6212284af56d99019d768bc0d09b3a9bb2a588f5ac8145da1d9",
+      "source_dimensions": [
+        1536,
+        1024
+      ],
+      "source_type": "AI-generated photorealistic artwork",
+      "processing": "Near-opaque alpha normalized, low alpha residue cleared, proportional transparent padding, WebP quality 90. Original preserved. Earlier clipped candidate retained outside gallery.",
+      "usage": [
+        "Web development service page",
+        "Draft visual review"
+      ],
+      "background_policy": "transparent illustration",
+      "theme": "both themes",
+      "transparency": {
+        "transparent_pixel_percent": 79.77,
+        "edge_alpha_max": 0,
+        "corner_alpha": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "review_notes": "Photorealistic AI-generated illustration; final optimized artwork individually reviewed on cool white and deep navy. Draft review required before production use.",
+      "production_ready": false,
+      "acceptance_score": 93
+    },
+    {
+      "id": "LM-MEDIA-WEB-004-B",
+      "collection": "LM-MEDIA-024",
+      "service": "web-development",
+      "subcategory": "female-led",
+      "title": "Integration specialist",
+      "variant": "B",
+      "visual_type": "photorealistic-female-led",
+      "concept": "004",
+      "concept_title": "Development architecture",
+      "description": "A crouching integration specialist points to connected system modules on a whiteboard while holding a tablet.",
+      "alt": "A crouching integration specialist points to connected system modules on a whiteboard while holding a tablet.",
+      "format": "webp",
+      "width": 1536,
+      "height": 1024,
+      "alpha": true,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/web-development/LM-MEDIA-WEB-004-B-integration-specialist.webp",
+      "bytes": 140980,
+      "sha256": "5eef9efe8b031a1b97391fa806adc082f5ad58018a9267aaca81892346568756",
+      "source_sha256": "23b7ce8a85d361d57f49551d98c8477a18e66a8f9254664d2d1ce2510fd3ff9c",
+      "source_dimensions": [
+        1536,
+        1024
+      ],
+      "source_type": "AI-generated photorealistic artwork",
+      "processing": "Near-opaque alpha normalized, low alpha residue cleared, proportional transparent padding, WebP quality 90. Original preserved.",
+      "usage": [
+        "Web development service page",
+        "Draft visual review"
+      ],
+      "background_policy": "transparent illustration",
+      "theme": "both themes",
+      "transparency": {
+        "transparent_pixel_percent": 62.13,
+        "edge_alpha_max": 0,
+        "corner_alpha": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "review_notes": "Photorealistic AI-generated illustration; final optimized artwork individually reviewed on cool white and deep navy. Draft review required before production use.",
+      "production_ready": false,
+      "acceptance_score": 95
     }
   ],
   "collections": [
