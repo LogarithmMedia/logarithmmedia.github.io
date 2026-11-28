@@ -453,10 +453,32 @@
       "category": "male-led",
       "title": "Business owner reviewing new website",
       "intended_placement": "Web development service page",
-      "state": "planned",
+      "state": "accepted-draft",
       "release_status": "draft",
       "production_ready": false,
-      "acceptance": null
+      "acceptance": {
+        "scores": {
+          "palette": 19,
+          "relevance": 20,
+          "craftsmanship": 18,
+          "originality": 13,
+          "technical": 15,
+          "placement": 9
+        },
+        "total": 94,
+        "visual_checks": "Complete silhouette and distinct human-led device composition."
+      },
+      "width": 1536,
+      "height": 1024,
+      "bytes": 84566,
+      "sha256": "ec7dd651dd18272748cb09f6e8ddab3a56d1ac4e05e9247e680d59aa2eaa400f",
+      "alpha_zero_pct": 81.16,
+      "source_sha256": "e2406872a9aba3055ecae91f283a18c528447cdc2f0f675e57f2b4b0205a99a7",
+      "edge_alpha_max": 0,
+      "alt": "A business owner compares the website on a phone and a large physical screen.",
+      "processing": "Near-opaque alpha normalized, low alpha residue cleared, proportional transparent padding, WebP quality 90. Original preserved.",
+      "path": "assets/web-development/LM-MEDIA-WEB-001-C-business-owner-reviewing-new-website.webp",
+      "source_filename": "call_h_vKDkkWtLhDrknRed4K2wMKj55TdpnG.png"
     },
     {
       "id": "LM-MEDIA-WEB-002-C",
@@ -465,10 +487,32 @@
       "category": "male-led",
       "title": "Prototype designer",
       "intended_placement": "Web development service page",
-      "state": "planned",
+      "state": "accepted-draft",
       "release_status": "draft",
       "production_ready": false,
-      "acceptance": null
+      "acceptance": {
+        "scores": {
+          "palette": 20,
+          "relevance": 20,
+          "craftsmanship": 19,
+          "originality": 14,
+          "technical": 15,
+          "placement": 9
+        },
+        "total": 97,
+        "visual_checks": "Plant removed; full desk and shoes visible."
+      },
+      "width": 1536,
+      "height": 1024,
+      "bytes": 131594,
+      "sha256": "1576449c9b5e5e89471b8848e49fe2d451a4faed2d1851d9858deb99a975f003",
+      "alpha_zero_pct": 75.96,
+      "source_sha256": "ad938090d9642abb70363f2e825c09ef7f7a75c76d6f4f345f14f77464d8a5ef",
+      "edge_alpha_max": 0,
+      "alt": "A seated designer drafts website wireframes with pencil and printed interface layouts.",
+      "processing": "Near-opaque alpha normalized, low alpha residue cleared, proportional transparent padding, WebP quality 90. Original preserved.",
+      "path": "assets/web-development/LM-MEDIA-WEB-002-C-prototype-designer.webp",
+      "source_filename": "call_sNYE1LGQbSp0ji6HpFC0OYc3yfkDl1NP.png"
     },
     {
       "id": "LM-MEDIA-WEB-003-C",
@@ -477,10 +521,32 @@
       "category": "male-led",
       "title": "Performance specialist",
       "intended_placement": "Web development service page",
-      "state": "planned",
+      "state": "accepted-draft",
       "release_status": "draft",
       "production_ready": false,
-      "acceptance": null
+      "acceptance": {
+        "scores": {
+          "palette": 20,
+          "relevance": 19,
+          "craftsmanship": 18,
+          "originality": 13,
+          "technical": 15,
+          "placement": 9
+        },
+        "total": 94,
+        "visual_checks": "Foliage removed; abstract performance display."
+      },
+      "width": 1536,
+      "height": 1024,
+      "bytes": 94784,
+      "sha256": "8dabe144941a56742a58cd3ef14dda9a1919f099555f1d28f9080600ae901f7d",
+      "alpha_zero_pct": 85.55,
+      "source_sha256": "858327c5e0fc932bf75ed043cd2cbfbcb5492c0b916ab47f3d416ab487d49923",
+      "edge_alpha_max": 0,
+      "alt": "A specialist tests a phone beside a physical performance display and laptop.",
+      "processing": "Near-opaque alpha normalized, low alpha residue cleared, proportional transparent padding, WebP quality 90. Original preserved.",
+      "path": "assets/web-development/LM-MEDIA-WEB-003-C-performance-specialist.webp",
+      "source_filename": "call_8FEcNB3q2g7p2c4rm5KHis4YmU0l_9TJ.png"
     },
     {
       "id": "LM-MEDIA-WEB-004-C",
@@ -489,10 +555,32 @@
       "category": "male-led",
       "title": "Developer working on integration",
       "intended_placement": "Web development service page",
-      "state": "planned",
+      "state": "accepted-draft",
       "release_status": "draft",
       "production_ready": false,
-      "acceptance": null
+      "acceptance": {
+        "scores": {
+          "palette": 19,
+          "relevance": 19,
+          "craftsmanship": 18,
+          "originality": 14,
+          "technical": 15,
+          "placement": 9
+        },
+        "total": 94,
+        "visual_checks": "Conceptual integration; no performance claim."
+      },
+      "width": 1536,
+      "height": 1024,
+      "bytes": 124834,
+      "sha256": "bb9677ca949ea03d712f7988cbbf495c752f5e257406fc6412e769cfb643c705",
+      "alpha_zero_pct": 71.76,
+      "source_sha256": "9768674a4e1586448adb4a87a5cc98770df44e894f4869443269ca49fc1759fa",
+      "edge_alpha_max": 0,
+      "alt": "A kneeling technician connects network equipment beside a tablet.",
+      "processing": "Near-opaque alpha normalized, low alpha residue cleared, proportional transparent padding, WebP quality 90. Original preserved.",
+      "path": "assets/web-development/LM-MEDIA-WEB-004-C-developer-working-on-integration.webp",
+      "source_filename": "call_OPXxKOBMlj6PR3RJE2wIRW-zIFgLxo1l.png"
     },
     {
       "id": "LM-MEDIA-WEB-SHW-001-A",
@@ -955,7 +1043,13 @@
       "date": "2026-11-28",
       "phase": "02.1",
       "state": "accepted-draft",
-      "evidence": "Four final female-led WebPs individually reviewed on both surfaces. Dimensions, checksums, alpha and edges verified. Three clipped candidates replaced; isolated alpha artifact removed from 001-B. Public deployment verification pending."
+      "evidence": "Four final female-led WebPs individually reviewed on both surfaces. Dimensions, checksums, alpha and edges verified. Three clipped candidates replaced; isolated alpha artifact removed from 001-B. Public Pages run 46151729913 succeeded for 56b7a12ec7caacd8e9b7e517122a11388264a119; byte parity 9/9; six local and six public browser checks passed."
+    },
+    {
+      "date": "2026-11-28",
+      "phase": "02.2",
+      "state": "accepted-draft",
+      "evidence": "Four final male-led WebPs individually visually reviewed in both themes; dimensions, alpha, edges and checksums verified. Two original candidates regenerated for palette. Public deployment verification pending."
     }
   ]
 }
