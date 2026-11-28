@@ -3,7 +3,7 @@
   "collection": "LM-MEDIA",
   "title": "Media Library",
   "release_status": "draft",
-  "notes": "Clean restart: nine transparent service illustrations, four transparent challenge illustrations, six transparent conceptual project mockups, four intentional full-bleed customer segment photographs, four transparent growth framework illustrations, five transparent process illustrations, six intentional full-bleed editorial covers, eight opaque abstract brand backgrounds (four original and four calm alternatives), five opaque social sharing cover bases, four opaque hero alternatives, three transparent pricing and engagement illustrations, one transparent contextual help illustration, four transparent brand identity PNGs, eight transparent SEO service-page illustrations (four original variants and four human-led supplements), eight transparent Google Ads & PPC service-page illustrations (four object-only and four human-led), eight transparent Search Engine Marketing service-page illustrations (four object-only and four human-led), and twelve intentional full-bleed Social Media Marketing photographs and twelve transparent Social Media Marketing illustrations (four object-only A, four female-led B and four male-led C), plus four supplemental male-oriented derived crops with observed alpha, and eighteen transparent Content Marketing illustrations (nine core and nine supplemental; three core slots pending), and fourteen transparent Email Marketing illustrations (eleven core and three supplemental; retention object-only pending; six edge-alpha review flags). Draft only; owner approval required before production use.",
+  "notes": "Clean restart: nine transparent service illustrations, four transparent challenge illustrations, six transparent conceptual project mockups, four intentional full-bleed customer segment photographs, four transparent growth framework illustrations, five transparent process illustrations, six intentional full-bleed editorial covers, eight opaque abstract brand backgrounds (four original and four calm alternatives), five opaque social sharing cover bases, four opaque hero alternatives, three transparent pricing and engagement illustrations, one transparent contextual help illustration, four transparent brand identity PNGs, eight transparent SEO service-page illustrations (four original variants and four human-led supplements), eight transparent Google Ads & PPC service-page illustrations (four object-only and four human-led), eight transparent Search Engine Marketing service-page illustrations (four object-only and four human-led), and twelve intentional full-bleed Social Media Marketing photographs and twelve transparent Social Media Marketing illustrations (four object-only A, four female-led B and four male-led C), plus four supplemental male-oriented derived crops with observed alpha, and eighteen transparent Content Marketing illustrations (nine core and nine supplemental; three core slots pending), and fourteen transparent Email Marketing illustrations (eleven core and three supplemental; retention object-only pending; six edge-alpha review flags), and sixteen transparent Market Research illustrations (nine core and seven supplemental; three core slots pending). Draft only; owner approval required before production use.",
   "assets": [
     {
       "id": "LM-MEDIA-SVC-001-A",
@@ -5592,6 +5592,699 @@
       "review_notes": "AI-generated draft; owner visual review required. Canvas edge alpha reaches 253/255. Substantial visible edge contact; review cropping or padding before production.",
       "production_ready": false,
       "counts_toward_core_variants": true
+    },
+    {
+      "id": "LM-MEDIA-MR-001-A",
+      "collection": "LM-MEDIA-023",
+      "service": "market-research",
+      "subcategory": "object-only-transparent",
+      "title": "Market intelligence",
+      "variant": "A",
+      "visual_type": "3d-object-only",
+      "concept": "001",
+      "concept_title": "Market intelligence",
+      "description": "Market intelligence: 3d-object-only conceptual market research illustration.",
+      "alt": "Market intelligence illustration",
+      "format": "webp",
+      "width": 1448,
+      "height": 1086,
+      "alpha": true,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/market-research/LM-MEDIA-MR-001-A-market-intelligence.webp",
+      "bytes": 147376,
+      "sha256": "0c54e590c6097088f324ac52273429697142bc69880954bf8362f5e3d83475aa",
+      "source_type": "AI-generated conceptual artwork",
+      "processing": "Conservative alpha cleanup of low opacity and distant edge residue; proportional padding where required; WebP quality 92. No recoloring.",
+      "usage": [
+        "Market research service page",
+        "Draft visual review"
+      ],
+      "background_policy": "transparent illustration",
+      "theme": "both themes",
+      "transparency": {
+        "transparent_pixel_percent": 34.37,
+        "edge_alpha_max": 0,
+        "corner_alpha": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "review_notes": "Illustrative charts, not actual business results. Owner visual approval required. Some compositions include stylized blue foliage or desk crops.",
+      "production_ready": false,
+      "counts_toward_core_variants": true
+    },
+    {
+      "id": "LM-MEDIA-MR-002-A",
+      "collection": "LM-MEDIA-023",
+      "service": "market-research",
+      "subcategory": "object-only-transparent",
+      "title": "Customer insights",
+      "variant": "A",
+      "visual_type": "3d-object-only",
+      "concept": "002",
+      "concept_title": "Customer insights",
+      "description": "Customer insights: 3d-object-only conceptual market research illustration.",
+      "alt": "Customer insights illustration",
+      "format": "webp",
+      "width": 1448,
+      "height": 1086,
+      "alpha": true,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/market-research/LM-MEDIA-MR-002-A-customer-insights.webp",
+      "bytes": 105932,
+      "sha256": "a31d9a1d36bb30fa9127ff9f1ca8670571b4d286ec9228b58577d93172a932f5",
+      "source_type": "AI-generated conceptual artwork",
+      "processing": "Conservative alpha cleanup of low opacity and distant edge residue; proportional padding where required; WebP quality 92. No recoloring.",
+      "usage": [
+        "Market research service page",
+        "Draft visual review"
+      ],
+      "background_policy": "transparent illustration",
+      "theme": "both themes",
+      "transparency": {
+        "transparent_pixel_percent": 50.56,
+        "edge_alpha_max": 0,
+        "corner_alpha": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "review_notes": "Illustrative charts, not actual business results. Owner visual approval required. Some compositions include stylized blue foliage or desk crops.",
+      "production_ready": false,
+      "counts_toward_core_variants": true
+    },
+    {
+      "id": "LM-MEDIA-MR-003-A",
+      "collection": "LM-MEDIA-023",
+      "service": "market-research",
+      "subcategory": "object-only-transparent",
+      "title": "Competitor analysis",
+      "variant": "A",
+      "visual_type": "3d-object-only",
+      "concept": "003",
+      "concept_title": "Competitor analysis",
+      "description": "Competitor analysis: 3d-object-only conceptual market research illustration.",
+      "alt": "Competitor analysis illustration",
+      "format": "webp",
+      "width": 1448,
+      "height": 1086,
+      "alpha": true,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/market-research/LM-MEDIA-MR-003-A-competitor-analysis.webp",
+      "bytes": 171090,
+      "sha256": "f3038f6284886d8ce1b8e1dbe53eee6cf4e2524869cad34619a22824a1769af2",
+      "source_type": "AI-generated conceptual artwork",
+      "processing": "Conservative alpha cleanup of low opacity and distant edge residue; proportional padding where required; WebP quality 92. No recoloring.",
+      "usage": [
+        "Market research service page",
+        "Draft visual review"
+      ],
+      "background_policy": "transparent illustration",
+      "theme": "both themes",
+      "transparency": {
+        "transparent_pixel_percent": 27.49,
+        "edge_alpha_max": 0,
+        "corner_alpha": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "review_notes": "Illustrative charts, not actual business results. Owner visual approval required. Some compositions include stylized blue foliage or desk crops.",
+      "production_ready": false,
+      "counts_toward_core_variants": true
+    },
+    {
+      "id": "LM-MEDIA-MR-004-A",
+      "collection": "LM-MEDIA-023",
+      "service": "market-research",
+      "subcategory": "object-only-transparent",
+      "title": "Business decisions",
+      "variant": "A",
+      "visual_type": "3d-object-only",
+      "concept": "004",
+      "concept_title": "Business decisions",
+      "description": "Business decisions: 3d-object-only conceptual market research illustration.",
+      "alt": "Business decisions illustration",
+      "format": "webp",
+      "width": 1448,
+      "height": 1086,
+      "alpha": true,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/market-research/LM-MEDIA-MR-004-A-business-decisions.webp",
+      "bytes": 148598,
+      "sha256": "01d3960d37e6ab792868e5165ad52cdd71cffddd0dd442bf3bcc2036bbff740f",
+      "source_type": "AI-generated conceptual artwork",
+      "processing": "Conservative alpha cleanup of low opacity and distant edge residue; proportional padding where required; WebP quality 92. No recoloring.",
+      "usage": [
+        "Market research service page",
+        "Draft visual review"
+      ],
+      "background_policy": "transparent illustration",
+      "theme": "both themes",
+      "transparency": {
+        "transparent_pixel_percent": 26.64,
+        "edge_alpha_max": 0,
+        "corner_alpha": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "review_notes": "Illustrative charts, not actual business results. Owner visual approval required. Some compositions include stylized blue foliage or desk crops.",
+      "production_ready": false,
+      "counts_toward_core_variants": true
+    },
+    {
+      "id": "LM-MEDIA-MR-002-B",
+      "collection": "LM-MEDIA-023",
+      "service": "market-research",
+      "subcategory": "human-led-transparent",
+      "title": "Customer insights",
+      "variant": "B",
+      "visual_type": "female-led",
+      "concept": "002",
+      "concept_title": "Customer insights",
+      "description": "Customer insights: female-led conceptual market research illustration.",
+      "alt": "Customer insights illustration",
+      "format": "webp",
+      "width": 1536,
+      "height": 1024,
+      "alpha": true,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/market-research/LM-MEDIA-MR-002-B-customer-insights-female-led.webp",
+      "bytes": 201102,
+      "sha256": "f57a492d0858e851896e83079e92dc6fa2b70146f99a2b8e811f205883309f54",
+      "source_type": "AI-generated conceptual artwork",
+      "processing": "Conservative alpha cleanup of low opacity and distant edge residue; proportional padding where required; WebP quality 92. No recoloring.",
+      "usage": [
+        "Market research service page",
+        "Draft visual review"
+      ],
+      "background_policy": "transparent illustration",
+      "theme": "both themes",
+      "transparency": {
+        "transparent_pixel_percent": 30.31,
+        "edge_alpha_max": 0,
+        "corner_alpha": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "review_notes": "Illustrative charts, not actual business results. Owner visual approval required. Some compositions include stylized blue foliage or desk crops.",
+      "production_ready": false,
+      "counts_toward_core_variants": true
+    },
+    {
+      "id": "LM-MEDIA-MR-003-B",
+      "collection": "LM-MEDIA-023",
+      "service": "market-research",
+      "subcategory": "human-led-transparent",
+      "title": "Competitor analysis",
+      "variant": "B",
+      "visual_type": "female-led",
+      "concept": "003",
+      "concept_title": "Competitor analysis",
+      "description": "Competitor analysis: female-led conceptual market research illustration.",
+      "alt": "Competitor analysis illustration",
+      "format": "webp",
+      "width": 1536,
+      "height": 1024,
+      "alpha": true,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/market-research/LM-MEDIA-MR-003-B-competitor-analysis-female-led.webp",
+      "bytes": 192390,
+      "sha256": "0649db276ac13e19b656edf9bde77d58b1ed530a9530e40c49d2743b7c8ebe50",
+      "source_type": "AI-generated conceptual artwork",
+      "processing": "Conservative alpha cleanup of low opacity and distant edge residue; proportional padding where required; WebP quality 92. No recoloring.",
+      "usage": [
+        "Market research service page",
+        "Draft visual review"
+      ],
+      "background_policy": "transparent illustration",
+      "theme": "both themes",
+      "transparency": {
+        "transparent_pixel_percent": 35.33,
+        "edge_alpha_max": 0,
+        "corner_alpha": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "review_notes": "Illustrative charts, not actual business results. Owner visual approval required. Some compositions include stylized blue foliage or desk crops.",
+      "production_ready": false,
+      "counts_toward_core_variants": true
+    },
+    {
+      "id": "LM-MEDIA-MR-002-C",
+      "collection": "LM-MEDIA-023",
+      "service": "market-research",
+      "subcategory": "human-led-transparent",
+      "title": "Customer insights",
+      "variant": "C",
+      "visual_type": "male-led",
+      "concept": "002",
+      "concept_title": "Customer insights",
+      "description": "Customer insights: male-led conceptual market research illustration.",
+      "alt": "Customer insights illustration",
+      "format": "webp",
+      "width": 1536,
+      "height": 1024,
+      "alpha": true,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/market-research/LM-MEDIA-MR-002-C-customer-insights-male-led.webp",
+      "bytes": 214336,
+      "sha256": "d73d41823c131e773c9eceb926574e5098d68ef2bf2e5305dd858ca4ae8a5023",
+      "source_type": "AI-generated conceptual artwork",
+      "processing": "Conservative alpha cleanup of low opacity and distant edge residue; proportional padding where required; WebP quality 92. No recoloring.",
+      "usage": [
+        "Market research service page",
+        "Draft visual review"
+      ],
+      "background_policy": "transparent illustration",
+      "theme": "both themes",
+      "transparency": {
+        "transparent_pixel_percent": 39.76,
+        "edge_alpha_max": 0,
+        "corner_alpha": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "review_notes": "Illustrative charts, not actual business results. Owner visual approval required. Some compositions include stylized blue foliage or desk crops.",
+      "production_ready": false,
+      "counts_toward_core_variants": true
+    },
+    {
+      "id": "LM-MEDIA-MR-004-C",
+      "collection": "LM-MEDIA-023",
+      "service": "market-research",
+      "subcategory": "human-led-transparent",
+      "title": "Business decisions",
+      "variant": "C",
+      "visual_type": "male-led",
+      "concept": "004",
+      "concept_title": "Business decisions",
+      "description": "Business decisions: male-led conceptual market research illustration.",
+      "alt": "Business decisions illustration",
+      "format": "webp",
+      "width": 1536,
+      "height": 1024,
+      "alpha": true,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/market-research/LM-MEDIA-MR-004-C-business-decisions-male-led.webp",
+      "bytes": 199084,
+      "sha256": "2515751ccfe2a9f6bd4bec413b20bd7e294152f42a8b97dfbfde7e878f7f356c",
+      "source_type": "AI-generated conceptual artwork",
+      "processing": "Conservative alpha cleanup of low opacity and distant edge residue; proportional padding where required; WebP quality 92. No recoloring.",
+      "usage": [
+        "Market research service page",
+        "Draft visual review"
+      ],
+      "background_policy": "transparent illustration",
+      "theme": "both themes",
+      "transparency": {
+        "transparent_pixel_percent": 35.01,
+        "edge_alpha_max": 0,
+        "corner_alpha": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "review_notes": "Illustrative charts, not actual business results. Owner visual approval required. Some compositions include stylized blue foliage or desk crops.",
+      "production_ready": false,
+      "counts_toward_core_variants": true
+    },
+    {
+      "id": "LM-MEDIA-MR-EX-002-A",
+      "collection": "LM-MEDIA-023",
+      "service": "market-research",
+      "subcategory": "supplemental-object-only-transparent",
+      "title": "Customer research dashboard",
+      "variant": "A",
+      "visual_type": "3d-object-only",
+      "concept": null,
+      "concept_title": "Customer research dashboard",
+      "description": "Customer research dashboard: 3d-object-only conceptual market research illustration.",
+      "alt": "Customer research dashboard illustration",
+      "format": "webp",
+      "width": 1536,
+      "height": 1024,
+      "alpha": true,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/market-research/LM-MEDIA-MR-EX-002-A-customer-research-dashboard.webp",
+      "bytes": 139548,
+      "sha256": "aa26d5611cf8214f1127f4d5ff547776f93c42ad97e768f2fce8a371621e71e6",
+      "source_type": "AI-generated conceptual artwork",
+      "processing": "Conservative alpha cleanup of low opacity and distant edge residue; proportional padding where required; WebP quality 92. No recoloring.",
+      "usage": [
+        "Market research service page",
+        "Draft visual review"
+      ],
+      "background_policy": "transparent illustration",
+      "theme": "both themes",
+      "transparency": {
+        "transparent_pixel_percent": 42.91,
+        "edge_alpha_max": 0,
+        "corner_alpha": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "review_notes": "Illustrative charts, not actual business results. Owner visual approval required. Some compositions include stylized blue foliage or desk crops.",
+      "production_ready": false,
+      "counts_toward_core_variants": false
+    },
+    {
+      "id": "LM-MEDIA-MR-EX-003-A",
+      "collection": "LM-MEDIA-023",
+      "service": "market-research",
+      "subcategory": "supplemental-object-only-transparent",
+      "title": "Strategy research clipboard",
+      "variant": "A",
+      "visual_type": "3d-object-only",
+      "concept": null,
+      "concept_title": "Strategy research clipboard",
+      "description": "Strategy research clipboard: 3d-object-only conceptual market research illustration.",
+      "alt": "Strategy research clipboard illustration",
+      "format": "webp",
+      "width": 1536,
+      "height": 1024,
+      "alpha": true,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/market-research/LM-MEDIA-MR-EX-003-A-strategy-research-clipboard.webp",
+      "bytes": 121890,
+      "sha256": "817162031f6e320f750cd1a683a2fe200ab40e0152d01588b1bcaa6da51be19c",
+      "source_type": "AI-generated conceptual artwork",
+      "processing": "Conservative alpha cleanup of low opacity and distant edge residue; proportional padding where required; WebP quality 92. No recoloring.",
+      "usage": [
+        "Market research service page",
+        "Draft visual review"
+      ],
+      "background_policy": "transparent illustration",
+      "theme": "both themes",
+      "transparency": {
+        "transparent_pixel_percent": 55.45,
+        "edge_alpha_max": 0,
+        "corner_alpha": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "review_notes": "Illustrative charts, not actual business results. Owner visual approval required. Some compositions include stylized blue foliage or desk crops.",
+      "production_ready": false,
+      "counts_toward_core_variants": false
+    },
+    {
+      "id": "LM-MEDIA-MR-EX-004-A",
+      "collection": "LM-MEDIA-023",
+      "service": "market-research",
+      "subcategory": "supplemental-object-only-transparent",
+      "title": "Competitor comparison",
+      "variant": "A",
+      "visual_type": "3d-object-only",
+      "concept": null,
+      "concept_title": "Competitor comparison",
+      "description": "Competitor comparison: 3d-object-only conceptual market research illustration.",
+      "alt": "Competitor comparison illustration",
+      "format": "webp",
+      "width": 1536,
+      "height": 1024,
+      "alpha": true,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/market-research/LM-MEDIA-MR-EX-004-A-competitor-comparison.webp",
+      "bytes": 144020,
+      "sha256": "eb19f156f4aec0297f0c60276a58183b39d2ea68fc624355bbb978703ac08de9",
+      "source_type": "AI-generated conceptual artwork",
+      "processing": "Conservative alpha cleanup of low opacity and distant edge residue; proportional padding where required; WebP quality 92. No recoloring.",
+      "usage": [
+        "Market research service page",
+        "Draft visual review"
+      ],
+      "background_policy": "transparent illustration",
+      "theme": "both themes",
+      "transparency": {
+        "transparent_pixel_percent": 49.32,
+        "edge_alpha_max": 0,
+        "corner_alpha": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "review_notes": "Illustrative charts, not actual business results. Owner visual approval required. Some compositions include stylized blue foliage or desk crops.",
+      "production_ready": false,
+      "counts_toward_core_variants": false
+    },
+    {
+      "id": "LM-MEDIA-MR-EX-005-A",
+      "collection": "LM-MEDIA-023",
+      "service": "market-research",
+      "subcategory": "supplemental-object-only-transparent",
+      "title": "Strategic decision checklist",
+      "variant": "A",
+      "visual_type": "3d-object-only",
+      "concept": null,
+      "concept_title": "Strategic decision checklist",
+      "description": "Strategic decision checklist: 3d-object-only conceptual market research illustration.",
+      "alt": "Strategic decision checklist illustration",
+      "format": "webp",
+      "width": 1536,
+      "height": 1024,
+      "alpha": true,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/market-research/LM-MEDIA-MR-EX-005-A-strategic-decision-checklist.webp",
+      "bytes": 118684,
+      "sha256": "98cbc21db3ee5db4ad63fa003596c4e453b30ae3c3b558b804e77340a93faf0b",
+      "source_type": "AI-generated conceptual artwork",
+      "processing": "Conservative alpha cleanup of low opacity and distant edge residue; proportional padding where required; WebP quality 92. No recoloring.",
+      "usage": [
+        "Market research service page",
+        "Draft visual review"
+      ],
+      "background_policy": "transparent illustration",
+      "theme": "both themes",
+      "transparency": {
+        "transparent_pixel_percent": 54.97,
+        "edge_alpha_max": 0,
+        "corner_alpha": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "review_notes": "Illustrative charts, not actual business results. Owner visual approval required. Some compositions include stylized blue foliage or desk crops.",
+      "production_ready": false,
+      "counts_toward_core_variants": false
+    },
+    {
+      "id": "LM-MEDIA-MR-EX-006-A",
+      "collection": "LM-MEDIA-023",
+      "service": "market-research",
+      "subcategory": "supplemental-object-only-transparent",
+      "title": "Competitive intelligence",
+      "variant": "A",
+      "visual_type": "3d-object-only",
+      "concept": null,
+      "concept_title": "Competitive intelligence",
+      "description": "Competitive intelligence: 3d-object-only conceptual market research illustration.",
+      "alt": "Competitive intelligence illustration",
+      "format": "webp",
+      "width": 1536,
+      "height": 1024,
+      "alpha": true,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/market-research/LM-MEDIA-MR-EX-006-A-competitive-intelligence.webp",
+      "bytes": 122178,
+      "sha256": "138681e17cac612e29d74e8505695ab17d7b9ab9858b894c4943ffc8d69d6d4f",
+      "source_type": "AI-generated conceptual artwork",
+      "processing": "Conservative alpha cleanup of low opacity and distant edge residue; proportional padding where required; WebP quality 92. No recoloring.",
+      "usage": [
+        "Market research service page",
+        "Draft visual review"
+      ],
+      "background_policy": "transparent illustration",
+      "theme": "both themes",
+      "transparency": {
+        "transparent_pixel_percent": 53.76,
+        "edge_alpha_max": 0,
+        "corner_alpha": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "review_notes": "Illustrative charts, not actual business results. Owner visual approval required. Some compositions include stylized blue foliage or desk crops.",
+      "production_ready": false,
+      "counts_toward_core_variants": false
+    },
+    {
+      "id": "LM-MEDIA-MR-EX-007-A",
+      "collection": "LM-MEDIA-023",
+      "service": "market-research",
+      "subcategory": "supplemental-object-only-transparent",
+      "title": "Market opportunity mapping",
+      "variant": "A",
+      "visual_type": "3d-object-only",
+      "concept": null,
+      "concept_title": "Market opportunity mapping",
+      "description": "Market opportunity mapping: 3d-object-only conceptual market research illustration.",
+      "alt": "Market opportunity mapping illustration",
+      "format": "webp",
+      "width": 1536,
+      "height": 1024,
+      "alpha": true,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/market-research/LM-MEDIA-MR-EX-007-A-market-opportunity-mapping.webp",
+      "bytes": 137048,
+      "sha256": "d376d7a7ec313f406ae72fffc86b92efd9ab2e68f6a026e7935da759ad9a9290",
+      "source_type": "AI-generated conceptual artwork",
+      "processing": "Conservative alpha cleanup of low opacity and distant edge residue; proportional padding where required; WebP quality 92. No recoloring.",
+      "usage": [
+        "Market research service page",
+        "Draft visual review"
+      ],
+      "background_policy": "transparent illustration",
+      "theme": "both themes",
+      "transparency": {
+        "transparent_pixel_percent": 42.7,
+        "edge_alpha_max": 0,
+        "corner_alpha": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "review_notes": "Illustrative charts, not actual business results. Owner visual approval required. Some compositions include stylized blue foliage or desk crops.",
+      "production_ready": false,
+      "counts_toward_core_variants": false
+    },
+    {
+      "id": "LM-MEDIA-MR-EX-008-A",
+      "collection": "LM-MEDIA-023",
+      "service": "market-research",
+      "subcategory": "supplemental-object-only-transparent",
+      "title": "Audience analysis",
+      "variant": "A",
+      "visual_type": "3d-object-only",
+      "concept": null,
+      "concept_title": "Audience analysis",
+      "description": "Audience analysis: 3d-object-only conceptual market research illustration.",
+      "alt": "Audience analysis illustration",
+      "format": "webp",
+      "width": 1536,
+      "height": 1024,
+      "alpha": true,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/market-research/LM-MEDIA-MR-EX-008-A-audience-analysis.webp",
+      "bytes": 136604,
+      "sha256": "fcea833e06bd21c919f8cd1030896c5674074b2b3b2c1ffd0074d3bcc985577d",
+      "source_type": "AI-generated conceptual artwork",
+      "processing": "Conservative alpha cleanup of low opacity and distant edge residue; proportional padding where required; WebP quality 92. No recoloring.",
+      "usage": [
+        "Market research service page",
+        "Draft visual review"
+      ],
+      "background_policy": "transparent illustration",
+      "theme": "both themes",
+      "transparency": {
+        "transparent_pixel_percent": 47.21,
+        "edge_alpha_max": 0,
+        "corner_alpha": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "review_notes": "Illustrative charts, not actual business results. Owner visual approval required. Some compositions include stylized blue foliage or desk crops.",
+      "production_ready": false,
+      "counts_toward_core_variants": false
+    },
+    {
+      "id": "LM-MEDIA-MR-001-B",
+      "collection": "LM-MEDIA-023",
+      "service": "market-research",
+      "subcategory": "human-led-transparent",
+      "title": "Market intelligence",
+      "variant": "B",
+      "visual_type": "female-led",
+      "concept": "001",
+      "concept_title": "Market intelligence",
+      "description": "Indian researcher reviewing printed research findings beside a blue-and-white analytical display, magnifying glass and books.",
+      "alt": "Indian researcher reviewing printed research findings beside a blue-and-white analytical display, magnifying glass and books.",
+      "format": "webp",
+      "width": 1536,
+      "height": 1024,
+      "alpha": true,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/market-research/LM-MEDIA-MR-001-B-market-intelligence-female-led.webp",
+      "bytes": 187068,
+      "sha256": "47cc6fc2ac84fc1cfda50dc7eface0ed57f40b7d3c9792928b908cb7cb8d16e6",
+      "source_sha256": "6842b95291546c50f92bc502fbe41ab6148f54b796f2852e9cb16c062cf9f9f3",
+      "source_type": "AI-generated conceptual artwork",
+      "source_dimensions": [
+        1536,
+        1024
+      ],
+      "processing": "Source alpha <=4 cleared, >=250 normalized; proportional resize and transparent padding; no crop or recolor. WebP quality 93.",
+      "usage": [
+        "Market research service page",
+        "Draft visual review"
+      ],
+      "background_policy": "transparent illustration",
+      "theme": "both themes",
+      "transparency": {
+        "transparent_pixel_percent": 41.76,
+        "edge_alpha_max": 0,
+        "corner_alpha": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "review_notes": "Illustrative charts, not client data. Original bottom crop preserved with padding. Owner review required.",
+      "production_ready": false,
+      "counts_toward_core_variants": true
     }
   ],
   "collections": [
@@ -5670,6 +6363,10 @@
     {
       "id": "LM-MEDIA-022",
       "title": "Email Marketing"
+    },
+    {
+      "id": "LM-MEDIA-023",
+      "title": "Market Research"
     }
   ]
 }
