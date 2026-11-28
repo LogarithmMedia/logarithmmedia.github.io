@@ -3,7 +3,7 @@
   "collection": "LM-MEDIA",
   "title": "Media Library",
   "release_status": "draft",
-  "notes": "Clean restart: nine transparent service illustrations, four transparent challenge illustrations, six transparent conceptual project mockups, four intentional full-bleed customer segment photographs, four transparent growth framework illustrations, five transparent process illustrations, six intentional full-bleed editorial covers, eight opaque abstract brand backgrounds (four original and four calm alternatives), five opaque social sharing cover bases, four opaque hero alternatives, three transparent pricing and engagement illustrations, one transparent contextual help illustration, four transparent brand identity PNGs, eight transparent SEO service-page illustrations (four original variants and four human-led supplements), and eight transparent Google Ads & PPC service-page illustrations (four object-only and four human-led). Draft only; owner approval required before production use.",
+  "notes": "Clean restart: nine transparent service illustrations, four transparent challenge illustrations, six transparent conceptual project mockups, four intentional full-bleed customer segment photographs, four transparent growth framework illustrations, five transparent process illustrations, six intentional full-bleed editorial covers, eight opaque abstract brand backgrounds (four original and four calm alternatives), five opaque social sharing cover bases, four opaque hero alternatives, three transparent pricing and engagement illustrations, one transparent contextual help illustration, four transparent brand identity PNGs, eight transparent SEO service-page illustrations (four original variants and four human-led supplements), eight transparent Google Ads & PPC service-page illustrations (four object-only and four human-led), and eight transparent Search Engine Marketing service-page illustrations (four object-only and four human-led). Draft only; owner approval required before production use.",
   "assets": [
     {
       "id": "LM-MEDIA-SVC-001-A",
@@ -2518,6 +2518,366 @@
       "review_notes": "Contains fictional enquiry names, illustrative counts and unofficial brand marks; not actual leads. Desk reaches source bottom edge. Draft review only; human-led artwork requires content/brand sign-off before production placement.",
       "production_ready": false,
       "source_package": "LogarithmMedia-MEDIA-018-batch-01-processed.zip"
+    },
+    {
+      "id": "LM-MEDIA-SEM-001-A",
+      "collection": "LM-MEDIA-019",
+      "service": "sem",
+      "title": "Search visibility — object-only",
+      "variant": "A",
+      "visual_type": "object-only",
+      "concept": "001",
+      "description": "Laptop search results, magnifier, eye icon and conceptual growth chart.",
+      "alt": "Laptop search results, magnifier, eye icon and conceptual growth chart.",
+      "format": "webp",
+      "width": 1536,
+      "height": 1024,
+      "alpha": true,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/sem/LM-MEDIA-SEM-001-A-search-visibility-object.webp",
+      "bytes": 132254,
+      "sha256": "15b9e7580feda4394daf79d87f9624dc1c39b546ff11d98191661139d4eff593",
+      "source_type": "AI-generated conceptual artwork",
+      "source_sha256": "dbe215d5b8b2ec7ee308a29d9a32d65c09bc0bd8c745a935fb227cf585f766dc",
+      "source_dimensions": [
+        1536,
+        1024
+      ],
+      "processing": "Original alpha retained; alpha <=4 cleared and >=250 normalized; disconnected specks below 12 pixels removed; transparent padding if needed; WebP quality 93.",
+      "usage": [
+        "SEM service page",
+        "draft visual review"
+      ],
+      "background_policy": "transparent illustration",
+      "theme": "both themes",
+      "transparency": {
+        "transparent_pixel_percent": 41.91,
+        "corner_alpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "edge_alpha_max": 0
+      },
+      "review_notes": "Embedded SEO label and conceptual rising bars; review for SEM-specific use. No actual performance claim.",
+      "production_ready": false
+    },
+    {
+      "id": "LM-MEDIA-SEM-001-B",
+      "collection": "LM-MEDIA-019",
+      "service": "sem",
+      "title": "Search visibility — human-led",
+      "variant": "B",
+      "visual_type": "human-led",
+      "concept": "001",
+      "description": "Indian professional working alongside a conceptual search results page and discovery graphics.",
+      "alt": "Indian professional working alongside a conceptual search results page and discovery graphics.",
+      "format": "webp",
+      "width": 1536,
+      "height": 1024,
+      "alpha": true,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/sem/LM-MEDIA-SEM-001-B-search-visibility-human.webp",
+      "bytes": 257686,
+      "sha256": "034227425e5ef8ae684ecfa573f40b880101e071ae1ce14dfcc84a9ab2f79222",
+      "source_type": "AI-generated conceptual artwork; fictional people and interfaces.",
+      "source_sha256": "5a4cb83c5506b2087c65ec7f79a6f9a101644d0caa36555ac996a8bf3ddae0d6",
+      "source_dimensions": [
+        1536,
+        1024
+      ],
+      "processing": "Original alpha preserved; alpha <=4 cleared, >=250 normalized; tiny disconnected specks removed; aspect-preserving fit within transparent perimeter, no cropping. WebP quality 93.",
+      "usage": [
+        "SEM service page",
+        "draft visual review"
+      ],
+      "background_policy": "transparent illustration",
+      "theme": "both themes",
+      "transparency": {
+        "transparent_pixel_percent": 33.37,
+        "corner_alpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "edge_alpha_max": 0
+      },
+      "review_notes": "Yellow and green chart arrows and a natural green plant; conceptual charts, not measured performance. Requires owner review and palette/content correction before production.",
+      "production_ready": false
+    },
+    {
+      "id": "LM-MEDIA-SEM-002-A",
+      "collection": "LM-MEDIA-019",
+      "service": "sem",
+      "title": "Organic and paid search integration — object-only",
+      "variant": "A",
+      "visual_type": "object-only",
+      "concept": "002",
+      "description": "Two channels converge on a shared search results panel, with an ad and organic listing.",
+      "alt": "Two channels converge on a shared search results panel, with an ad and organic listing.",
+      "format": "webp",
+      "width": 1536,
+      "height": 1024,
+      "alpha": true,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/sem/LM-MEDIA-SEM-002-A-paid-organic-integration-object.webp",
+      "bytes": 140032,
+      "sha256": "07f729a8aaa5dee5bc9b7407b4d2c1d5cf11e21f25ad53a7e1a74194305727e4",
+      "source_type": "AI-generated conceptual artwork",
+      "source_sha256": "b1df6428b0250f4ef4991efb37ee480e9ea37e533a102243eec20026ac565a15",
+      "source_dimensions": [
+        1536,
+        1024
+      ],
+      "processing": "Original alpha retained; alpha <=4 cleared and >=250 normalized; disconnected specks below 12 pixels removed; transparent padding if needed; WebP quality 93.",
+      "usage": [
+        "SEM service page",
+        "draft visual review"
+      ],
+      "background_policy": "transparent illustration",
+      "theme": "both themes",
+      "transparency": {
+        "transparent_pixel_percent": 36.17,
+        "corner_alpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "edge_alpha_max": 0
+      },
+      "review_notes": "Embedded channel labels and conceptual growth chart; some brighter blue highlights.",
+      "production_ready": false
+    },
+    {
+      "id": "LM-MEDIA-SEM-002-B",
+      "collection": "LM-MEDIA-019",
+      "service": "sem",
+      "title": "Organic and paid search integration — human-led",
+      "variant": "B",
+      "visual_type": "human-led",
+      "concept": "002",
+      "description": "Three Indian professionals reviewing sponsored and organic search results.",
+      "alt": "Three Indian professionals reviewing sponsored and organic search results.",
+      "format": "webp",
+      "width": 1536,
+      "height": 1024,
+      "alpha": true,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/sem/LM-MEDIA-SEM-002-B-paid-organic-integration-human.webp",
+      "bytes": 282582,
+      "sha256": "ab3baa387b6408d87b425e726b3357d8afacccac5749f58e438b0b6631e7290a",
+      "source_type": "AI-generated conceptual artwork; fictional people and interfaces.",
+      "source_sha256": "96e0cc24f576e4ae1387ca8343e3f1fb77d450e987af84aa44b7bd9a7a527226",
+      "source_dimensions": [
+        1536,
+        1024
+      ],
+      "processing": "Original alpha preserved; alpha <=4 cleared, >=250 normalized; tiny disconnected specks removed; aspect-preserving fit within transparent perimeter, no cropping. WebP quality 93.",
+      "usage": [
+        "SEM service page",
+        "draft visual review"
+      ],
+      "background_policy": "transparent illustration",
+      "theme": "both themes",
+      "transparency": {
+        "transparent_pixel_percent": 39.97,
+        "corner_alpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "edge_alpha_max": 0
+      },
+      "review_notes": "Green and yellow labels, browser indicators, and natural plant colors. Embedded illustrative labels; not a real search interface. Requires owner review and palette/content correction before production.",
+      "production_ready": false
+    },
+    {
+      "id": "LM-MEDIA-SEM-003-A",
+      "collection": "LM-MEDIA-019",
+      "service": "sem",
+      "title": "Keyword strategy — object-only",
+      "variant": "A",
+      "visual_type": "object-only",
+      "concept": "003",
+      "description": "Keyword hierarchy, search terms, checklist and conceptual ranking markers.",
+      "alt": "Keyword hierarchy, search terms, checklist and conceptual ranking markers.",
+      "format": "webp",
+      "width": 1536,
+      "height": 1024,
+      "alpha": true,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/sem/LM-MEDIA-SEM-003-A-keyword-strategy-object.webp",
+      "bytes": 217442,
+      "sha256": "e445f4dbad340e1429f99967b1b4d0218912be24a041cdaeb6530fcb1e35fbe2",
+      "source_type": "AI-generated conceptual artwork",
+      "source_sha256": "41d9a753e237849876dd5249085123c06d7db1d28ffdbd3828f50bb641d78266",
+      "source_dimensions": [
+        1536,
+        1024
+      ],
+      "processing": "Original alpha retained; alpha <=4 cleared and >=250 normalized; disconnected specks below 12 pixels removed; transparent padding if needed; WebP quality 93.",
+      "usage": [
+        "SEM service page",
+        "draft visual review"
+      ],
+      "background_policy": "transparent illustration",
+      "theme": "both themes",
+      "transparency": {
+        "transparent_pixel_percent": 29.21,
+        "corner_alpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "edge_alpha_max": 0
+      },
+      "review_notes": "Embedded illustrative #10, #5 and #1 rankings are not real results or a guarantee; remove or approve before production.",
+      "production_ready": false
+    },
+    {
+      "id": "LM-MEDIA-SEM-003-B",
+      "collection": "LM-MEDIA-019",
+      "service": "sem",
+      "title": "Keyword strategy — human-led",
+      "variant": "B",
+      "visual_type": "human-led",
+      "concept": "003",
+      "description": "Indian professional organizing keyword research, user intent and content planning.",
+      "alt": "Indian professional organizing keyword research, user intent and content planning.",
+      "format": "webp",
+      "width": 1536,
+      "height": 1024,
+      "alpha": true,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/sem/LM-MEDIA-SEM-003-B-keyword-strategy-human.webp",
+      "bytes": 322236,
+      "sha256": "a507891123e16d15d7acf92fd7b2239bc23c176ecc7e668669f083d77463e292",
+      "source_type": "AI-generated conceptual artwork; fictional people and interfaces.",
+      "source_sha256": "dbb3576dfbec13bc9be6e9689f9968a40abc9d73257a46ccada1dcad58a1a4d2",
+      "source_dimensions": [
+        1536,
+        1024
+      ],
+      "processing": "Original alpha preserved; alpha <=4 cleared, >=250 normalized; tiny disconnected specks removed; aspect-preserving fit within transparent perimeter, no cropping. WebP quality 93.",
+      "usage": [
+        "SEM service page",
+        "draft visual review"
+      ],
+      "background_policy": "transparent illustration",
+      "theme": "both themes",
+      "transparency": {
+        "transparent_pixel_percent": 41.43,
+        "corner_alpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "edge_alpha_max": 0
+      },
+      "review_notes": "Green checkmarks and chart arrow, natural plant colors, embedded explanatory labels. Requires owner review and palette/content correction before production.",
+      "production_ready": false
+    },
+    {
+      "id": "LM-MEDIA-SEM-004-A",
+      "collection": "LM-MEDIA-019",
+      "service": "sem",
+      "title": "Customer search journey — object-only",
+      "variant": "A",
+      "visual_type": "object-only",
+      "concept": "004",
+      "description": "A winding path links search, discovery, comparison and a storefront.",
+      "alt": "A winding path links search, discovery, comparison and a storefront.",
+      "format": "webp",
+      "width": 1536,
+      "height": 1024,
+      "alpha": true,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/sem/LM-MEDIA-SEM-004-A-customer-search-journey-object.webp",
+      "bytes": 148908,
+      "sha256": "61e72f7ace3a28a901a15f5c1463ad73776775b8dc73f1e083283f61e962909b",
+      "source_type": "AI-generated conceptual artwork",
+      "source_sha256": "f79683f315e05a94d87d2d94cb8df45a8d827783ab8e5cb56f02b521d51f1f91",
+      "source_dimensions": [
+        1536,
+        1024
+      ],
+      "processing": "Original alpha retained; alpha <=4 cleared and >=250 normalized; disconnected specks below 12 pixels removed; transparent padding if needed; WebP quality 93.",
+      "usage": [
+        "SEM service page",
+        "draft visual review"
+      ],
+      "background_policy": "transparent illustration",
+      "theme": "both themes",
+      "transparency": {
+        "transparent_pixel_percent": 59.98,
+        "corner_alpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "edge_alpha_max": 0
+      },
+      "review_notes": "Embedded stage labels; conceptual journey, not a real client.",
+      "production_ready": false
+    },
+    {
+      "id": "LM-MEDIA-SEM-004-B",
+      "collection": "LM-MEDIA-019",
+      "service": "sem",
+      "title": "Customer search journey — human-led",
+      "variant": "B",
+      "visual_type": "human-led",
+      "concept": "004",
+      "description": "Two Indian professionals alongside a conceptual journey from search query to website and action.",
+      "alt": "Two Indian professionals alongside a conceptual journey from search query to website and action.",
+      "format": "webp",
+      "width": 1536,
+      "height": 1024,
+      "alpha": true,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/sem/LM-MEDIA-SEM-004-B-customer-search-journey-human.webp",
+      "bytes": 283452,
+      "sha256": "75ab878ecffb26b68d690a32e4e341d197ad2eb7196f8f08610d50a652676c3d",
+      "source_type": "AI-generated conceptual artwork; fictional people and interfaces.",
+      "source_sha256": "2208b81b1187e5d099da3028d04888bbb0686daf69042623ce8311d29f7b5c85",
+      "source_dimensions": [
+        1536,
+        1024
+      ],
+      "processing": "Original alpha preserved; alpha <=4 cleared, >=250 normalized; tiny disconnected specks removed; aspect-preserving fit within transparent perimeter, no cropping. WebP quality 93.",
+      "usage": [
+        "SEM service page",
+        "draft visual review"
+      ],
+      "background_policy": "transparent illustration",
+      "theme": "both themes",
+      "transparency": {
+        "transparent_pixel_percent": 39.68,
+        "corner_alpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "edge_alpha_max": 0
+      },
+      "review_notes": "Green checkmarks and yellow ad and star-rating symbols; fictional sample rating, not client evidence. Embedded explanatory labels. Requires owner review and palette/content correction before production.",
+      "production_ready": false
     }
   ],
   "collections": [
@@ -2580,6 +2940,10 @@
     {
       "id": "LM-MEDIA-018",
       "title": "Google Ads & PPC"
+    },
+    {
+      "id": "LM-MEDIA-019",
+      "title": "Search Engine Marketing"
     }
   ]
 }
