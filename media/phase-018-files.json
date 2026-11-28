@@ -1,0 +1,355 @@
+[
+  {
+    "id": "LM-MEDIA-PPC-001-A",
+    "collection": "LM-MEDIA-018",
+    "service": "ppc",
+    "title": "Precision advertising",
+    "variant": "A",
+    "visual_type": "object-only",
+    "concept": "001",
+    "description": "Object-only ad result panel, precision target, cursor and conceptual analytics.",
+    "alt": "Object-only ad result panel, precision target, cursor and conceptual analytics.",
+    "format": "webp",
+    "width": 1536,
+    "height": 1024,
+    "alpha": true,
+    "status": "draft",
+    "availability": "available",
+    "path": "assets/ppc/LM-MEDIA-PPC-001-A-precision-advertising.webp",
+    "bytes": 102818,
+    "sha256": "1c466ac0dfb8daa68ffcf9002f3ef7d257a7a953ef33bfad8187cdf4251324c0",
+    "source_type": "AI-generated conceptual artwork; fictional people and interfaces.",
+    "source_sha256": "188e5fe7a90501b10f1491c557a1a1566c986dda06cbdd6d339578d6af79b150",
+    "source_dimensions": [
+      1536,
+      1024
+    ],
+    "processing": "Original alpha retained; near-zero alpha noise cleared, near-opaque alpha normalized, tiny disconnected specks removed; antialiasing preserved. No resizing or cropping. WebP quality 93, full alpha quality.",
+    "usage": [
+      "PPC service page",
+      "draft visual review"
+    ],
+    "background_policy": "transparent illustration; existing processed composition retained",
+    "theme": "both themes",
+    "transparency": {
+      "transparent_pixel_percent": 44.15,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "edge_alpha_max": 0
+    },
+    "review_notes": "Generic Ad label and unlabeled conceptual charts. Draft review only; human-led artwork requires content/brand sign-off before production placement.",
+    "production_ready": false,
+    "source_package": "LogarithmMedia-MEDIA-018-batch-01-processed.zip"
+  },
+  {
+    "id": "LM-MEDIA-PPC-001-B",
+    "collection": "LM-MEDIA-018",
+    "service": "ppc",
+    "title": "Human-led precision advertising",
+    "variant": "B",
+    "visual_type": "human-led",
+    "concept": "001",
+    "description": "Professional standing beside a PPC strategy whiteboard with a target and ad preview.",
+    "alt": "Professional standing beside a PPC strategy whiteboard with a target and ad preview.",
+    "format": "webp",
+    "width": 1536,
+    "height": 1024,
+    "alpha": true,
+    "status": "draft",
+    "availability": "available",
+    "path": "assets/ppc/LM-MEDIA-PPC-001-B-precision-advertising-human.webp",
+    "bytes": 257366,
+    "sha256": "abd04de0d4f7ec0386c662830ad2a7e9160aecc1ab7e5b4c6ec40088e6673bfe",
+    "source_type": "AI-generated conceptual artwork; fictional people and interfaces.",
+    "source_sha256": "edf12ba223da9a2b658fc37a81e4791feffef7d25862d94da027f8d0e63abf88",
+    "source_dimensions": [
+      1536,
+      1024
+    ],
+    "processing": "Original alpha retained; near-zero alpha noise cleared, near-opaque alpha normalized, tiny disconnected specks removed; antialiasing preserved. Proportionally reduced to 1488 × 992 and centered in 1536 × 1024 transparent canvas to provide padding; source crop preserved. WebP quality 93, full alpha quality.",
+    "usage": [
+      "PPC service page",
+      "draft visual review"
+    ],
+    "background_policy": "transparent illustration; existing processed composition retained",
+    "theme": "both themes",
+    "transparency": {
+      "transparent_pixel_percent": 38.47,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "edge_alpha_max": 0
+    },
+    "review_notes": "Contains illustrative +48% conversion figure and generated brand text on mug; not verified results. Bottom desk reaches source edge. Draft review only; human-led artwork requires content/brand sign-off before production placement.",
+    "production_ready": false,
+    "source_package": "LogarithmMedia-MEDIA-018-batch-01-processed.zip"
+  },
+  {
+    "id": "LM-MEDIA-PPC-002-A",
+    "collection": "LM-MEDIA-018",
+    "service": "ppc",
+    "title": "Audience targeting",
+    "variant": "A",
+    "description": "Blue audience selection reticle with segment cards and funnel.",
+    "alt": "Blue audience selection reticle with segment cards and funnel.",
+    "format": "webp",
+    "width": 1536,
+    "height": 1024,
+    "alpha": true,
+    "status": "draft",
+    "availability": "available",
+    "path": "assets/ppc/LM-MEDIA-PPC-002-A-audience-targeting.webp",
+    "bytes": 95136,
+    "sha256": "b799b9847419b93bbf57e04b6969841b5a6b3ae7fbdfbba940fe188e22d528e0",
+    "source_sha256": "6b3d256ce6cb68e84acdde288dfb7df3b88321ed25cca361860f29d6b9533a52",
+    "source_type": "AI-generated standalone artwork",
+    "processing": "Alpha cleanup with edge color decontamination and transparent padding; original composition retained; WebP optimization.",
+    "transparency": {
+      "transparent_pixel_percent": 45.72,
+      "edge_alpha_max": 0,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "usage": [
+      "PPC service page"
+    ],
+    "review_notes": "Object-only illustration, reverified on light and dark surfaces. Conceptual interface, not actual campaign evidence. Draft for owner review.",
+    "concept": "002",
+    "visual_type": "object-only",
+    "production_ready": false,
+    "theme": "both themes",
+    "background_policy": "transparent illustration; existing processed composition retained",
+    "source_package": "LogarithmMedia-MEDIA-018-object-only-partial.zip"
+  },
+  {
+    "id": "LM-MEDIA-PPC-002-B",
+    "collection": "LM-MEDIA-018",
+    "service": "ppc",
+    "title": "Human-led audience targeting",
+    "variant": "B",
+    "visual_type": "human-led",
+    "concept": "002",
+    "description": "Three Indian professionals reviewing a conceptual audience-selection interface.",
+    "alt": "Three Indian professionals reviewing a conceptual audience-selection interface.",
+    "format": "webp",
+    "width": 1536,
+    "height": 1024,
+    "alpha": true,
+    "status": "draft",
+    "availability": "available",
+    "path": "assets/ppc/LM-MEDIA-PPC-002-B-audience-targeting-human.webp",
+    "bytes": 291868,
+    "sha256": "dad1e3d9d158890b323f55d15fa7ab51a10ebf14c138062d599c691569f1dc02",
+    "source_type": "AI-generated conceptual artwork; fictional people and interfaces.",
+    "source_sha256": "a41c4eb6377f3bdd4e0cc4eb1993d469c38a5bf0478517e2687d977d96070ef5",
+    "source_dimensions": [
+      1536,
+      1024
+    ],
+    "processing": "Original alpha retained; near-zero alpha noise cleared, near-opaque alpha normalized, tiny disconnected specks removed; antialiasing preserved. Proportionally reduced to 1488 × 992 and centered in 1536 × 1024 transparent canvas to provide padding; source crop preserved. WebP quality 93, full alpha quality.",
+    "usage": [
+      "PPC service page",
+      "draft visual review"
+    ],
+    "background_policy": "transparent illustration; existing processed composition retained",
+    "theme": "both themes",
+    "transparency": {
+      "transparent_pixel_percent": 28.99,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "edge_alpha_max": 0
+    },
+    "review_notes": "Contains sample targeting categories and a generated platform mark; do not treat as an authentic platform screenshot. People are intentionally cropped at source left and bottom. Draft review only; human-led artwork requires content/brand sign-off before production placement.",
+    "production_ready": false,
+    "source_package": "LogarithmMedia-MEDIA-018-batch-01-processed.zip"
+  },
+  {
+    "id": "LM-MEDIA-PPC-003-A",
+    "collection": "LM-MEDIA-018",
+    "service": "ppc",
+    "title": "Campaign management",
+    "variant": "A",
+    "description": "Angled campaign control panel with three sliders and an ad preview.",
+    "alt": "Angled campaign control panel with three sliders and an ad preview.",
+    "format": "webp",
+    "width": 1536,
+    "height": 1024,
+    "alpha": true,
+    "status": "draft",
+    "availability": "available",
+    "path": "assets/ppc/LM-MEDIA-PPC-003-A-campaign-management.webp",
+    "bytes": 73316,
+    "sha256": "731c08052b90719d9f17d3060f2fefa89cd67c7e4db954765decce845e844353",
+    "source_sha256": "94d42644100343cf0f0aa4e64a394110e763feb8a3fdfa40fe0633d6e17ac778",
+    "source_type": "AI-generated standalone artwork",
+    "processing": "Alpha cleanup with edge color decontamination and transparent padding; original composition retained; WebP optimization.",
+    "transparency": {
+      "transparent_pixel_percent": 51.43,
+      "edge_alpha_max": 0,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "usage": [
+      "PPC service page"
+    ],
+    "review_notes": "Object-only illustration, reverified on light and dark surfaces. Conceptual interface, not actual campaign evidence. Draft for owner review.",
+    "concept": "003",
+    "visual_type": "object-only",
+    "production_ready": false,
+    "theme": "both themes",
+    "background_policy": "transparent illustration; existing processed composition retained",
+    "source_package": "LogarithmMedia-MEDIA-018-object-only-partial.zip"
+  },
+  {
+    "id": "LM-MEDIA-PPC-003-B",
+    "collection": "LM-MEDIA-018",
+    "service": "ppc",
+    "title": "Human-led campaign management",
+    "variant": "B",
+    "visual_type": "human-led",
+    "concept": "003",
+    "description": "Professional adjusting a conceptual campaign dashboard with a stylus.",
+    "alt": "Professional adjusting a conceptual campaign dashboard with a stylus.",
+    "format": "webp",
+    "width": 1536,
+    "height": 1024,
+    "alpha": true,
+    "status": "draft",
+    "availability": "available",
+    "path": "assets/ppc/LM-MEDIA-PPC-003-B-campaign-management-human.webp",
+    "bytes": 285438,
+    "sha256": "5448c822f13ef562431307bf1b7abd6d6da7efbe0c4cf5156af34c24501b0b54",
+    "source_type": "AI-generated conceptual artwork; fictional people and interfaces.",
+    "source_sha256": "a83a1462de253af814fcb7707a9fae2b576f20dd9ed84402cb5e8118f9cd06fe",
+    "source_dimensions": [
+      1536,
+      1024
+    ],
+    "processing": "Original alpha retained; near-zero alpha noise cleared, near-opaque alpha normalized, tiny disconnected specks removed; antialiasing preserved. No resizing or cropping. WebP quality 93, full alpha quality.",
+    "usage": [
+      "PPC service page",
+      "draft visual review"
+    ],
+    "background_policy": "transparent illustration; existing processed composition retained",
+    "theme": "both themes",
+    "transparency": {
+      "transparent_pixel_percent": 30.75,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "edge_alpha_max": 0
+    },
+    "review_notes": "Contains invented campaign metrics, budget, suggested budget change and unofficial brand marks; not actual client data or approved identity. Draft review only; human-led artwork requires content/brand sign-off before production placement.",
+    "production_ready": false,
+    "source_package": "LogarithmMedia-MEDIA-018-batch-01-processed.zip"
+  },
+  {
+    "id": "LM-MEDIA-PPC-004-A",
+    "collection": "LM-MEDIA-018",
+    "service": "ppc",
+    "title": "Lead acquisition journey",
+    "variant": "A",
+    "description": "Three connected tiles showing ad click, form and confirmation.",
+    "alt": "Three connected tiles showing ad click, form and confirmation.",
+    "format": "webp",
+    "width": 1536,
+    "height": 1024,
+    "alpha": true,
+    "status": "draft",
+    "availability": "available",
+    "path": "assets/ppc/LM-MEDIA-PPC-004-A-lead-acquisition.webp",
+    "bytes": 75794,
+    "sha256": "9a3aa17685d283f976bb8549c3627a04e80c1954011d12df2a3001c4c37a2620",
+    "source_sha256": "f8a8d8efb97d0290d0c888138e13fd1f3d8e0e9974e8a319fb826492f8c05ea2",
+    "source_type": "AI-generated standalone artwork",
+    "processing": "Alpha cleanup with edge color decontamination and transparent padding; original composition retained; WebP optimization.",
+    "transparency": {
+      "transparent_pixel_percent": 53.18,
+      "edge_alpha_max": 0,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "usage": [
+      "PPC service page"
+    ],
+    "review_notes": "Object-only illustration, reverified on light and dark surfaces. Conceptual interface, not actual campaign evidence. Draft for owner review.",
+    "concept": "004",
+    "visual_type": "object-only",
+    "production_ready": false,
+    "theme": "both themes",
+    "background_policy": "transparent illustration; existing processed composition retained",
+    "source_package": "LogarithmMedia-MEDIA-018-object-only-partial.zip"
+  },
+  {
+    "id": "LM-MEDIA-PPC-004-B",
+    "collection": "LM-MEDIA-018",
+    "service": "ppc",
+    "title": "Human-led lead acquisition",
+    "variant": "B",
+    "visual_type": "human-led",
+    "concept": "004",
+    "description": "Professional reviewing a conceptual enquiry list and lead qualification workflow.",
+    "alt": "Professional reviewing a conceptual enquiry list and lead qualification workflow.",
+    "format": "webp",
+    "width": 1536,
+    "height": 1024,
+    "alpha": true,
+    "status": "draft",
+    "availability": "available",
+    "path": "assets/ppc/LM-MEDIA-PPC-004-B-lead-acquisition-human.webp",
+    "bytes": 283756,
+    "sha256": "22a26d2532af307b8da69c27222cdffec01898b832e21ef38946169cc3ea3156",
+    "source_type": "AI-generated conceptual artwork; fictional people and interfaces.",
+    "source_sha256": "94ab72ae586ddac1e77d2237a0a6bcb5b1032b11bbb55453ce69cfad9fb9bb4b",
+    "source_dimensions": [
+      1536,
+      1024
+    ],
+    "processing": "Original alpha retained; near-zero alpha noise cleared, near-opaque alpha normalized, tiny disconnected specks removed; antialiasing preserved. Proportionally reduced to 1488 × 992 and centered in 1536 × 1024 transparent canvas to provide padding; source crop preserved. WebP quality 93, full alpha quality.",
+    "usage": [
+      "PPC service page",
+      "draft visual review"
+    ],
+    "background_policy": "transparent illustration; existing processed composition retained",
+    "theme": "both themes",
+    "transparency": {
+      "transparent_pixel_percent": 30.91,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "edge_alpha_max": 0
+    },
+    "review_notes": "Contains fictional enquiry names, illustrative counts and unofficial brand marks; not actual leads. Desk reaches source bottom edge. Draft review only; human-led artwork requires content/brand sign-off before production placement.",
+    "production_ready": false,
+    "source_package": "LogarithmMedia-MEDIA-018-batch-01-processed.zip"
+  }
+]
