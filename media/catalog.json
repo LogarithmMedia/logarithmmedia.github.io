@@ -3,7 +3,7 @@
   "collection": "LM-MEDIA",
   "title": "Media Library",
   "release_status": "draft",
-  "notes": "Clean restart: nine transparent service illustrations, four transparent challenge illustrations, six transparent conceptual project mockups, four intentional full-bleed customer segment photographs, four transparent growth framework illustrations, five transparent process illustrations, six intentional full-bleed editorial covers, eight opaque abstract brand backgrounds (four original and four calm alternatives), five opaque social sharing cover bases, four opaque hero alternatives, three transparent pricing and engagement illustrations, one transparent contextual help illustration, four transparent brand identity PNGs, eight transparent SEO service-page illustrations (four original variants and four human-led supplements), eight transparent Google Ads & PPC service-page illustrations (four object-only and four human-led), eight transparent Search Engine Marketing service-page illustrations (four object-only and four human-led), and twelve intentional full-bleed Social Media Marketing photographs and twelve transparent Social Media Marketing illustrations (four object-only A, four female-led B and four male-led C), plus four supplemental male-oriented derived crops with observed alpha, and eighteen transparent Content Marketing illustrations (nine core and nine supplemental; three core slots pending). Draft only; owner approval required before production use.",
+  "notes": "Clean restart: nine transparent service illustrations, four transparent challenge illustrations, six transparent conceptual project mockups, four intentional full-bleed customer segment photographs, four transparent growth framework illustrations, five transparent process illustrations, six intentional full-bleed editorial covers, eight opaque abstract brand backgrounds (four original and four calm alternatives), five opaque social sharing cover bases, four opaque hero alternatives, three transparent pricing and engagement illustrations, one transparent contextual help illustration, four transparent brand identity PNGs, eight transparent SEO service-page illustrations (four original variants and four human-led supplements), eight transparent Google Ads & PPC service-page illustrations (four object-only and four human-led), eight transparent Search Engine Marketing service-page illustrations (four object-only and four human-led), and twelve intentional full-bleed Social Media Marketing photographs and twelve transparent Social Media Marketing illustrations (four object-only A, four female-led B and four male-led C), plus four supplemental male-oriented derived crops with observed alpha, and eighteen transparent Content Marketing illustrations (nine core and nine supplemental; three core slots pending), and fourteen transparent Email Marketing illustrations (eleven core and three supplemental; retention object-only pending; six edge-alpha review flags). Draft only; owner approval required before production use.",
   "assets": [
     {
       "id": "LM-MEDIA-SVC-001-A",
@@ -4950,6 +4950,648 @@
       "review_notes": "Supplemental composition, not a missing core concept. Cyan, decorative ribbons, similar poses, natural plant colors and occasional yellow/gold accents retained; inspect before production use.",
       "production_ready": false,
       "counts_toward_core_variants": false
+    },
+    {
+      "id": "LM-MEDIA-EML-ALT-001-A",
+      "collection": "LM-MEDIA-022",
+      "service": "email-marketing",
+      "subcategory": "object-only-transparent",
+      "title": "Campaign planning",
+      "variant": "A",
+      "visual_type": "object-only",
+      "concept": "001",
+      "concept_title": "Customer communication",
+      "description": "Envelope, newsletter templates, calendar and checklist.",
+      "alt": "Envelope, newsletter templates, calendar and checklist.",
+      "format": "webp",
+      "width": 1536,
+      "height": 1024,
+      "alpha": true,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/email-marketing/LM-MEDIA-EML-ALT-001-A-campaign-planning.webp",
+      "bytes": 151642,
+      "sha256": "ffb43ffdc2a617e1864b7dd528815374e8b58863bd8a5c4c6b42358fd0ead5a7",
+      "source_sha256": "ac7a143be83e6189f05c38c1c9d76f1250524196e3f65c2f78927407a4d6bd0c",
+      "source_type": "AI-generated conceptual artwork",
+      "source_dimensions": [
+        1536,
+        1024
+      ],
+      "processing": "Source alpha <=4 cleared, >=250 normalized; proportional resize and transparent padding; no crop or recolor. WebP quality 93.",
+      "usage": [
+        "Email marketing service page",
+        "Draft visual review"
+      ],
+      "background_policy": "transparent illustration",
+      "theme": "both themes",
+      "transparency": {
+        "transparent_pixel_percent": 56.56,
+        "edge_alpha_max": 0,
+        "corner_alpha": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "review_notes": "AI-generated draft; illustrative charts are not actual campaign results. Natural plant colors, lighter blue shading and occasional decorative arcs or yellow thumbnail accents retained where present. Owner review required.",
+      "production_ready": false,
+      "counts_toward_core_variants": false
+    },
+    {
+      "id": "LM-MEDIA-EML-ALT-002-A",
+      "collection": "LM-MEDIA-022",
+      "service": "email-marketing",
+      "subcategory": "object-only-transparent",
+      "title": "Email performance analytics",
+      "variant": "A",
+      "visual_type": "object-only",
+      "concept": "004",
+      "concept_title": "Engagement analytics (supplemental; not retention)",
+      "description": "Envelope, magnifying glass and illustrative engagement charts; not a retention-specific visual.",
+      "alt": "Envelope, magnifying glass and illustrative engagement charts; not a retention-specific visual.",
+      "format": "webp",
+      "width": 1536,
+      "height": 1024,
+      "alpha": true,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/email-marketing/LM-MEDIA-EML-ALT-002-A-email-performance-analytics.webp",
+      "bytes": 107052,
+      "sha256": "265b6eb551971dda56d15ad3598326095e12ace72d21689decc04f4c207fa1b1",
+      "source_sha256": "0693580bfad41218b8c748c67837c18a2ed0870705730365cc3777a3d52288a3",
+      "source_type": "AI-generated conceptual artwork",
+      "source_dimensions": [
+        1536,
+        1024
+      ],
+      "processing": "Source alpha <=4 cleared, >=250 normalized; proportional resize and transparent padding; no crop or recolor. WebP quality 93.",
+      "usage": [
+        "Email marketing service page",
+        "Draft visual review"
+      ],
+      "background_policy": "transparent illustration",
+      "theme": "both themes",
+      "transparency": {
+        "transparent_pixel_percent": 57.26,
+        "edge_alpha_max": 0,
+        "corner_alpha": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "review_notes": "AI-generated draft; illustrative charts are not actual campaign results. Natural plant colors, lighter blue shading and occasional decorative arcs or yellow thumbnail accents retained where present. Owner review required.",
+      "production_ready": false,
+      "counts_toward_core_variants": false
+    },
+    {
+      "id": "LM-MEDIA-EML-002-A",
+      "collection": "LM-MEDIA-022",
+      "service": "email-marketing",
+      "subcategory": "object-only-transparent",
+      "title": "Audience segmentation",
+      "variant": "A",
+      "visual_type": "object-only",
+      "concept": "002",
+      "concept_title": "Audience segmentation",
+      "description": "Contact lists pass through a filter into three audience groups.",
+      "alt": "Contact lists pass through a filter into three audience groups.",
+      "format": "webp",
+      "width": 1536,
+      "height": 1024,
+      "alpha": true,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/email-marketing/LM-MEDIA-EML-002-A-audience-segmentation.webp",
+      "bytes": 154478,
+      "sha256": "cfdcc2750b3412d2073b5380020a5d318d69d6abc8a1ea98d01e89fb5d4984a3",
+      "source_sha256": "7791665aa6b75cfc6ef791af017378e9479e57d81ad10c41faea96f6ea45ae50",
+      "source_type": "AI-generated conceptual artwork",
+      "source_dimensions": [
+        1536,
+        1024
+      ],
+      "processing": "Source alpha <=4 cleared, >=250 normalized; proportional resize and transparent padding; no crop or recolor. WebP quality 93.",
+      "usage": [
+        "Email marketing service page",
+        "Draft visual review"
+      ],
+      "background_policy": "transparent illustration",
+      "theme": "both themes",
+      "transparency": {
+        "transparent_pixel_percent": 51.29,
+        "edge_alpha_max": 0,
+        "corner_alpha": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "review_notes": "AI-generated draft; illustrative charts are not actual campaign results. Natural plant colors, lighter blue shading and occasional decorative arcs or yellow thumbnail accents retained where present. Owner review required.",
+      "production_ready": false,
+      "counts_toward_core_variants": true
+    },
+    {
+      "id": "LM-MEDIA-EML-003-A",
+      "collection": "LM-MEDIA-022",
+      "service": "email-marketing",
+      "subcategory": "object-only-transparent",
+      "title": "Lifecycle automation",
+      "variant": "A",
+      "visual_type": "object-only",
+      "concept": "003",
+      "concept_title": "Lifecycle automation",
+      "description": "Trigger, clock and sequential email cards connected by workflow paths.",
+      "alt": "Trigger, clock and sequential email cards connected by workflow paths.",
+      "format": "webp",
+      "width": 1536,
+      "height": 1024,
+      "alpha": true,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/email-marketing/LM-MEDIA-EML-003-A-lifecycle-automation.webp",
+      "bytes": 162796,
+      "sha256": "a75e7fec8d8129247df7fbad231b6cb61af2ca72196b68b1fcdb4cbc89686eca",
+      "source_sha256": "cb45ff25afea8075cf41cc12222e5e903e159c95027ec44977440579c9680338",
+      "source_type": "AI-generated conceptual artwork",
+      "source_dimensions": [
+        1536,
+        1024
+      ],
+      "processing": "Source alpha <=4 cleared, >=250 normalized; proportional resize and transparent padding; no crop or recolor. WebP quality 93.",
+      "usage": [
+        "Email marketing service page",
+        "Draft visual review"
+      ],
+      "background_policy": "transparent illustration",
+      "theme": "both themes",
+      "transparency": {
+        "transparent_pixel_percent": 66.13,
+        "edge_alpha_max": 0,
+        "corner_alpha": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "review_notes": "AI-generated draft; illustrative charts are not actual campaign results. Natural plant colors, lighter blue shading and occasional decorative arcs or yellow thumbnail accents retained where present. Owner review required.",
+      "production_ready": false,
+      "counts_toward_core_variants": true
+    },
+    {
+      "id": "LM-MEDIA-EML-001-A",
+      "collection": "LM-MEDIA-022",
+      "service": "email-marketing",
+      "subcategory": "object-only-transparent",
+      "title": "Customer communication",
+      "variant": "A",
+      "visual_type": "object-only",
+      "concept": "001",
+      "concept_title": "Customer communication",
+      "description": "Newsletter in open envelope with inbox, calendar and send icon.",
+      "alt": "Newsletter in open envelope with inbox, calendar and send icon.",
+      "format": "webp",
+      "width": 1536,
+      "height": 1024,
+      "alpha": true,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/email-marketing/LM-MEDIA-EML-001-A-customer-communication.webp",
+      "bytes": 117068,
+      "sha256": "5621c9af4278db2bf7e7afdff74b341e34944b45bcefbbfcdeed52b6a128c2c4",
+      "source_sha256": "abd98015f15b189ac0df1be672000cadc3756f5a9558dde29209ce84cb86000a",
+      "source_type": "AI-generated conceptual artwork",
+      "source_dimensions": [
+        1536,
+        1024
+      ],
+      "processing": "Source alpha <=4 cleared, >=250 normalized; proportional resize and transparent padding; no crop or recolor. WebP quality 93.",
+      "usage": [
+        "Email marketing service page",
+        "Draft visual review"
+      ],
+      "background_policy": "transparent illustration",
+      "theme": "both themes",
+      "transparency": {
+        "transparent_pixel_percent": 57.39,
+        "edge_alpha_max": 0,
+        "corner_alpha": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "review_notes": "AI-generated draft; illustrative charts are not actual campaign results. Natural plant colors, lighter blue shading and occasional decorative arcs or yellow thumbnail accents retained where present. Owner review required.",
+      "production_ready": false,
+      "counts_toward_core_variants": true
+    },
+    {
+      "id": "LM-MEDIA-EML-001-B",
+      "collection": "LM-MEDIA-022",
+      "service": "email-marketing",
+      "subcategory": "female-led-transparent",
+      "title": "Customer communication \u2014 female-led",
+      "variant": "B",
+      "visual_type": "female-led",
+      "concept": "001",
+      "concept_title": "Customer communication",
+      "description": "Indian woman presenting a newsletter interface and illustrative charts.",
+      "alt": "Indian woman presenting a newsletter interface and illustrative charts.",
+      "format": "webp",
+      "width": 1536,
+      "height": 1024,
+      "alpha": true,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/email-marketing/LM-MEDIA-EML-001-B-customer-communication-female-led.webp",
+      "bytes": 265058,
+      "sha256": "f672a78a3ab63bc7198a6545306c4e9eb6e106381e028b589b9f31d20c99337a",
+      "source_sha256": "617f59cab6bc9cf23e90e375f4e04e844bb34338d6bd3439e6f1f912eef479b8",
+      "source_type": "AI-generated conceptual artwork",
+      "source_dimensions": [
+        1536,
+        1024
+      ],
+      "processing": "Source alpha <=4 cleared, >=250 normalized; proportional resize and transparent padding; no crop or recolor. WebP quality 93.",
+      "usage": [
+        "Email marketing service page",
+        "Draft visual review"
+      ],
+      "background_policy": "transparent illustration",
+      "theme": "both themes",
+      "transparency": {
+        "transparent_pixel_percent": 33.26,
+        "edge_alpha_max": 0,
+        "corner_alpha": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "review_notes": "AI-generated draft; illustrative charts are not actual campaign results. Natural plant colors, lighter blue shading and occasional decorative arcs or yellow thumbnail accents retained where present. Owner review required.",
+      "production_ready": false,
+      "counts_toward_core_variants": true
+    },
+    {
+      "id": "LM-MEDIA-EML-001-C",
+      "collection": "LM-MEDIA-022",
+      "service": "email-marketing",
+      "subcategory": "male-led-transparent",
+      "title": "Customer communication \u2014 male-led",
+      "variant": "C",
+      "visual_type": "male-led",
+      "concept": "001",
+      "concept_title": "Customer communication",
+      "description": "Indian man pointing at newsletter interface beside laptop and audience card.",
+      "alt": "Indian man pointing at newsletter interface beside laptop and audience card.",
+      "format": "webp",
+      "width": 1536,
+      "height": 1024,
+      "alpha": true,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/email-marketing/LM-MEDIA-EML-001-C-customer-communication-male-led.webp",
+      "bytes": 222340,
+      "sha256": "ae737aeee10ed37bcc66efef16d944b7433837ac385d788dc71c4b5e3de2f8e7",
+      "source_sha256": "2865f4e8581ead6a4a017431b6d6725b719d550075c16fe67de1cc45c0bcefbd",
+      "source_type": "AI-generated conceptual artwork",
+      "source_dimensions": [
+        1536,
+        1024
+      ],
+      "processing": "Source alpha <=4 cleared, >=250 normalized; proportional resize and transparent padding; no crop or recolor. WebP quality 93.",
+      "usage": [
+        "Email marketing service page",
+        "Draft visual review"
+      ],
+      "background_policy": "transparent illustration",
+      "theme": "both themes",
+      "transparency": {
+        "transparent_pixel_percent": 52.03,
+        "edge_alpha_max": 0,
+        "corner_alpha": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "review_notes": "AI-generated draft; illustrative charts are not actual campaign results. Natural plant colors, lighter blue shading and occasional decorative arcs or yellow thumbnail accents retained where present. Owner review required.",
+      "production_ready": false,
+      "counts_toward_core_variants": true
+    },
+    {
+      "id": "LM-MEDIA-EML-ALT-003-A",
+      "collection": "LM-MEDIA-022",
+      "service": "email-marketing",
+      "subcategory": "object-only-transparent",
+      "title": "Integrated email campaign",
+      "variant": "A",
+      "visual_type": "object-only",
+      "concept": "003",
+      "concept_title": "Lifecycle automation",
+      "description": "Newsletter, subscriber groups, automation steps and illustrative analytics.",
+      "alt": "Newsletter, subscriber groups, automation steps and illustrative analytics.",
+      "format": "webp",
+      "width": 1536,
+      "height": 1024,
+      "alpha": true,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/email-marketing/LM-MEDIA-EML-ALT-003-A-integrated-email-campaign.webp",
+      "bytes": 146320,
+      "sha256": "6271de415a040cf67858470cedf669b2015a88ebbfde0cb405140521e97dd62f",
+      "source_sha256": "48b0fb18f741227b91348dcf1cb9fa71bce582c0841676dea2470d5be75f3c24",
+      "source_type": "AI-generated conceptual artwork",
+      "source_dimensions": [
+        1536,
+        1024
+      ],
+      "processing": "Source alpha <=4 cleared, >=250 normalized; proportional resize and transparent padding; no crop or recolor. WebP quality 93.",
+      "usage": [
+        "Email marketing service page",
+        "Draft visual review"
+      ],
+      "background_policy": "transparent illustration",
+      "theme": "both themes",
+      "transparency": {
+        "transparent_pixel_percent": 54.85,
+        "edge_alpha_max": 0,
+        "corner_alpha": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "review_notes": "AI-generated draft; illustrative charts are not actual campaign results. Natural plant colors, lighter blue shading and occasional decorative arcs or yellow thumbnail accents retained where present. Owner review required.",
+      "production_ready": false,
+      "counts_toward_core_variants": false
+    },
+    {
+      "id": "LM-MEDIA-EML-002-B",
+      "collection": "LM-MEDIA-022",
+      "service": "email-marketing",
+      "subcategory": "female-led-transparent",
+      "title": "Audience segmentation \u2014 Female-led",
+      "variant": "B",
+      "visual_type": "female-led",
+      "concept": "002",
+      "concept_title": "Audience segmentation",
+      "description": "Female-led email marketing illustration for audience segmentation.",
+      "alt": "Female-led email marketing illustration for audience segmentation.",
+      "format": "webp",
+      "width": 1536,
+      "height": 1024,
+      "alpha": true,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/email-marketing/LM-MEDIA-EML-002-B.webp",
+      "bytes": 207094,
+      "sha256": "a30bc2f6af05e305759d8756a91e6910c3d6a8c571c43e9d67ca928c3663d7f2",
+      "source_type": "AI-generated conceptual artwork",
+      "processing": "Supplied processed WebP imported byte-for-byte; original generation metadata unavailable.",
+      "usage": [
+        "Email marketing service page",
+        "Draft visual review"
+      ],
+      "background_policy": "transparent illustration",
+      "theme": "both themes",
+      "transparency": {
+        "transparent_pixel_percent": 23.59,
+        "edge_alpha_max": 254,
+        "corner_alpha": [
+          1,
+          0,
+          0,
+          0
+        ]
+      },
+      "review_notes": "AI-generated draft; owner visual review required. Canvas edge alpha reaches 254/255. Substantial visible edge contact; review cropping or padding before production.",
+      "production_ready": false,
+      "counts_toward_core_variants": true
+    },
+    {
+      "id": "LM-MEDIA-EML-003-B",
+      "collection": "LM-MEDIA-022",
+      "service": "email-marketing",
+      "subcategory": "female-led-transparent",
+      "title": "Lifecycle automation \u2014 Female-led",
+      "variant": "B",
+      "visual_type": "female-led",
+      "concept": "003",
+      "concept_title": "Lifecycle automation",
+      "description": "Female-led email marketing illustration for lifecycle automation.",
+      "alt": "Female-led email marketing illustration for lifecycle automation.",
+      "format": "webp",
+      "width": 1536,
+      "height": 1024,
+      "alpha": true,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/email-marketing/LM-MEDIA-EML-003-B.webp",
+      "bytes": 227004,
+      "sha256": "46534efb73b883754d80a24e3b866288d210b896d6a513dfdd084095f1b84aeb",
+      "source_type": "AI-generated conceptual artwork",
+      "processing": "Supplied processed WebP imported byte-for-byte; original generation metadata unavailable.",
+      "usage": [
+        "Email marketing service page",
+        "Draft visual review"
+      ],
+      "background_policy": "transparent illustration",
+      "theme": "both themes",
+      "transparency": {
+        "transparent_pixel_percent": 30.68,
+        "edge_alpha_max": 1,
+        "corner_alpha": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "review_notes": "AI-generated draft; owner visual review required. Canvas edge alpha reaches 1/255. Faint alpha residue at the canvas edge; review before production.",
+      "production_ready": false,
+      "counts_toward_core_variants": true
+    },
+    {
+      "id": "LM-MEDIA-EML-004-B",
+      "collection": "LM-MEDIA-022",
+      "service": "email-marketing",
+      "subcategory": "female-led-transparent",
+      "title": "Customer retention \u2014 Female-led",
+      "variant": "B",
+      "visual_type": "female-led",
+      "concept": "004",
+      "concept_title": "Customer retention",
+      "description": "Female-led email marketing illustration for customer retention.",
+      "alt": "Female-led email marketing illustration for customer retention.",
+      "format": "webp",
+      "width": 1536,
+      "height": 1024,
+      "alpha": true,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/email-marketing/LM-MEDIA-EML-004-B.webp",
+      "bytes": 208936,
+      "sha256": "7fee497b5ee1663cb21566a9f269b5f6578e56357297582265d7115e1b34ef13",
+      "source_type": "AI-generated conceptual artwork",
+      "processing": "Supplied processed WebP imported byte-for-byte; original generation metadata unavailable.",
+      "usage": [
+        "Email marketing service page",
+        "Draft visual review"
+      ],
+      "background_policy": "transparent illustration",
+      "theme": "both themes",
+      "transparency": {
+        "transparent_pixel_percent": 31.78,
+        "edge_alpha_max": 1,
+        "corner_alpha": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "review_notes": "AI-generated draft; owner visual review required. Canvas edge alpha reaches 1/255. Faint alpha residue at the canvas edge; review before production.",
+      "production_ready": false,
+      "counts_toward_core_variants": true
+    },
+    {
+      "id": "LM-MEDIA-EML-002-C",
+      "collection": "LM-MEDIA-022",
+      "service": "email-marketing",
+      "subcategory": "male-led-transparent",
+      "title": "Audience segmentation \u2014 Male-led",
+      "variant": "C",
+      "visual_type": "male-led",
+      "concept": "002",
+      "concept_title": "Audience segmentation",
+      "description": "Male-led email marketing illustration for audience segmentation.",
+      "alt": "Male-led email marketing illustration for audience segmentation.",
+      "format": "webp",
+      "width": 1536,
+      "height": 1024,
+      "alpha": true,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/email-marketing/LM-MEDIA-EML-002-C.webp",
+      "bytes": 238932,
+      "sha256": "9147986df37e473a8f1987e65030a08be813097717480d916443fa7b90deb23a",
+      "source_type": "AI-generated conceptual artwork",
+      "processing": "Supplied processed WebP imported byte-for-byte; original generation metadata unavailable.",
+      "usage": [
+        "Email marketing service page",
+        "Draft visual review"
+      ],
+      "background_policy": "transparent illustration",
+      "theme": "both themes",
+      "transparency": {
+        "transparent_pixel_percent": 24.36,
+        "edge_alpha_max": 253,
+        "corner_alpha": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "review_notes": "AI-generated draft; owner visual review required. Canvas edge alpha reaches 253/255. Substantial visible edge contact; review cropping or padding before production.",
+      "production_ready": false,
+      "counts_toward_core_variants": true
+    },
+    {
+      "id": "LM-MEDIA-EML-003-C",
+      "collection": "LM-MEDIA-022",
+      "service": "email-marketing",
+      "subcategory": "male-led-transparent",
+      "title": "Lifecycle automation \u2014 Male-led",
+      "variant": "C",
+      "visual_type": "male-led",
+      "concept": "003",
+      "concept_title": "Lifecycle automation",
+      "description": "Male-led email marketing illustration for lifecycle automation.",
+      "alt": "Male-led email marketing illustration for lifecycle automation.",
+      "format": "webp",
+      "width": 1536,
+      "height": 1024,
+      "alpha": true,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/email-marketing/LM-MEDIA-EML-003-C.webp",
+      "bytes": 205674,
+      "sha256": "cf1fc4456f5ee422c2495d0b6b3821f8e7604bbd0c59c1190a8f4bc3e2ee263f",
+      "source_type": "AI-generated conceptual artwork",
+      "processing": "Supplied processed WebP imported byte-for-byte; original generation metadata unavailable.",
+      "usage": [
+        "Email marketing service page",
+        "Draft visual review"
+      ],
+      "background_policy": "transparent illustration",
+      "theme": "both themes",
+      "transparency": {
+        "transparent_pixel_percent": 40.25,
+        "edge_alpha_max": 49,
+        "corner_alpha": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "review_notes": "AI-generated draft; owner visual review required. Canvas edge alpha reaches 49/255. Faint alpha residue at the canvas edge; review before production.",
+      "production_ready": false,
+      "counts_toward_core_variants": true
+    },
+    {
+      "id": "LM-MEDIA-EML-004-C",
+      "collection": "LM-MEDIA-022",
+      "service": "email-marketing",
+      "subcategory": "male-led-transparent",
+      "title": "Customer retention \u2014 Male-led",
+      "variant": "C",
+      "visual_type": "male-led",
+      "concept": "004",
+      "concept_title": "Customer retention",
+      "description": "Male-led email marketing illustration for customer retention.",
+      "alt": "Male-led email marketing illustration for customer retention.",
+      "format": "webp",
+      "width": 1536,
+      "height": 1024,
+      "alpha": true,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/email-marketing/LM-MEDIA-EML-004-C.webp",
+      "bytes": 205342,
+      "sha256": "88d3c385d0897d303d2fc8035ab55da919b8c38356ca6de626cb09361e679d85",
+      "source_type": "AI-generated conceptual artwork",
+      "processing": "Supplied processed WebP imported byte-for-byte; original generation metadata unavailable.",
+      "usage": [
+        "Email marketing service page",
+        "Draft visual review"
+      ],
+      "background_policy": "transparent illustration",
+      "theme": "both themes",
+      "transparency": {
+        "transparent_pixel_percent": 26.56,
+        "edge_alpha_max": 253,
+        "corner_alpha": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "review_notes": "AI-generated draft; owner visual review required. Canvas edge alpha reaches 253/255. Substantial visible edge contact; review cropping or padding before production.",
+      "production_ready": false,
+      "counts_toward_core_variants": true
     }
   ],
   "collections": [
@@ -5024,6 +5666,10 @@
     {
       "id": "LM-MEDIA-021",
       "title": "Content Marketing"
+    },
+    {
+      "id": "LM-MEDIA-022",
+      "title": "Email Marketing"
     }
   ]
 }
