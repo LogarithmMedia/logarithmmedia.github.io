@@ -3,7 +3,7 @@
   "collection": "LM-MEDIA",
   "title": "Media Library",
   "release_status": "draft",
-  "notes": "Clean restart: nine transparent service illustrations, four transparent challenge illustrations, six transparent conceptual project mockups, four intentional full-bleed customer segment photographs, four transparent growth framework illustrations, five transparent process illustrations, six intentional full-bleed editorial covers, eight opaque abstract brand backgrounds (four original and four calm alternatives), five opaque social sharing cover bases, four opaque hero alternatives, three transparent pricing and engagement illustrations, one transparent contextual help illustration, four transparent brand identity PNGs, eight transparent SEO service-page illustrations (four original variants and four human-led supplements), eight transparent Google Ads & PPC service-page illustrations (four object-only and four human-led), eight transparent Search Engine Marketing service-page illustrations (four object-only and four human-led), and twelve intentional full-bleed Social Media Marketing photographs and twelve transparent Social Media Marketing illustrations (four object-only A, four female-led B and four male-led C), plus four supplemental male-oriented derived crops with observed alpha. Draft only; owner approval required before production use.",
+  "notes": "Clean restart: nine transparent service illustrations, four transparent challenge illustrations, six transparent conceptual project mockups, four intentional full-bleed customer segment photographs, four transparent growth framework illustrations, five transparent process illustrations, six intentional full-bleed editorial covers, eight opaque abstract brand backgrounds (four original and four calm alternatives), five opaque social sharing cover bases, four opaque hero alternatives, three transparent pricing and engagement illustrations, one transparent contextual help illustration, four transparent brand identity PNGs, eight transparent SEO service-page illustrations (four original variants and four human-led supplements), eight transparent Google Ads & PPC service-page illustrations (four object-only and four human-led), eight transparent Search Engine Marketing service-page illustrations (four object-only and four human-led), and twelve intentional full-bleed Social Media Marketing photographs and twelve transparent Social Media Marketing illustrations (four object-only A, four female-led B and four male-led C), plus four supplemental male-oriented derived crops with observed alpha, and eighteen transparent Content Marketing illustrations (nine core and nine supplemental; three core slots pending). Draft only; owner approval required before production use.",
   "assets": [
     {
       "id": "LM-MEDIA-SVC-001-A",
@@ -4086,6 +4086,870 @@
       "production_ready": false,
       "counts_toward_core_variants": false,
       "variant_label": "Male-led supplemental"
+    },
+    {
+      "id": "LM-MEDIA-CNT-001-A",
+      "collection": "LM-MEDIA-021",
+      "service": "content-marketing",
+      "subcategory": "object-only-transparent",
+      "title": "Editorial creation \u2014 object-only",
+      "variant": "A",
+      "visual_type": "object-only",
+      "concept": "001",
+      "concept_title": "Editorial creation",
+      "description": "Editorial document with pen, books and planning calendar.",
+      "alt": "Editorial document with pen, books and planning calendar.",
+      "format": "webp",
+      "width": 1536,
+      "height": 1024,
+      "alpha": true,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/content-marketing/LM-MEDIA-CNT-001-A-editorial-creation-object-only.webp",
+      "bytes": 162716,
+      "sha256": "49bb4cdcc467ee3f50b1fe8b33f348c764954e09caf02ebf30ecb0f7feda3277",
+      "source_sha256": "98bddd09f98a2c7b0d6114e2404ae7b2321f333075c049d7219db733965bf65d",
+      "source_type": "AI-generated conceptual artwork",
+      "source_dimensions": [
+        1536,
+        1024
+      ],
+      "processing": "Clear source alpha <=4; normalize alpha >=250; proportional resize to 1440x960 and center on transparent 1536x1024 canvas; WebP quality 93, alpha quality 100; no cropping or recoloring.",
+      "usage": [
+        "Content marketing service page",
+        "Draft visual review"
+      ],
+      "background_policy": "transparent illustration",
+      "theme": "both themes",
+      "transparency": {
+        "transparent_pixel_percent": 57.3,
+        "corner_alpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "edge_alpha_max": 0
+      },
+      "review_notes": "Bright cyan highlights, repeated ribbon motifs and similar human poses deviate from restrained brand direction. Natural plant and skin colors retained; some yellow image-thumbnail accents. Content production variants depict editing/review rather than a complete production sequence. Owner review required.",
+      "production_ready": false,
+      "counts_toward_core_variants": true
+    },
+    {
+      "id": "LM-MEDIA-CNT-001-B",
+      "collection": "LM-MEDIA-021",
+      "service": "content-marketing",
+      "subcategory": "female-led-transparent",
+      "title": "Editorial creation \u2014 female-led",
+      "variant": "B",
+      "visual_type": "female-led",
+      "concept": "001",
+      "concept_title": "Editorial creation",
+      "description": "Woman working beside editorial document, pen and books.",
+      "alt": "Woman working beside editorial document, pen and books.",
+      "format": "webp",
+      "width": 1536,
+      "height": 1024,
+      "alpha": true,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/content-marketing/LM-MEDIA-CNT-001-B-editorial-creation-female-led.webp",
+      "bytes": 251236,
+      "sha256": "0935cdade269792bdb042a1ef8eba072866356f7bf5db1a258f599ccd48ad995",
+      "source_sha256": "490c5d40538b8c3dd16a2135d8109149f8da5c8e6422375a162fe578266e8777",
+      "source_type": "AI-generated conceptual artwork",
+      "source_dimensions": [
+        1536,
+        1024
+      ],
+      "processing": "Clear source alpha <=4; normalize alpha >=250; proportional resize to 1440x960 and center on transparent 1536x1024 canvas; WebP quality 93, alpha quality 100; no cropping or recoloring.",
+      "usage": [
+        "Content marketing service page",
+        "Draft visual review"
+      ],
+      "background_policy": "transparent illustration",
+      "theme": "both themes",
+      "transparency": {
+        "transparent_pixel_percent": 46.8,
+        "corner_alpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "edge_alpha_max": 0
+      },
+      "review_notes": "Bright cyan highlights, repeated ribbon motifs and similar human poses deviate from restrained brand direction. Natural plant and skin colors retained; some yellow image-thumbnail accents. Content production variants depict editing/review rather than a complete production sequence. Owner review required.",
+      "production_ready": false,
+      "counts_toward_core_variants": true
+    },
+    {
+      "id": "LM-MEDIA-CNT-001-C",
+      "collection": "LM-MEDIA-021",
+      "service": "content-marketing",
+      "subcategory": "male-led-transparent",
+      "title": "Editorial creation \u2014 male-led",
+      "variant": "C",
+      "visual_type": "male-led",
+      "concept": "001",
+      "concept_title": "Editorial creation",
+      "description": "Man writing in a notebook beside an editorial page.",
+      "alt": "Man writing in a notebook beside an editorial page.",
+      "format": "webp",
+      "width": 1536,
+      "height": 1024,
+      "alpha": true,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/content-marketing/LM-MEDIA-CNT-001-C-editorial-creation-male-led.webp",
+      "bytes": 273502,
+      "sha256": "fa53c411cb4c2ae2cff75a660b8f61f115a74e08b40561758bbca465d3651a53",
+      "source_sha256": "63d9a0623364ed651fa8d7ed10b97459dd8582bbc2d988a8efe216acd420732b",
+      "source_type": "AI-generated conceptual artwork",
+      "source_dimensions": [
+        1536,
+        1024
+      ],
+      "processing": "Clear source alpha <=4; normalize alpha >=250; proportional resize to 1440x960 and center on transparent 1536x1024 canvas; WebP quality 93, alpha quality 100; no cropping or recoloring.",
+      "usage": [
+        "Content marketing service page",
+        "Draft visual review"
+      ],
+      "background_policy": "transparent illustration",
+      "theme": "both themes",
+      "transparency": {
+        "transparent_pixel_percent": 45.66,
+        "corner_alpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "edge_alpha_max": 0
+      },
+      "review_notes": "Bright cyan highlights, repeated ribbon motifs and similar human poses deviate from restrained brand direction. Natural plant and skin colors retained; some yellow image-thumbnail accents. Content production variants depict editing/review rather than a complete production sequence. Owner review required.",
+      "production_ready": false,
+      "counts_toward_core_variants": true
+    },
+    {
+      "id": "LM-MEDIA-CNT-002-A",
+      "collection": "LM-MEDIA-021",
+      "service": "content-marketing",
+      "subcategory": "object-only-transparent",
+      "title": "Content formats \u2014 object-only",
+      "variant": "A",
+      "visual_type": "object-only",
+      "concept": "002",
+      "concept_title": "Content formats",
+      "description": "Laptop surrounded by article, image, video and audio symbols.",
+      "alt": "Laptop surrounded by article, image, video and audio symbols.",
+      "format": "webp",
+      "width": 1536,
+      "height": 1024,
+      "alpha": true,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/content-marketing/LM-MEDIA-CNT-002-A-content-formats-object-only.webp",
+      "bytes": 328950,
+      "sha256": "185bd6142372885303bcff78606d5df5750a89068bfe55f8d739f2276a30ee91",
+      "source_sha256": "fb9e78a83e7d07d84aa16d2e81bec45724decd40d37130a597ea48ea16ad868a",
+      "source_type": "AI-generated conceptual artwork",
+      "source_dimensions": [
+        1536,
+        1024
+      ],
+      "processing": "Clear source alpha <=4; normalize alpha >=250; proportional resize to 1440x960 and center on transparent 1536x1024 canvas; WebP quality 93, alpha quality 100; no cropping or recoloring.",
+      "usage": [
+        "Content marketing service page",
+        "Draft visual review"
+      ],
+      "background_policy": "transparent illustration",
+      "theme": "both themes",
+      "transparency": {
+        "transparent_pixel_percent": 29.48,
+        "corner_alpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "edge_alpha_max": 0
+      },
+      "review_notes": "Bright cyan highlights, repeated ribbon motifs and similar human poses deviate from restrained brand direction. Natural plant and skin colors retained; some yellow image-thumbnail accents. Content production variants depict editing/review rather than a complete production sequence. Owner review required.",
+      "production_ready": false,
+      "counts_toward_core_variants": true
+    },
+    {
+      "id": "LM-MEDIA-CNT-002-B",
+      "collection": "LM-MEDIA-021",
+      "service": "content-marketing",
+      "subcategory": "female-led-transparent",
+      "title": "Content formats \u2014 female-led",
+      "variant": "B",
+      "visual_type": "female-led",
+      "concept": "002",
+      "concept_title": "Content formats",
+      "description": "Woman with camera, microphone and multimedia cards.",
+      "alt": "Woman with camera, microphone and multimedia cards.",
+      "format": "webp",
+      "width": 1536,
+      "height": 1024,
+      "alpha": true,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/content-marketing/LM-MEDIA-CNT-002-B-content-formats-female-led.webp",
+      "bytes": 273354,
+      "sha256": "7ce6b79ed87e317107974a21063e777d87182686b4f7aa53b8607a2d8257446d",
+      "source_sha256": "556740cbcaa1da5bc0908c20089d28c88ed5fd9ec2595a4be00954da6aa232fc",
+      "source_type": "AI-generated conceptual artwork",
+      "source_dimensions": [
+        1536,
+        1024
+      ],
+      "processing": "Clear source alpha <=4; normalize alpha >=250; proportional resize to 1440x960 and center on transparent 1536x1024 canvas; WebP quality 93, alpha quality 100; no cropping or recoloring.",
+      "usage": [
+        "Content marketing service page",
+        "Draft visual review"
+      ],
+      "background_policy": "transparent illustration",
+      "theme": "both themes",
+      "transparency": {
+        "transparent_pixel_percent": 48.16,
+        "corner_alpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "edge_alpha_max": 0
+      },
+      "review_notes": "Bright cyan highlights, repeated ribbon motifs and similar human poses deviate from restrained brand direction. Natural plant and skin colors retained; some yellow image-thumbnail accents. Content production variants depict editing/review rather than a complete production sequence. Owner review required.",
+      "production_ready": false,
+      "counts_toward_core_variants": true
+    },
+    {
+      "id": "LM-MEDIA-CNT-002-C",
+      "collection": "LM-MEDIA-021",
+      "service": "content-marketing",
+      "subcategory": "male-led-transparent",
+      "title": "Content formats \u2014 male-led",
+      "variant": "C",
+      "visual_type": "male-led",
+      "concept": "002",
+      "concept_title": "Content formats",
+      "description": "Man with article, video, audio and image cards.",
+      "alt": "Man with article, video, audio and image cards.",
+      "format": "webp",
+      "width": 1536,
+      "height": 1024,
+      "alpha": true,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/content-marketing/LM-MEDIA-CNT-002-C-content-formats-male-led.webp",
+      "bytes": 262844,
+      "sha256": "1d5574f1a61d9fc2ec2b827bfb0e1db9108253b91626e9548b1be771b20e408a",
+      "source_sha256": "215e78e46c7e7a60ca3f8364ede0184605f174a728823b9d4f638680266e2dd6",
+      "source_type": "AI-generated conceptual artwork",
+      "source_dimensions": [
+        1536,
+        1024
+      ],
+      "processing": "Clear source alpha <=4; normalize alpha >=250; proportional resize to 1440x960 and center on transparent 1536x1024 canvas; WebP quality 93, alpha quality 100; no cropping or recoloring.",
+      "usage": [
+        "Content marketing service page",
+        "Draft visual review"
+      ],
+      "background_policy": "transparent illustration",
+      "theme": "both themes",
+      "transparency": {
+        "transparent_pixel_percent": 51.09,
+        "corner_alpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "edge_alpha_max": 0
+      },
+      "review_notes": "Bright cyan highlights, repeated ribbon motifs and similar human poses deviate from restrained brand direction. Natural plant and skin colors retained; some yellow image-thumbnail accents. Content production variants depict editing/review rather than a complete production sequence. Owner review required.",
+      "production_ready": false,
+      "counts_toward_core_variants": true
+    },
+    {
+      "id": "LM-MEDIA-CNT-003-B",
+      "collection": "LM-MEDIA-021",
+      "service": "content-marketing",
+      "subcategory": "female-led-transparent",
+      "title": "Topic architecture \u2014 female-led",
+      "variant": "B",
+      "visual_type": "female-led",
+      "concept": "003",
+      "concept_title": "Topic architecture",
+      "description": "Woman beside a branching content hierarchy.",
+      "alt": "Woman beside a branching content hierarchy.",
+      "format": "webp",
+      "width": 1536,
+      "height": 1024,
+      "alpha": true,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/content-marketing/LM-MEDIA-CNT-003-B-topic-architecture-female-led.webp",
+      "bytes": 250846,
+      "sha256": "683c3d4462848b9f064625cba9d9ed35a67ea5b4f4ae2a04a798e4cd1fd519f3",
+      "source_sha256": "9178cb5e3d85b572b9c4f10fe622c93cf4ecb698b4d540922d24412af6ab8a89",
+      "source_type": "AI-generated conceptual artwork",
+      "source_dimensions": [
+        1536,
+        1024
+      ],
+      "processing": "Clear source alpha <=4; normalize alpha >=250; proportional resize to 1440x960 and center on transparent 1536x1024 canvas; WebP quality 93, alpha quality 100; no cropping or recoloring.",
+      "usage": [
+        "Content marketing service page",
+        "Draft visual review"
+      ],
+      "background_policy": "transparent illustration",
+      "theme": "both themes",
+      "transparency": {
+        "transparent_pixel_percent": 52.53,
+        "corner_alpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "edge_alpha_max": 0
+      },
+      "review_notes": "Bright cyan highlights, repeated ribbon motifs and similar human poses deviate from restrained brand direction. Natural plant and skin colors retained; some yellow image-thumbnail accents. Content production variants depict editing/review rather than a complete production sequence. Owner review required.",
+      "production_ready": false,
+      "counts_toward_core_variants": true
+    },
+    {
+      "id": "LM-MEDIA-CNT-004-B",
+      "collection": "LM-MEDIA-021",
+      "service": "content-marketing",
+      "subcategory": "female-led-transparent",
+      "title": "Content production \u2014 female-led",
+      "variant": "B",
+      "visual_type": "female-led",
+      "concept": "004",
+      "concept_title": "Content production",
+      "description": "Woman with camera, article editor and planning checklist.",
+      "alt": "Woman with camera, article editor and planning checklist.",
+      "format": "webp",
+      "width": 1536,
+      "height": 1024,
+      "alpha": true,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/content-marketing/LM-MEDIA-CNT-004-B-content-production-female-led.webp",
+      "bytes": 274748,
+      "sha256": "2106ea7175153b2dac257d9dc8ae7bce4c4c0fc5bef78678bddbe84d0a07590b",
+      "source_sha256": "0daa8fba1a82e03f89422ac8fef8eb6d2460244157826510bd4bf84e12cecc49",
+      "source_type": "AI-generated conceptual artwork",
+      "source_dimensions": [
+        1536,
+        1024
+      ],
+      "processing": "Clear source alpha <=4; normalize alpha >=250; proportional resize to 1440x960 and center on transparent 1536x1024 canvas; WebP quality 93, alpha quality 100; no cropping or recoloring.",
+      "usage": [
+        "Content marketing service page",
+        "Draft visual review"
+      ],
+      "background_policy": "transparent illustration",
+      "theme": "both themes",
+      "transparency": {
+        "transparent_pixel_percent": 37.58,
+        "corner_alpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "edge_alpha_max": 0
+      },
+      "review_notes": "Bright cyan highlights, repeated ribbon motifs and similar human poses deviate from restrained brand direction. Natural plant and skin colors retained; some yellow image-thumbnail accents. Content production variants depict editing/review rather than a complete production sequence. Owner review required.",
+      "production_ready": false,
+      "counts_toward_core_variants": true
+    },
+    {
+      "id": "LM-MEDIA-CNT-004-C",
+      "collection": "LM-MEDIA-021",
+      "service": "content-marketing",
+      "subcategory": "male-led-transparent",
+      "title": "Content production \u2014 male-led",
+      "variant": "C",
+      "visual_type": "male-led",
+      "concept": "004",
+      "concept_title": "Content production",
+      "description": "Man working with an article editor and review checklist.",
+      "alt": "Man working with an article editor and review checklist.",
+      "format": "webp",
+      "width": 1536,
+      "height": 1024,
+      "alpha": true,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/content-marketing/LM-MEDIA-CNT-004-C-content-production-male-led.webp",
+      "bytes": 286706,
+      "sha256": "d9286536e227fd4a3e1ffc9e57fbd74b322ab7a7ccfe127345013cf7b2ecc6cd",
+      "source_sha256": "1756ef08b3a00124c7f5bb5b23bc4a53f0de612285e5a887bf05c28793f3ebcc",
+      "source_type": "AI-generated conceptual artwork",
+      "source_dimensions": [
+        1536,
+        1024
+      ],
+      "processing": "Clear source alpha <=4; normalize alpha >=250; proportional resize to 1440x960 and center on transparent 1536x1024 canvas; WebP quality 93, alpha quality 100; no cropping or recoloring.",
+      "usage": [
+        "Content marketing service page",
+        "Draft visual review"
+      ],
+      "background_policy": "transparent illustration",
+      "theme": "both themes",
+      "transparency": {
+        "transparent_pixel_percent": 41.89,
+        "corner_alpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "edge_alpha_max": 0
+      },
+      "review_notes": "Bright cyan highlights, repeated ribbon motifs and similar human poses deviate from restrained brand direction. Natural plant and skin colors retained; some yellow image-thumbnail accents. Content production variants depict editing/review rather than a complete production sequence. Owner review required.",
+      "production_ready": false,
+      "counts_toward_core_variants": true
+    },
+    {
+      "id": "LM-MEDIA-CNT-ALT-001-C",
+      "collection": "LM-MEDIA-021",
+      "service": "content-marketing",
+      "subcategory": "male-led-transparent",
+      "title": "Content formats \u2014 supplemental male-led",
+      "variant": "C",
+      "visual_type": "male-led",
+      "concept": "002",
+      "concept_title": "Content formats",
+      "description": "Standing presenter holding laptop with multimedia cards",
+      "alt": "Standing presenter holding laptop with multimedia cards",
+      "format": "webp",
+      "width": 1536,
+      "height": 1024,
+      "alpha": true,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/content-marketing/LM-MEDIA-CNT-ALT-001-C-content-formats-male-led.webp",
+      "bytes": 231590,
+      "sha256": "8ba576ef3c765edda29c6a7b4ea5922fa4afde19dcd9fcf91071afe6ca80ea06",
+      "source_sha256": "8eb896872067c8df14f7c1fb2a6ee3ff718bd050a1f103766230b37af696639f",
+      "source_type": "AI-generated conceptual artwork",
+      "source_dimensions": [
+        1536,
+        1024
+      ],
+      "processing": "Clear alpha <=4; normalize alpha >=250; proportional resize to 1440x960, center on transparent canvas; clear residual alpha <=4 after resize; WebP quality 93, alpha quality 100; no cropping or recoloring.",
+      "usage": [
+        "Content marketing service page",
+        "Draft visual review"
+      ],
+      "background_policy": "transparent illustration",
+      "theme": "both themes",
+      "transparency": {
+        "transparent_pixel_percent": 50.79,
+        "corner_alpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "edge_alpha_max": 0
+      },
+      "review_notes": "Supplemental composition, not a missing core concept. Cyan, decorative ribbons, similar poses, natural plant colors and occasional yellow/gold accents retained; inspect before production use.",
+      "production_ready": false,
+      "counts_toward_core_variants": false
+    },
+    {
+      "id": "LM-MEDIA-CNT-ALT-002-B",
+      "collection": "LM-MEDIA-021",
+      "service": "content-marketing",
+      "subcategory": "female-led-transparent",
+      "title": "Content formats \u2014 supplemental female-led",
+      "variant": "B",
+      "visual_type": "female-led",
+      "concept": "002",
+      "concept_title": "Content formats",
+      "description": "Seated woman with article, video and audio tiles",
+      "alt": "Seated woman with article, video and audio tiles",
+      "format": "webp",
+      "width": 1536,
+      "height": 1024,
+      "alpha": true,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/content-marketing/LM-MEDIA-CNT-ALT-002-B-content-formats-female-led.webp",
+      "bytes": 251090,
+      "sha256": "816b7940b656254424f428f5a24ece8a77d8273c4ba8288181b34d20a7ce9e46",
+      "source_sha256": "7a3a449395c919ba2e04b84aeb049b495fca08a63a7275031a5e06d7077156bf",
+      "source_type": "AI-generated conceptual artwork",
+      "source_dimensions": [
+        1536,
+        1024
+      ],
+      "processing": "Clear alpha <=4; normalize alpha >=250; proportional resize to 1440x960, center on transparent canvas; clear residual alpha <=4 after resize; WebP quality 93, alpha quality 100; no cropping or recoloring.",
+      "usage": [
+        "Content marketing service page",
+        "Draft visual review"
+      ],
+      "background_policy": "transparent illustration",
+      "theme": "both themes",
+      "transparency": {
+        "transparent_pixel_percent": 47.38,
+        "corner_alpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "edge_alpha_max": 0
+      },
+      "review_notes": "Supplemental composition, not a missing core concept. Cyan, decorative ribbons, similar poses, natural plant colors and occasional yellow/gold accents retained; inspect before production use.",
+      "production_ready": false,
+      "counts_toward_core_variants": false
+    },
+    {
+      "id": "LM-MEDIA-CNT-ALT-003-B",
+      "collection": "LM-MEDIA-021",
+      "service": "content-marketing",
+      "subcategory": "female-led-transparent",
+      "title": "Content production \u2014 supplemental female-led",
+      "variant": "B",
+      "visual_type": "female-led",
+      "concept": "004",
+      "concept_title": "Content production",
+      "description": "Woman at laptop with microphone, clapperboard and calendar",
+      "alt": "Woman at laptop with microphone, clapperboard and calendar",
+      "format": "webp",
+      "width": 1536,
+      "height": 1024,
+      "alpha": true,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/content-marketing/LM-MEDIA-CNT-ALT-003-B-content-production-female-led.webp",
+      "bytes": 254824,
+      "sha256": "8a1ea49d6f2d109b035f95b715c6fb4805e1a957f00f476e33f9d527362e6b6a",
+      "source_sha256": "ad353339a9ccf4415f21bf3cbf7c4ce7c056b5cac32b57a777ec655e6cec15ba",
+      "source_type": "AI-generated conceptual artwork",
+      "source_dimensions": [
+        1536,
+        1024
+      ],
+      "processing": "Clear alpha <=4; normalize alpha >=250; proportional resize to 1440x960, center on transparent canvas; clear residual alpha <=4 after resize; WebP quality 93, alpha quality 100; no cropping or recoloring.",
+      "usage": [
+        "Content marketing service page",
+        "Draft visual review"
+      ],
+      "background_policy": "transparent illustration",
+      "theme": "both themes",
+      "transparency": {
+        "transparent_pixel_percent": 51.41,
+        "corner_alpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "edge_alpha_max": 0
+      },
+      "review_notes": "Supplemental composition, not a missing core concept. Cyan, decorative ribbons, similar poses, natural plant colors and occasional yellow/gold accents retained; inspect before production use.",
+      "production_ready": false,
+      "counts_toward_core_variants": false
+    },
+    {
+      "id": "LM-MEDIA-CNT-ALT-004-C",
+      "collection": "LM-MEDIA-021",
+      "service": "content-marketing",
+      "subcategory": "male-led-transparent",
+      "title": "Editorial creation \u2014 supplemental male-led",
+      "variant": "C",
+      "visual_type": "male-led",
+      "concept": "001",
+      "concept_title": "Editorial creation",
+      "description": "Man with pen, article page and idea bulb",
+      "alt": "Man with pen, article page and idea bulb",
+      "format": "webp",
+      "width": 1536,
+      "height": 1024,
+      "alpha": true,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/content-marketing/LM-MEDIA-CNT-ALT-004-C-editorial-creation-male-led.webp",
+      "bytes": 245100,
+      "sha256": "f61e0ccf8b27708604cd368ca756705e3f891021b93eb4d2082e414e5c3c132f",
+      "source_sha256": "501f9fbe47ab3399983af86e9d8b4a434eb3425b7be1b3033e741501c261bc13",
+      "source_type": "AI-generated conceptual artwork",
+      "source_dimensions": [
+        1536,
+        1024
+      ],
+      "processing": "Clear alpha <=4; normalize alpha >=250; proportional resize to 1440x960, center on transparent canvas; clear residual alpha <=4 after resize; WebP quality 93, alpha quality 100; no cropping or recoloring.",
+      "usage": [
+        "Content marketing service page",
+        "Draft visual review"
+      ],
+      "background_policy": "transparent illustration",
+      "theme": "both themes",
+      "transparency": {
+        "transparent_pixel_percent": 44.98,
+        "corner_alpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "edge_alpha_max": 0
+      },
+      "review_notes": "Supplemental composition, not a missing core concept. Cyan, decorative ribbons, similar poses, natural plant colors and occasional yellow/gold accents retained; inspect before production use.",
+      "production_ready": false,
+      "counts_toward_core_variants": false
+    },
+    {
+      "id": "LM-MEDIA-CNT-ALT-005-C",
+      "collection": "LM-MEDIA-021",
+      "service": "content-marketing",
+      "subcategory": "male-led-transparent",
+      "title": "Editorial creation \u2014 supplemental male-led",
+      "variant": "C",
+      "visual_type": "male-led",
+      "concept": "001",
+      "concept_title": "Editorial creation",
+      "description": "Man with article page, fountain pen and megaphone",
+      "alt": "Man with article page, fountain pen and megaphone",
+      "format": "webp",
+      "width": 1536,
+      "height": 1024,
+      "alpha": true,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/content-marketing/LM-MEDIA-CNT-ALT-005-C-editorial-creation-male-led.webp",
+      "bytes": 215760,
+      "sha256": "4b080aa30731a3fb5efd3f4acdafcbc1f6320c25d4be2afa0d639bf51852d6b8",
+      "source_sha256": "9b07eb2633ffbef4ba92f1f078ddf3f0687743d61a41802cddd289dd9b0c5461",
+      "source_type": "AI-generated conceptual artwork",
+      "source_dimensions": [
+        1536,
+        1024
+      ],
+      "processing": "Clear alpha <=4; normalize alpha >=250; proportional resize to 1440x960, center on transparent canvas; clear residual alpha <=4 after resize; WebP quality 93, alpha quality 100; no cropping or recoloring.",
+      "usage": [
+        "Content marketing service page",
+        "Draft visual review"
+      ],
+      "background_policy": "transparent illustration",
+      "theme": "both themes",
+      "transparency": {
+        "transparent_pixel_percent": 48.77,
+        "corner_alpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "edge_alpha_max": 0
+      },
+      "review_notes": "Supplemental composition, not a missing core concept. Cyan, decorative ribbons, similar poses, natural plant colors and occasional yellow/gold accents retained; inspect before production use.",
+      "production_ready": false,
+      "counts_toward_core_variants": false
+    },
+    {
+      "id": "LM-MEDIA-CNT-ALT-006-B",
+      "collection": "LM-MEDIA-021",
+      "service": "content-marketing",
+      "subcategory": "female-led-transparent",
+      "title": "Editorial creation \u2014 supplemental female-led",
+      "variant": "B",
+      "visual_type": "female-led",
+      "concept": "001",
+      "concept_title": "Editorial creation",
+      "description": "Woman with article page, pen and books",
+      "alt": "Woman with article page, pen and books",
+      "format": "webp",
+      "width": 1536,
+      "height": 1024,
+      "alpha": true,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/content-marketing/LM-MEDIA-CNT-ALT-006-B-editorial-creation-female-led.webp",
+      "bytes": 231888,
+      "sha256": "6fea1c0a4b64f6680e45900f89ed38be97ed19e4372ef0de177e28d9f4ed5562",
+      "source_sha256": "e98c18166a933db54751671abeb3073096c8d25b73180de36e7a6a32d56e0c40",
+      "source_type": "AI-generated conceptual artwork",
+      "source_dimensions": [
+        1536,
+        1024
+      ],
+      "processing": "Clear alpha <=4; normalize alpha >=250; proportional resize to 1440x960, center on transparent canvas; clear residual alpha <=4 after resize; WebP quality 93, alpha quality 100; no cropping or recoloring.",
+      "usage": [
+        "Content marketing service page",
+        "Draft visual review"
+      ],
+      "background_policy": "transparent illustration",
+      "theme": "both themes",
+      "transparency": {
+        "transparent_pixel_percent": 46.63,
+        "corner_alpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "edge_alpha_max": 0
+      },
+      "review_notes": "Supplemental composition, not a missing core concept. Cyan, decorative ribbons, similar poses, natural plant colors and occasional yellow/gold accents retained; inspect before production use.",
+      "production_ready": false,
+      "counts_toward_core_variants": false
+    },
+    {
+      "id": "LM-MEDIA-CNT-ALT-007-B",
+      "collection": "LM-MEDIA-021",
+      "service": "content-marketing",
+      "subcategory": "female-led-transparent",
+      "title": "Editorial creation \u2014 supplemental female-led",
+      "variant": "B",
+      "visual_type": "female-led",
+      "concept": "001",
+      "concept_title": "Editorial creation",
+      "description": "Woman at oval desk with editorial checklist and article",
+      "alt": "Woman at oval desk with editorial checklist and article",
+      "format": "webp",
+      "width": 1536,
+      "height": 1024,
+      "alpha": true,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/content-marketing/LM-MEDIA-CNT-ALT-007-B-editorial-creation-female-led.webp",
+      "bytes": 245762,
+      "sha256": "43981f6a22f13f0d4f483f17c6e249a525b115c4ccb0f521644e7db162599768",
+      "source_sha256": "b43a221131a8359b1c821107193da7d27b152d40476d7aadbea312d8e4c4cb81",
+      "source_type": "AI-generated conceptual artwork",
+      "source_dimensions": [
+        1536,
+        1024
+      ],
+      "processing": "Clear alpha <=4; normalize alpha >=250; proportional resize to 1440x960, center on transparent canvas; clear residual alpha <=4 after resize; WebP quality 93, alpha quality 100; no cropping or recoloring.",
+      "usage": [
+        "Content marketing service page",
+        "Draft visual review"
+      ],
+      "background_policy": "transparent illustration",
+      "theme": "both themes",
+      "transparency": {
+        "transparent_pixel_percent": 44.58,
+        "corner_alpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "edge_alpha_max": 0
+      },
+      "review_notes": "Supplemental composition, not a missing core concept. Cyan, decorative ribbons, similar poses, natural plant colors and occasional yellow/gold accents retained; inspect before production use.",
+      "production_ready": false,
+      "counts_toward_core_variants": false
+    },
+    {
+      "id": "LM-MEDIA-CNT-ALT-008-A",
+      "collection": "LM-MEDIA-021",
+      "service": "content-marketing",
+      "subcategory": "object-only-transparent",
+      "title": "Editorial creation \u2014 supplemental object-only",
+      "variant": "A",
+      "visual_type": "object-only",
+      "concept": "001",
+      "concept_title": "Editorial creation",
+      "description": "Article page, pen, quotation tile and calendar",
+      "alt": "Article page, pen, quotation tile and calendar",
+      "format": "webp",
+      "width": 1536,
+      "height": 1024,
+      "alpha": true,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/content-marketing/LM-MEDIA-CNT-ALT-008-A-editorial-creation-object-only.webp",
+      "bytes": 155648,
+      "sha256": "eb6fc6fe440d156f314b7064fd19d8d229f5e7830db5ecf827c49e5559e7edc4",
+      "source_sha256": "262d6d27d8d17ed458fcae4181e61554ee4477303c66332ab511ac6dbb330ae0",
+      "source_type": "AI-generated conceptual artwork",
+      "source_dimensions": [
+        1536,
+        1024
+      ],
+      "processing": "Clear alpha <=4; normalize alpha >=250; proportional resize to 1440x960, center on transparent canvas; clear residual alpha <=4 after resize; WebP quality 93, alpha quality 100; no cropping or recoloring.",
+      "usage": [
+        "Content marketing service page",
+        "Draft visual review"
+      ],
+      "background_policy": "transparent illustration",
+      "theme": "both themes",
+      "transparency": {
+        "transparent_pixel_percent": 57.11,
+        "corner_alpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "edge_alpha_max": 0
+      },
+      "review_notes": "Supplemental composition, not a missing core concept. Cyan, decorative ribbons, similar poses, natural plant colors and occasional yellow/gold accents retained; inspect before production use.",
+      "production_ready": false,
+      "counts_toward_core_variants": false
+    },
+    {
+      "id": "LM-MEDIA-CNT-ALT-009-A",
+      "collection": "LM-MEDIA-021",
+      "service": "content-marketing",
+      "subcategory": "object-only-transparent",
+      "title": "Editorial creation \u2014 supplemental object-only",
+      "variant": "A",
+      "visual_type": "object-only",
+      "concept": "001",
+      "concept_title": "Editorial creation",
+      "description": "Open editorial booklet with pen and media tiles",
+      "alt": "Open editorial booklet with pen and media tiles",
+      "format": "webp",
+      "width": 1536,
+      "height": 1024,
+      "alpha": true,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/content-marketing/LM-MEDIA-CNT-ALT-009-A-editorial-creation-object-only.webp",
+      "bytes": 172534,
+      "sha256": "a83b6c2dab63837062d287b2ed56c1fa90c52a10a8fe0576db826f2956e1a9bb",
+      "source_sha256": "c9d9bae8f01d00dafe0a9c967bef19a571aea65317dd18e8f622c54a2037825a",
+      "source_type": "AI-generated conceptual artwork",
+      "source_dimensions": [
+        1536,
+        1024
+      ],
+      "processing": "Clear alpha <=4; normalize alpha >=250; proportional resize to 1440x960, center on transparent canvas; clear residual alpha <=4 after resize; WebP quality 93, alpha quality 100; no cropping or recoloring.",
+      "usage": [
+        "Content marketing service page",
+        "Draft visual review"
+      ],
+      "background_policy": "transparent illustration",
+      "theme": "both themes",
+      "transparency": {
+        "transparent_pixel_percent": 54.2,
+        "corner_alpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "edge_alpha_max": 0
+      },
+      "review_notes": "Supplemental composition, not a missing core concept. Cyan, decorative ribbons, similar poses, natural plant colors and occasional yellow/gold accents retained; inspect before production use.",
+      "production_ready": false,
+      "counts_toward_core_variants": false
     }
   ],
   "collections": [
@@ -4156,6 +5020,10 @@
     {
       "id": "LM-MEDIA-020",
       "title": "Social Media Marketing"
+    },
+    {
+      "id": "LM-MEDIA-021",
+      "title": "Content Marketing"
     }
   ]
 }
