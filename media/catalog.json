@@ -3,7 +3,7 @@
   "collection": "LM-MEDIA",
   "title": "Media Library",
   "release_status": "draft",
-  "notes": "Clean restart: nine transparent service illustrations, four transparent challenge illustrations, six transparent conceptual project mockups, four intentional full-bleed customer segment photographs, four transparent growth framework illustrations, five transparent process illustrations, six intentional full-bleed editorial covers, eight opaque abstract brand backgrounds (four original and four calm alternatives), five opaque social sharing cover bases, four opaque hero alternatives, three transparent pricing and engagement illustrations, one transparent contextual help illustration, four transparent brand identity PNGs, eight transparent SEO service-page illustrations (four original variants and four human-led supplements), eight transparent Google Ads & PPC service-page illustrations (four object-only and four human-led), eight transparent Search Engine Marketing service-page illustrations (four object-only and four human-led), and twelve intentional full-bleed Social Media Marketing photographs (four transparent human-led illustrations imported, four core object-only illustrations pending), and four supplemental male-oriented derived crops with observed alpha. Draft only; owner approval required before production use.",
+  "notes": "Clean restart: nine transparent service illustrations, four transparent challenge illustrations, six transparent conceptual project mockups, four intentional full-bleed customer segment photographs, four transparent growth framework illustrations, five transparent process illustrations, six intentional full-bleed editorial covers, eight opaque abstract brand backgrounds (four original and four calm alternatives), five opaque social sharing cover bases, four opaque hero alternatives, three transparent pricing and engagement illustrations, one transparent contextual help illustration, four transparent brand identity PNGs, eight transparent SEO service-page illustrations (four original variants and four human-led supplements), eight transparent Google Ads & PPC service-page illustrations (four object-only and four human-led), eight transparent Search Engine Marketing service-page illustrations (four object-only and four human-led), and twelve intentional full-bleed Social Media Marketing photographs and twelve transparent Social Media Marketing illustrations (four object-only A, four female-led B and four male-led C), plus four supplemental male-oriented derived crops with observed alpha. Draft only; owner approval required before production use.",
   "assets": [
     {
       "id": "LM-MEDIA-SVC-001-A",
@@ -3698,6 +3698,394 @@
       "review_notes": "Derived from earlier rejected concept sheets. Package labels these opaque/full-bleed, but the actual WebP contains transparent pixels. Review crop, background and composition before production. Package includes no independent per-image checksum manifest; SHA-256 recorded at import.",
       "production_ready": false,
       "counts_toward_core_variants": false
+    },
+    {
+      "id": "LM-MEDIA-SMM-001-A",
+      "collection": "LM-MEDIA-020",
+      "service": "social-media",
+      "subcategory": "object-only-transparent",
+      "title": "Brand presence \u2014 object-only",
+      "variant": "A",
+      "visual_type": "object-only",
+      "concept": "001",
+      "concept_title": "Brand presence",
+      "description": "Megaphone, storefront profile card and social reaction symbols.",
+      "alt": "Megaphone, storefront profile card and social reaction symbols.",
+      "format": "webp",
+      "width": 1536,
+      "height": 1024,
+      "alpha": true,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/social-media/LM-MEDIA-SMM-001-A-brand-presence-object.webp",
+      "bytes": 170764,
+      "sha256": "fff82c8417ed1cdd9b4c2a4bbed45e3f743bc08e8f39619393768f11875083ed",
+      "source_sha256": "fe2b2f85e2b220676379bce1b27c4d00fff71680ae14326ebb591b89e2274216",
+      "source_type": "AI-generated conceptual artwork",
+      "source_dimensions": [
+        1536,
+        1024
+      ],
+      "processing": "Cleared alpha <=4, normalized alpha >=250; proportional resize to 1440 \u00d7 960 and centered on transparent 1536 \u00d7 1024 canvas. WebP quality 93, alpha quality 100; no crop, recoloring or recomposition.",
+      "usage": [
+        "Social media service page",
+        "Draft visual review"
+      ],
+      "background_policy": "transparent illustration",
+      "theme": "both themes",
+      "transparency": {
+        "transparent_pixel_percent": 55.97,
+        "corner_alpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "edge_alpha_max": 0
+      },
+      "review_notes": "Conceptual artwork; cyan-blue highlights and repeated curved ribbons deviate from strict matte, restrained direction. Brand badge is decorative, not certification.",
+      "production_ready": false,
+      "counts_toward_core_variants": true
+    },
+    {
+      "id": "LM-MEDIA-SMM-002-A",
+      "collection": "LM-MEDIA-020",
+      "service": "social-media",
+      "subcategory": "object-only-transparent",
+      "title": "Content production \u2014 object-only",
+      "variant": "A",
+      "visual_type": "object-only",
+      "concept": "002",
+      "concept_title": "Content production",
+      "description": "Camera, phone tripod, ring light, microphone and media editing symbols.",
+      "alt": "Camera, phone tripod, ring light, microphone and media editing symbols.",
+      "format": "webp",
+      "width": 1536,
+      "height": 1024,
+      "alpha": true,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/social-media/LM-MEDIA-SMM-002-A-content-production-object.webp",
+      "bytes": 256574,
+      "sha256": "33cfc67e6f70cd53e6ac020be32ce1e9ad31f3e83d13dacfb7227062697395e3",
+      "source_sha256": "153595f22ee31ade31c7b1dc59e2901c75554708fb6828422d3b24bc197cb8ff",
+      "source_type": "AI-generated conceptual artwork",
+      "source_dimensions": [
+        1536,
+        1024
+      ],
+      "processing": "Cleared alpha <=4, normalized alpha >=250; proportional resize to 1440 \u00d7 960 and centered on transparent 1536 \u00d7 1024 canvas. WebP quality 93, alpha quality 100; no crop, recoloring or recomposition.",
+      "usage": [
+        "Social media service page",
+        "Draft visual review"
+      ],
+      "background_policy": "transparent illustration",
+      "theme": "both themes",
+      "transparency": {
+        "transparent_pixel_percent": 53.13,
+        "corner_alpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "edge_alpha_max": 0
+      },
+      "review_notes": "Conceptual artwork; cyan-blue highlights and curved ribbon/arrow motif retained. No actual performance or endorsement claim.",
+      "production_ready": false,
+      "counts_toward_core_variants": true
+    },
+    {
+      "id": "LM-MEDIA-SMM-003-A",
+      "collection": "LM-MEDIA-020",
+      "service": "social-media",
+      "subcategory": "object-only-transparent",
+      "title": "Publishing strategy \u2014 object-only",
+      "variant": "A",
+      "visual_type": "object-only",
+      "concept": "003",
+      "concept_title": "Publishing strategy",
+      "description": "Ring-bound publishing calendar, post cards, clock and notification bell.",
+      "alt": "Ring-bound publishing calendar, post cards, clock and notification bell.",
+      "format": "webp",
+      "width": 1536,
+      "height": 1024,
+      "alpha": true,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/social-media/LM-MEDIA-SMM-003-A-publishing-strategy-object.webp",
+      "bytes": 197816,
+      "sha256": "c3a60b6f83c336c502b21ba7d13a38a9bd430b4f8f9753dbe38e5d0953b115a7",
+      "source_sha256": "c2a81d75cf31ba4aaf360a2b004da71e86d5e8587eb9fafac814d3869cbebc7c",
+      "source_type": "AI-generated conceptual artwork",
+      "source_dimensions": [
+        1536,
+        1024
+      ],
+      "processing": "Cleared alpha <=4, normalized alpha >=250; proportional resize to 1440 \u00d7 960 and centered on transparent 1536 \u00d7 1024 canvas. WebP quality 93, alpha quality 100; no crop, recoloring or recomposition.",
+      "usage": [
+        "Social media service page",
+        "Draft visual review"
+      ],
+      "background_policy": "transparent illustration",
+      "theme": "both themes",
+      "transparency": {
+        "transparent_pixel_percent": 52.9,
+        "corner_alpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "edge_alpha_max": 0
+      },
+      "review_notes": "Conceptual artwork; cyan-blue highlights and curved ribbon/arrow motif retained. No actual performance or endorsement claim.",
+      "production_ready": false,
+      "counts_toward_core_variants": true
+    },
+    {
+      "id": "LM-MEDIA-SMM-004-A",
+      "collection": "LM-MEDIA-020",
+      "service": "social-media",
+      "subcategory": "object-only-transparent",
+      "title": "Community engagement \u2014 object-only",
+      "variant": "A",
+      "visual_type": "object-only",
+      "concept": "004",
+      "concept_title": "Community engagement",
+      "description": "Connected community avatar nodes with conversation and reaction symbols.",
+      "alt": "Connected community avatar nodes with conversation and reaction symbols.",
+      "format": "webp",
+      "width": 1536,
+      "height": 1024,
+      "alpha": true,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/social-media/LM-MEDIA-SMM-004-A-community-engagement-object.webp",
+      "bytes": 186922,
+      "sha256": "89fb2390efea2c1778cebf8b16258b861108ff4f02f29f52ea21d4cabf696a0f",
+      "source_sha256": "625ee3e7459f9ef634408ec111db2b7ce67f402115676fabb6ce5398d084935c",
+      "source_type": "AI-generated conceptual artwork",
+      "source_dimensions": [
+        1536,
+        1024
+      ],
+      "processing": "Cleared alpha <=4, normalized alpha >=250; proportional resize to 1440 \u00d7 960 and centered on transparent 1536 \u00d7 1024 canvas. WebP quality 93, alpha quality 100; no crop, recoloring or recomposition.",
+      "usage": [
+        "Social media service page",
+        "Draft visual review"
+      ],
+      "background_policy": "transparent illustration",
+      "theme": "both themes",
+      "transparency": {
+        "transparent_pixel_percent": 59.59,
+        "corner_alpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "edge_alpha_max": 0
+      },
+      "review_notes": "Conceptual artwork; cyan-blue highlights and curved ribbon/arrow motif retained. No actual performance or endorsement claim.",
+      "production_ready": false,
+      "counts_toward_core_variants": true
+    },
+    {
+      "id": "LM-MEDIA-SMM-001-C",
+      "collection": "LM-MEDIA-020",
+      "service": "social-media",
+      "subcategory": "human-led-transparent",
+      "title": "Brand presence \u2014 male-led",
+      "variant": "C",
+      "visual_type": "human-led",
+      "concept": "001",
+      "concept_title": "Brand presence",
+      "description": "Indian professional beside a social profile mockup, reaction icons and conceptual growth bars.",
+      "alt": "Indian professional beside a social profile mockup, reaction icons and conceptual growth bars.",
+      "format": "webp",
+      "width": 1536,
+      "height": 1024,
+      "alpha": true,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/social-media/LM-MEDIA-SMM-001-C-brand-presence-male.webp",
+      "bytes": 210472,
+      "sha256": "391219ac703cc29cedbc2d3198ebf87485e2ab9014d19b2940ed142b0c874256",
+      "source_sha256": "6fb64b9588150295298dd7596e625aeeb201e4c52fb6bcea23bdbc181b475854",
+      "source_type": "AI-generated conceptual artwork",
+      "source_dimensions": [
+        1536,
+        1024
+      ],
+      "processing": "Original alpha cleaned: values <=12 cleared, >=250 normalized, isolated components under 12 pixels removed; complete source canvas proportionally resized to 1440 x 960 and centered on transparent 1536 x 1024 canvas. WebP quality 93, lossless alpha. No crop, recoloring or recomposition.",
+      "usage": [
+        "Social media service page",
+        "draft visual review"
+      ],
+      "background_policy": "transparent illustration",
+      "theme": "both themes",
+      "transparency": {
+        "transparent_pixel_percent": 45.43,
+        "corner_alpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "edge_alpha_max": 0
+      },
+      "review_notes": "AI-generated concept, not real employees or client results. Original waist-level framing preserved. Similar male characters and decorative blue arcs in three concepts; review before production. Growth bars are illustrative, not performance evidence.",
+      "production_ready": false,
+      "counts_toward_core_variants": false,
+      "variant_label": "Male-led supplemental"
+    },
+    {
+      "id": "LM-MEDIA-SMM-002-C",
+      "collection": "LM-MEDIA-020",
+      "service": "social-media",
+      "subcategory": "human-led-transparent",
+      "title": "Content production \u2014 male-led",
+      "variant": "C",
+      "visual_type": "human-led",
+      "concept": "002",
+      "concept_title": "Content production",
+      "description": "Indian creator holding a camera beside a ring light, microphone and media previews.",
+      "alt": "Indian creator holding a camera beside a ring light, microphone and media previews.",
+      "format": "webp",
+      "width": 1536,
+      "height": 1024,
+      "alpha": true,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/social-media/LM-MEDIA-SMM-002-C-content-production-male.webp",
+      "bytes": 225090,
+      "sha256": "6d07a3beef1a059607d40514da228ed973c7cabb16f724c85adfa138c881c270",
+      "source_sha256": "77e8159f540ca038273872d28e2c5f0e7847919eb8b15766d2660c82ff121c1b",
+      "source_type": "AI-generated conceptual artwork",
+      "source_dimensions": [
+        1536,
+        1024
+      ],
+      "processing": "Original alpha cleaned: values <=12 cleared, >=250 normalized, isolated components under 12 pixels removed; complete source canvas proportionally resized to 1440 x 960 and centered on transparent 1536 x 1024 canvas. WebP quality 93, lossless alpha. No crop, recoloring or recomposition.",
+      "usage": [
+        "Social media service page",
+        "draft visual review"
+      ],
+      "background_policy": "transparent illustration",
+      "theme": "both themes",
+      "transparency": {
+        "transparent_pixel_percent": 42.6,
+        "corner_alpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "edge_alpha_max": 0
+      },
+      "review_notes": "AI-generated concept, not real employees or client results. Original waist-level framing preserved. Similar male characters and decorative blue arcs in three concepts; review before production. Growth bars are illustrative, not performance evidence.",
+      "production_ready": false,
+      "counts_toward_core_variants": false,
+      "variant_label": "Male-led supplemental"
+    },
+    {
+      "id": "LM-MEDIA-SMM-003-C",
+      "collection": "LM-MEDIA-020",
+      "service": "social-media",
+      "subcategory": "human-led-transparent",
+      "title": "Publishing strategy \u2014 male-led",
+      "variant": "C",
+      "visual_type": "human-led",
+      "concept": "003",
+      "concept_title": "Publishing strategy",
+      "description": "Indian professional planning content with a laptop, calendar, clock and checklist.",
+      "alt": "Indian professional planning content with a laptop, calendar, clock and checklist.",
+      "format": "webp",
+      "width": 1536,
+      "height": 1024,
+      "alpha": true,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/social-media/LM-MEDIA-SMM-003-C-publishing-strategy-male.webp",
+      "bytes": 183236,
+      "sha256": "66be41a600e2b1b7b6881481025a764baa167ba5c41dfe8123adb4e6f734cbfb",
+      "source_sha256": "96350cbc6344c713bc4308b6b78eff7e938bbd3eaf71e206fcdb2d15f0d9686e",
+      "source_type": "AI-generated conceptual artwork",
+      "source_dimensions": [
+        1536,
+        1024
+      ],
+      "processing": "Original alpha cleaned: values <=12 cleared, >=250 normalized, isolated components under 12 pixels removed; complete source canvas proportionally resized to 1440 x 960 and centered on transparent 1536 x 1024 canvas. WebP quality 93, lossless alpha. No crop, recoloring or recomposition.",
+      "usage": [
+        "Social media service page",
+        "draft visual review"
+      ],
+      "background_policy": "transparent illustration",
+      "theme": "both themes",
+      "transparency": {
+        "transparent_pixel_percent": 40.73,
+        "corner_alpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "edge_alpha_max": 0
+      },
+      "review_notes": "AI-generated concept, not real employees or client results. Original waist-level framing preserved. Similar male characters and decorative blue arcs in three concepts; review before production. Growth bars are illustrative, not performance evidence.",
+      "production_ready": false,
+      "counts_toward_core_variants": false,
+      "variant_label": "Male-led supplemental"
+    },
+    {
+      "id": "LM-MEDIA-SMM-004-C",
+      "collection": "LM-MEDIA-020",
+      "service": "social-media",
+      "subcategory": "human-led-transparent",
+      "title": "Community engagement \u2014 male-led",
+      "variant": "C",
+      "visual_type": "human-led",
+      "concept": "004",
+      "concept_title": "Community engagement",
+      "description": "Indian professional using a tablet beside conversation bubbles and community icons.",
+      "alt": "Indian professional using a tablet beside conversation bubbles and community icons.",
+      "format": "webp",
+      "width": 1536,
+      "height": 1024,
+      "alpha": true,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/social-media/LM-MEDIA-SMM-004-C-community-engagement-male.webp",
+      "bytes": 243658,
+      "sha256": "e843c1e929d354f6a16b942b95dd03ad2c9824cce7534e65a9539bffe6dfdb5f",
+      "source_sha256": "7b97c102a3b45634c45b90c9dc099c61fd2116e0717ebbb35e4b3c73d251ffe0",
+      "source_type": "AI-generated conceptual artwork",
+      "source_dimensions": [
+        1536,
+        1024
+      ],
+      "processing": "Original alpha cleaned: values <=12 cleared, >=250 normalized, isolated components under 12 pixels removed; complete source canvas proportionally resized to 1440 x 960 and centered on transparent 1536 x 1024 canvas. WebP quality 93, lossless alpha. No crop, recoloring or recomposition.",
+      "usage": [
+        "Social media service page",
+        "draft visual review"
+      ],
+      "background_policy": "transparent illustration",
+      "theme": "both themes",
+      "transparency": {
+        "transparent_pixel_percent": 45.15,
+        "corner_alpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "edge_alpha_max": 0
+      },
+      "review_notes": "AI-generated concept, not real employees or client results. Original waist-level framing preserved. Similar male characters and decorative blue arcs in three concepts; review before production. Growth bars are illustrative, not performance evidence.",
+      "production_ready": false,
+      "counts_toward_core_variants": false,
+      "variant_label": "Male-led supplemental"
     }
   ],
   "collections": [
