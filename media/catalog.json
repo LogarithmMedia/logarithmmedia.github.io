@@ -6766,6 +6766,198 @@
       "review_notes": "Conceptual 3D illustration; final optimized artwork visually checked on cool white and deep navy. Draft review required before production use.",
       "production_ready": false,
       "acceptance_score": 98
+    },
+    {
+      "id": "LM-MEDIA-WEB-005-A",
+      "collection": "LM-MEDIA-024",
+      "service": "web-development",
+      "subcategory": "technical-illustrations",
+      "title": "Conversion website and enquiry form",
+      "variant": "A",
+      "visual_type": "3d-object-only",
+      "concept": "005",
+      "concept_title": "Conversion website and enquiry form",
+      "description": "A fictional website with enquiry form, validation panel and confirmation tile connected in sequence.",
+      "alt": "A fictional website with enquiry form, validation panel and confirmation tile connected in sequence.",
+      "format": "webp",
+      "width": 1536,
+      "height": 1024,
+      "alpha": true,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/web-development/LM-MEDIA-WEB-005-A-conversion-website-and-enquiry-form.webp",
+      "bytes": 71934,
+      "sha256": "51287c4df7f580616db9314fdf204537b4bce7b7f267f096aea630505f4f4a4d",
+      "source_sha256": "832dfc6eb238d98ee399f443d63b65b13414499cf4569b8f66e059ed905de1be",
+      "source_dimensions": [
+        1536,
+        1024
+      ],
+      "source_type": "AI-generated conceptual artwork",
+      "processing": "Near-opaque alpha normalized, low alpha residue cleared, proportional transparent padding, WebP quality 90. Original preserved.",
+      "usage": [
+        "Web development service page",
+        "Draft visual review"
+      ],
+      "background_policy": "transparent illustration",
+      "theme": "both themes",
+      "transparency": {
+        "transparent_pixel_percent": 64.78,
+        "edge_alpha_max": 0,
+        "corner_alpha": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "review_notes": "Conceptual 3D illustration; final optimized artwork visually checked on cool white and deep navy. Draft review required before production use.",
+      "production_ready": false,
+      "acceptance_score": 94
+    },
+    {
+      "id": "LM-MEDIA-WEB-006-A",
+      "collection": "LM-MEDIA-024",
+      "service": "web-development",
+      "subcategory": "technical-illustrations",
+      "title": "Website redesign comparison",
+      "variant": "A",
+      "visual_type": "3d-object-only",
+      "concept": "006",
+      "concept_title": "Website redesign comparison",
+      "description": "Two fictional website layouts show a transition from a dense interface to a clearer layout.",
+      "alt": "Two fictional website layouts show a transition from a dense interface to a clearer layout.",
+      "format": "webp",
+      "width": 1536,
+      "height": 1024,
+      "alpha": true,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/web-development/LM-MEDIA-WEB-006-A-website-redesign-comparison.webp",
+      "bytes": 81024,
+      "sha256": "3b1f0b148c07ca798b1caede71cea74a1fe4a55b715b7089841e1683d2cc2fbf",
+      "source_sha256": "27f1dd9f214692ee1dbe8ce4d50a47cb8a68a63e314a47cf37513172013dd4cb",
+      "source_dimensions": [
+        1536,
+        1024
+      ],
+      "source_type": "AI-generated conceptual artwork",
+      "processing": "Near-opaque alpha normalized, low alpha residue cleared, proportional transparent padding, WebP quality 90. Original preserved.",
+      "usage": [
+        "Web development service page",
+        "Draft visual review"
+      ],
+      "background_policy": "transparent illustration",
+      "theme": "both themes",
+      "transparency": {
+        "transparent_pixel_percent": 52.68,
+        "edge_alpha_max": 0,
+        "corner_alpha": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "review_notes": "Conceptual 3D illustration; final optimized artwork visually checked on cool white and deep navy. Draft review required before production use.",
+      "production_ready": false,
+      "acceptance_score": 96
+    },
+    {
+      "id": "LM-MEDIA-WEB-007-A",
+      "collection": "LM-MEDIA-024",
+      "service": "web-development",
+      "subcategory": "technical-illustrations",
+      "title": "CMS and business integration",
+      "variant": "A",
+      "visual_type": "3d-object-only",
+      "concept": "007",
+      "concept_title": "CMS and business integration",
+      "description": "A content management interface connects form intake, contact information and publishing modules.",
+      "alt": "A content management interface connects form intake, contact information and publishing modules.",
+      "format": "webp",
+      "width": 1536,
+      "height": 1024,
+      "alpha": true,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/web-development/LM-MEDIA-WEB-007-A-cms-and-business-integration.webp",
+      "bytes": 73168,
+      "sha256": "449c69dec88bfa48fd1a33429a7af5c4cb6b98ccd7c9cef5be74229bef797c10",
+      "source_sha256": "f5b1ba5f4c09c932e87c1520669b1ce8f088cb41a88d19f1e06ebb04d56a8cc7",
+      "source_dimensions": [
+        1536,
+        1024
+      ],
+      "source_type": "AI-generated conceptual artwork",
+      "processing": "Near-opaque alpha normalized, low alpha residue cleared, proportional transparent padding, WebP quality 90. Original preserved.",
+      "usage": [
+        "Web development service page",
+        "Draft visual review"
+      ],
+      "background_policy": "transparent illustration",
+      "theme": "both themes",
+      "transparency": {
+        "transparent_pixel_percent": 58.0,
+        "edge_alpha_max": 0,
+        "corner_alpha": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "review_notes": "Conceptual 3D illustration; final optimized artwork visually checked on cool white and deep navy. Draft review required before production use.",
+      "production_ready": false,
+      "acceptance_score": 97
+    },
+    {
+      "id": "LM-MEDIA-WEB-008-A",
+      "collection": "LM-MEDIA-024",
+      "service": "web-development",
+      "subcategory": "technical-illustrations",
+      "title": "Security and maintenance",
+      "variant": "A",
+      "visual_type": "3d-object-only",
+      "concept": "008",
+      "concept_title": "Security and maintenance",
+      "description": "A website panel, padlock, backup module and maintenance checklist illustrate routine site upkeep.",
+      "alt": "A website panel, padlock, backup module and maintenance checklist illustrate routine site upkeep.",
+      "format": "webp",
+      "width": 1536,
+      "height": 1024,
+      "alpha": true,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/web-development/LM-MEDIA-WEB-008-A-security-and-maintenance.webp",
+      "bytes": 55118,
+      "sha256": "ddec058b34ef33189406562743824236d59dee122e0d2156001dc1fcfe45acc1",
+      "source_sha256": "c02d5086e16045dd995a62ed8f5a135c228e40814c85f9086822515c72b2939e",
+      "source_dimensions": [
+        1536,
+        1024
+      ],
+      "source_type": "AI-generated conceptual artwork",
+      "processing": "Near-opaque alpha normalized, low alpha residue cleared, proportional transparent padding, WebP quality 90. Original preserved.",
+      "usage": [
+        "Web development service page",
+        "Draft visual review"
+      ],
+      "background_policy": "transparent illustration",
+      "theme": "both themes",
+      "transparency": {
+        "transparent_pixel_percent": 46.58,
+        "edge_alpha_max": 0,
+        "corner_alpha": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "review_notes": "Conceptual 3D illustration; final optimized artwork visually checked on cool white and deep navy. Draft review required before production use.",
+      "production_ready": false,
+      "acceptance_score": 97
     }
   ],
   "collections": [

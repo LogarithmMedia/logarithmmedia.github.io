@@ -181,10 +181,32 @@
       "category": "technical",
       "title": "Conversion website and enquiry form",
       "intended_placement": "Web development service page",
-      "state": "planned",
+      "state": "accepted-draft",
       "release_status": "draft",
       "production_ready": false,
-      "acceptance": null
+      "acceptance": {
+        "scores": {
+          "palette": 20,
+          "relevance": 20,
+          "craftsmanship": 18,
+          "originality": 12,
+          "technical": 15,
+          "placement": 9
+        },
+        "total": 94,
+        "visual_checks": "Final WebP reviewed individually on light and dark; clean geometry, no clipping, brand-compatible palette, meaningful alpha, no mandatory defects observed. Scores are editorial judgments."
+      },
+      "width": 1536,
+      "height": 1024,
+      "bytes": 71934,
+      "sha256": "51287c4df7f580616db9314fdf204537b4bce7b7f267f096aea630505f4f4a4d",
+      "alpha_zero_pct": 64.78,
+      "source_sha256": "832dfc6eb238d98ee399f443d63b65b13414499cf4569b8f66e059ed905de1be",
+      "edge_alpha_max": 0,
+      "alt": "A fictional website with enquiry form, validation panel and confirmation tile connected in sequence.",
+      "processing": "Near-opaque alpha normalized, low alpha residue cleared, proportional transparent padding, WebP quality 90. Original preserved.",
+      "path": "assets/web-development/LM-MEDIA-WEB-005-A-conversion-website-and-enquiry-form.webp",
+      "source_filename": "call_eyVUTvmvqHZE52HNXfSOyUwIXVUOoxay.png"
     },
     {
       "id": "LM-MEDIA-WEB-006-A",
@@ -193,10 +215,32 @@
       "category": "technical",
       "title": "Website redesign comparison",
       "intended_placement": "Web development service page",
-      "state": "planned",
+      "state": "accepted-draft",
       "release_status": "draft",
       "production_ready": false,
-      "acceptance": null
+      "acceptance": {
+        "scores": {
+          "palette": 19,
+          "relevance": 20,
+          "craftsmanship": 18,
+          "originality": 14,
+          "technical": 15,
+          "placement": 10
+        },
+        "total": 96,
+        "visual_checks": "Final WebP reviewed individually on light and dark; clean geometry, no clipping, brand-compatible palette, meaningful alpha, no mandatory defects observed. Scores are editorial judgments."
+      },
+      "width": 1536,
+      "height": 1024,
+      "bytes": 81024,
+      "sha256": "3b1f0b148c07ca798b1caede71cea74a1fe4a55b715b7089841e1683d2cc2fbf",
+      "alpha_zero_pct": 52.68,
+      "source_sha256": "27f1dd9f214692ee1dbe8ce4d50a47cb8a68a63e314a47cf37513172013dd4cb",
+      "edge_alpha_max": 0,
+      "alt": "Two fictional website layouts show a transition from a dense interface to a clearer layout.",
+      "processing": "Near-opaque alpha normalized, low alpha residue cleared, proportional transparent padding, WebP quality 90. Original preserved.",
+      "path": "assets/web-development/LM-MEDIA-WEB-006-A-website-redesign-comparison.webp",
+      "source_filename": "call_6503vaXzIxlggq1vONYo1c-xd2Z5qDb2.png"
     },
     {
       "id": "LM-MEDIA-WEB-007-A",
@@ -205,10 +249,32 @@
       "category": "technical",
       "title": "CMS and business integration",
       "intended_placement": "Web development service page",
-      "state": "planned",
+      "state": "accepted-draft",
       "release_status": "draft",
       "production_ready": false,
-      "acceptance": null
+      "acceptance": {
+        "scores": {
+          "palette": 20,
+          "relevance": 20,
+          "craftsmanship": 19,
+          "originality": 13,
+          "technical": 15,
+          "placement": 10
+        },
+        "total": 97,
+        "visual_checks": "Final WebP reviewed individually on light and dark; clean geometry, no clipping, brand-compatible palette, meaningful alpha, no mandatory defects observed. Scores are editorial judgments."
+      },
+      "width": 1536,
+      "height": 1024,
+      "bytes": 73168,
+      "sha256": "449c69dec88bfa48fd1a33429a7af5c4cb6b98ccd7c9cef5be74229bef797c10",
+      "alpha_zero_pct": 58.0,
+      "source_sha256": "f5b1ba5f4c09c932e87c1520669b1ce8f088cb41a88d19f1e06ebb04d56a8cc7",
+      "edge_alpha_max": 0,
+      "alt": "A content management interface connects form intake, contact information and publishing modules.",
+      "processing": "Near-opaque alpha normalized, low alpha residue cleared, proportional transparent padding, WebP quality 90. Original preserved.",
+      "path": "assets/web-development/LM-MEDIA-WEB-007-A-cms-and-business-integration.webp",
+      "source_filename": "call_4RkELG5AWIa34_yDtuMaUqt4Dt5MkzaF.png"
     },
     {
       "id": "LM-MEDIA-WEB-008-A",
@@ -217,10 +283,32 @@
       "category": "technical",
       "title": "Security and maintenance",
       "intended_placement": "Web development service page",
-      "state": "planned",
+      "state": "accepted-draft",
       "release_status": "draft",
       "production_ready": false,
-      "acceptance": null
+      "acceptance": {
+        "scores": {
+          "palette": 20,
+          "relevance": 20,
+          "craftsmanship": 19,
+          "originality": 13,
+          "technical": 15,
+          "placement": 10
+        },
+        "total": 97,
+        "visual_checks": "Final WebP reviewed individually on light and dark; clean geometry, no clipping, brand-compatible palette, meaningful alpha, no mandatory defects observed. Scores are editorial judgments."
+      },
+      "width": 1536,
+      "height": 1024,
+      "bytes": 55118,
+      "sha256": "ddec058b34ef33189406562743824236d59dee122e0d2156001dc1fcfe45acc1",
+      "alpha_zero_pct": 46.58,
+      "source_sha256": "c02d5086e16045dd995a62ed8f5a135c228e40814c85f9086822515c72b2939e",
+      "edge_alpha_max": 0,
+      "alt": "A website panel, padlock, backup module and maintenance checklist illustrate routine site upkeep.",
+      "processing": "Near-opaque alpha normalized, low alpha residue cleared, proportional transparent padding, WebP quality 90. Original preserved.",
+      "path": "assets/web-development/LM-MEDIA-WEB-008-A-security-and-maintenance.webp",
+      "source_filename": "call_RJbh9b5IRRQbuluLXWmksihV272On1Ik.png"
     },
     {
       "id": "LM-MEDIA-WEB-001-B",
@@ -767,7 +855,13 @@
       "date": "2026-11-28",
       "phase": "01.1",
       "state": "accepted-draft",
-      "evidence": "Four optimized WebPs decoded and visually reviewed individually on both surfaces; byte hashes, alpha and dimensions checked. Public deployment verification pending."
+      "evidence": "Four optimized WebPs decoded and visually reviewed individually on both surfaces; byte hashes, alpha and dimensions checked. Public Pages deployment run 46148387934 succeeded for cc6563a9debb3a446fd2547ed7ff37fe9f81fd1f; eight changed files and root byte-identical, six local and six public browser/viewport checks passed."
+    },
+    {
+      "date": "2026-11-28",
+      "phase": "01.2",
+      "state": "accepted-draft",
+      "evidence": "Four optimized WebPs individually reviewed in both themes; dimensions, hashes, alpha and clear canvas edges checked. Public deployment verification pending."
     }
   ]
 }
