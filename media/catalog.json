@@ -3,7 +3,7 @@
   "collection": "LM-MEDIA",
   "title": "Media Library",
   "release_status": "draft",
-  "notes": "Clean restart: nine transparent service illustrations, four transparent challenge illustrations, six transparent conceptual project mockups, four intentional full-bleed customer segment photographs, four transparent growth framework illustrations, five transparent process illustrations, six intentional full-bleed editorial covers, eight opaque abstract brand backgrounds (four original and four calm alternatives), five opaque social sharing cover bases, four opaque hero alternatives, three transparent pricing and engagement illustrations, one transparent contextual help illustration, four transparent brand identity PNGs, eight transparent SEO service-page illustrations (four original variants and four human-led supplements), eight transparent Google Ads & PPC service-page illustrations (four object-only and four human-led), eight transparent Search Engine Marketing service-page illustrations (four object-only and four human-led), and twelve intentional full-bleed Social Media Marketing photographs and twelve transparent Social Media Marketing illustrations (four object-only A, four female-led B and four male-led C), plus four supplemental male-oriented derived crops with observed alpha, and eighteen transparent Content Marketing illustrations (nine core and nine supplemental; three core slots pending), and fourteen transparent Email Marketing illustrations (eleven core and three supplemental; retention object-only pending; six edge-alpha review flags), and twenty-two transparent Market Research illustrations (twelve core and ten supplemental). Draft only; owner approval required before production use.",
+  "notes": "Clean restart: nine transparent service illustrations, four transparent challenge illustrations, six transparent conceptual project mockups, four intentional full-bleed customer segment photographs, four transparent growth framework illustrations, five transparent process illustrations, six intentional full-bleed editorial covers, eight opaque abstract brand backgrounds (four original and four calm alternatives), five opaque social sharing cover bases, four opaque hero alternatives, three transparent pricing and engagement illustrations, one transparent contextual help illustration, four transparent brand identity PNGs, eight transparent SEO service-page illustrations (four original variants and four human-led supplements), eight transparent Google Ads & PPC service-page illustrations (four object-only and four human-led), eight transparent Search Engine Marketing service-page illustrations (four object-only and four human-led), and twelve intentional full-bleed Social Media Marketing photographs and twelve transparent Social Media Marketing illustrations (four object-only A, four female-led B and four male-led C), plus four supplemental male-oriented derived crops with observed alpha, and eighteen transparent Content Marketing illustrations (nine core and nine supplemental; three core slots pending), and fourteen transparent Email Marketing illustrations (eleven core and three supplemental; retention object-only pending; six edge-alpha review flags), and twenty-two transparent Market Research illustrations (twelve core and ten supplemental). Four transparent Web Development technical illustrations (first batch). Draft only; owner approval required before production use.",
   "assets": [
     {
       "id": "LM-MEDIA-SVC-001-A",
@@ -6574,6 +6574,198 @@
       "review_notes": "AI-generated photorealistic character with illustrative 3D props; charts are conceptual, not actual results. Original waist/desk crop retained; review before production. Embedded 92% and 76% figures and ranking badges are fictional; do not present as measured performance.",
       "production_ready": false,
       "counts_toward_core_variants": false
+    },
+    {
+      "id": "LM-MEDIA-WEB-001-A",
+      "collection": "LM-MEDIA-024",
+      "service": "web-development",
+      "subcategory": "technical-illustrations",
+      "title": "Responsive website across devices",
+      "variant": "A",
+      "visual_type": "3d-object-only",
+      "concept": "001",
+      "concept_title": "Responsive website across devices",
+      "description": "Desktop, tablet and phone show a consistent fictional website layout at three responsive sizes.",
+      "alt": "Desktop, tablet and phone show a consistent fictional website layout at three responsive sizes.",
+      "format": "webp",
+      "width": 1536,
+      "height": 1024,
+      "alpha": true,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/web-development/LM-MEDIA-WEB-001-A-responsive-website-across-devices.webp",
+      "bytes": 89092,
+      "sha256": "5a6c2fcac84f538282ae5ec2d32021113bc879b98b341e10566a8ded76477521",
+      "source_sha256": "26fe6f920c4e553fd39b5f2bf72cca0cdb1ca99e300340dcbf7dc09a52b253d8",
+      "source_dimensions": [
+        1536,
+        1024
+      ],
+      "source_type": "AI-generated conceptual artwork",
+      "processing": "Near-opaque alpha normalized, low alpha residue cleared, proportional transparent padding, WebP quality 90. Original preserved.",
+      "usage": [
+        "Web development service page",
+        "Draft visual review"
+      ],
+      "background_policy": "transparent illustration",
+      "theme": "both themes",
+      "transparency": {
+        "transparent_pixel_percent": 44.64,
+        "edge_alpha_max": 0,
+        "corner_alpha": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "review_notes": "Conceptual 3D illustration; final optimized artwork visually checked on cool white and deep navy. Draft review required before production use.",
+      "production_ready": false,
+      "acceptance_score": 92
+    },
+    {
+      "id": "LM-MEDIA-WEB-002-A",
+      "collection": "LM-MEDIA-024",
+      "service": "web-development",
+      "subcategory": "technical-illustrations",
+      "title": "UI/UX design and components",
+      "variant": "A",
+      "visual_type": "3d-object-only",
+      "concept": "002",
+      "concept_title": "UI/UX design and components",
+      "description": "A tactile wireframe-to-interface board with component samples and a measured grid.",
+      "alt": "A tactile wireframe-to-interface board with component samples and a measured grid.",
+      "format": "webp",
+      "width": 1536,
+      "height": 1024,
+      "alpha": true,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/web-development/LM-MEDIA-WEB-002-A-ui-ux-design-and-components.webp",
+      "bytes": 98404,
+      "sha256": "b47666dc8c47abf60a1c7392c1498266913d87248e6ddbfec70a1741079c3005",
+      "source_sha256": "d5c2c4a25599d01deb614d4672dbbc44b7347b42ebbedacb35c9e5f6dd0e5862",
+      "source_dimensions": [
+        1536,
+        1024
+      ],
+      "source_type": "AI-generated conceptual artwork",
+      "processing": "Near-opaque alpha normalized, low alpha residue cleared, proportional transparent padding, WebP quality 90. Original preserved.",
+      "usage": [
+        "Web development service page",
+        "Draft visual review"
+      ],
+      "background_policy": "transparent illustration",
+      "theme": "both themes",
+      "transparency": {
+        "transparent_pixel_percent": 46.97,
+        "edge_alpha_max": 0,
+        "corner_alpha": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "review_notes": "Conceptual 3D illustration; final optimized artwork visually checked on cool white and deep navy. Draft review required before production use.",
+      "production_ready": false,
+      "acceptance_score": 97
+    },
+    {
+      "id": "LM-MEDIA-WEB-003-A",
+      "collection": "LM-MEDIA-024",
+      "service": "web-development",
+      "subcategory": "technical-illustrations",
+      "title": "Performance and efficient delivery",
+      "variant": "A",
+      "visual_type": "3d-object-only",
+      "concept": "003",
+      "concept_title": "Performance and efficient delivery",
+      "description": "Layered browser panels and optimized image tiles beside a numberless timing dial.",
+      "alt": "Layered browser panels and optimized image tiles beside a numberless timing dial.",
+      "format": "webp",
+      "width": 1536,
+      "height": 1024,
+      "alpha": true,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/web-development/LM-MEDIA-WEB-003-A-performance-and-efficient-delivery.webp",
+      "bytes": 102372,
+      "sha256": "fb495323480f658a279db330fac80994ff8ebdb9866f552a51e2c4c179419437",
+      "source_sha256": "4c98654854c7910554987d4414e636ff60c78d502ef0e2a8c81a2a3411af3e89",
+      "source_dimensions": [
+        1536,
+        1024
+      ],
+      "source_type": "AI-generated conceptual artwork",
+      "processing": "Near-opaque alpha normalized, low alpha residue cleared, proportional transparent padding, WebP quality 90. Original preserved.",
+      "usage": [
+        "Web development service page",
+        "Draft visual review"
+      ],
+      "background_policy": "transparent illustration",
+      "theme": "both themes",
+      "transparency": {
+        "transparent_pixel_percent": 47.97,
+        "edge_alpha_max": 0,
+        "corner_alpha": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "review_notes": "Conceptual 3D illustration; final optimized artwork visually checked on cool white and deep navy. Draft review required before production use.",
+      "production_ready": false,
+      "acceptance_score": 93
+    },
+    {
+      "id": "LM-MEDIA-WEB-004-A",
+      "collection": "LM-MEDIA-024",
+      "service": "web-development",
+      "subcategory": "technical-illustrations",
+      "title": "Development architecture",
+      "variant": "A",
+      "visual_type": "3d-object-only",
+      "concept": "004",
+      "concept_title": "Development architecture",
+      "description": "Interconnected presentation, application and data modules form an architectural model.",
+      "alt": "Interconnected presentation, application and data modules form an architectural model.",
+      "format": "webp",
+      "width": 1536,
+      "height": 1024,
+      "alpha": true,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/web-development/LM-MEDIA-WEB-004-A-development-architecture.webp",
+      "bytes": 107442,
+      "sha256": "c9bff9521ed365e3f3b44728f8b635e57994abd765c9ac6efe89a60da2738ce3",
+      "source_sha256": "3f062acb6192578e986c0a3b645906622533f06fcb18f82ae46219289485357d",
+      "source_dimensions": [
+        1536,
+        1024
+      ],
+      "source_type": "AI-generated conceptual artwork",
+      "processing": "Near-opaque alpha normalized, low alpha residue cleared, proportional transparent padding, WebP quality 90. Original preserved.",
+      "usage": [
+        "Web development service page",
+        "Draft visual review"
+      ],
+      "background_policy": "transparent illustration",
+      "theme": "both themes",
+      "transparency": {
+        "transparent_pixel_percent": 65.51,
+        "edge_alpha_max": 0,
+        "corner_alpha": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "review_notes": "Conceptual 3D illustration; final optimized artwork visually checked on cool white and deep navy. Draft review required before production use.",
+      "production_ready": false,
+      "acceptance_score": 98
     }
   ],
   "collections": [
@@ -6656,6 +6848,10 @@
     {
       "id": "LM-MEDIA-023",
       "title": "Market Research"
+    },
+    {
+      "id": "LM-MEDIA-024",
+      "title": "Web Development"
     }
   ]
 }
