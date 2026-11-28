@@ -23,6 +23,51 @@
     ]
   },
   {
+    "id": "LM-MEDIA-SEO-001-B",
+    "collection": "LM-MEDIA-017",
+    "service": "seo",
+    "title": "Organic search discovery — human-led",
+    "variant": "B",
+    "visual_type": "human-led",
+    "concept": "001",
+    "description": "Professional pointing to a conceptual organic search interface, with a search lens and rising path.",
+    "alt": "Professional pointing to a conceptual organic search interface, with a search lens and rising path.",
+    "format": "webp",
+    "width": 1536,
+    "height": 1024,
+    "alpha": true,
+    "status": "draft",
+    "availability": "available",
+    "path": "assets/seo/LM-MEDIA-SEO-001-B-discovery-hero-human.webp",
+    "bytes": 256534,
+    "sha256": "2a75049826edbba91fe96fa90c0e28cf29bea7fb86a5cdd653df0b3f33a36fec",
+    "source_type": "AI-generated conceptual artwork; fictional people and interfaces.",
+    "source_sha256": "e95907153f91047b55b9772ad6ab1dd494f97c3b607603f855a0863e70298523",
+    "source_dimensions": [
+      1536,
+      1024
+    ],
+    "processing": "Original alpha retained; near-zero alpha noise cleared, near-opaque alpha normalized, tiny disconnected specks removed. Antialiasing retained. Proportionally fit original canvas inside a transparent 24px minimum perimeter; no cropping. WebP quality 93, full alpha quality.",
+    "usage": [
+      "SEO service page",
+      "draft visual review"
+    ],
+    "background_policy": "transparent illustration",
+    "theme": "both themes",
+    "transparency": {
+      "transparent_pixel_percent": 41.34,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "edge_alpha_max": 0
+    },
+    "review_notes": "Contains the illustrative text “Discover organically”; natural plant colors. No measured performance is represented. Owner visual preference accepted; review embedded text and contextual accuracy before production.",
+    "production_ready": false
+  },
+  {
     "id": "LM-MEDIA-SEO-002-A",
     "collection": "LM-MEDIA-017",
     "service": "seo",
@@ -44,6 +89,51 @@
       "SEO service page",
       "LM-SEC-004"
     ]
+  },
+  {
+    "id": "LM-MEDIA-SEO-002-B",
+    "collection": "LM-MEDIA-017",
+    "service": "seo",
+    "title": "Technical website audit — human-led",
+    "variant": "B",
+    "visual_type": "human-led",
+    "concept": "002",
+    "description": "Professional holding a tablet and presenting a conceptual website health and technical audit interface.",
+    "alt": "Professional holding a tablet and presenting a conceptual website health and technical audit interface.",
+    "format": "webp",
+    "width": 1536,
+    "height": 1024,
+    "alpha": true,
+    "status": "draft",
+    "availability": "available",
+    "path": "assets/seo/LM-MEDIA-SEO-002-B-technical-audit-human.webp",
+    "bytes": 221882,
+    "sha256": "ebd61c4aaad0bf734be3eb93ae21a3e25497423cba44ba2188742fa79c213ee9",
+    "source_type": "AI-generated conceptual artwork; fictional people and interfaces.",
+    "source_sha256": "8848a0001e1a0215dbaa40f176aad14b56b0e4e2bac7a17c92e8f05c3abc5c4e",
+    "source_dimensions": [
+      1536,
+      1024
+    ],
+    "processing": "Original alpha retained; near-zero alpha noise cleared, near-opaque alpha normalized, tiny disconnected specks removed. Antialiasing retained. Proportionally fit original canvas inside a transparent 24px minimum perimeter; no cropping. WebP quality 93, full alpha quality.",
+    "usage": [
+      "SEO service page",
+      "draft visual review"
+    ],
+    "background_policy": "transparent illustration",
+    "theme": "both themes",
+    "transparency": {
+      "transparent_pixel_percent": 27.31,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "edge_alpha_max": 0
+    },
+    "review_notes": "Embedded illustrative audit headings and checklist; not a real audit result. Owner visual preference accepted; review embedded text and contextual accuracy before production.",
+    "production_ready": false
   },
   {
     "id": "LM-MEDIA-SEO-003-A",
@@ -69,6 +159,51 @@
     ]
   },
   {
+    "id": "LM-MEDIA-SEO-003-B",
+    "collection": "LM-MEDIA-017",
+    "service": "seo",
+    "title": "Search intent and content architecture — human-led",
+    "variant": "B",
+    "visual_type": "human-led",
+    "concept": "003",
+    "description": "Professional arranging search-intent cards around a central content hub and topic clusters.",
+    "alt": "Professional arranging search-intent cards around a central content hub and topic clusters.",
+    "format": "webp",
+    "width": 1536,
+    "height": 1024,
+    "alpha": true,
+    "status": "draft",
+    "availability": "available",
+    "path": "assets/seo/LM-MEDIA-SEO-003-B-content-architecture-human.webp",
+    "bytes": 304346,
+    "sha256": "60a1bb502d5e1610ef275cc0d1c6a212330ed5173bcd07a2531a062d9b700a45",
+    "source_type": "AI-generated conceptual artwork; fictional people and interfaces.",
+    "source_sha256": "c035dd77156ad42d8089f74428a1d6c75a4db936ef2bcf7e2771f1ef1324480e",
+    "source_dimensions": [
+      1536,
+      1024
+    ],
+    "processing": "Original alpha retained; near-zero alpha noise cleared, near-opaque alpha normalized, tiny disconnected specks removed. Antialiasing retained. Proportionally fit original canvas inside a transparent 24px minimum perimeter; no cropping. WebP quality 93, full alpha quality.",
+    "usage": [
+      "SEO service page",
+      "draft visual review"
+    ],
+    "background_policy": "transparent illustration",
+    "theme": "both themes",
+    "transparency": {
+      "transparent_pixel_percent": 40.44,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "edge_alpha_max": 0
+    },
+    "review_notes": "Embedded illustrative labels for topic clusters and search intent; not a real client architecture. Owner visual preference accepted; review embedded text and contextual accuracy before production.",
+    "production_ready": false
+  },
+  {
     "id": "LM-MEDIA-SEO-004-A",
     "collection": "LM-MEDIA-017",
     "service": "seo",
@@ -90,5 +225,50 @@
       "SEO service page",
       "LM-SEC-004"
     ]
+  },
+  {
+    "id": "LM-MEDIA-SEO-004-B",
+    "collection": "LM-MEDIA-017",
+    "service": "seo",
+    "title": "Local business discovery — human-led",
+    "variant": "B",
+    "visual_type": "human-led",
+    "concept": "004",
+    "description": "Customer using a phone beside a fictional clothing boutique and its proprietor, with a local-search interface.",
+    "alt": "Customer using a phone beside a fictional clothing boutique and its proprietor, with a local-search interface.",
+    "format": "webp",
+    "width": 1536,
+    "height": 1024,
+    "alpha": true,
+    "status": "draft",
+    "availability": "available",
+    "path": "assets/seo/LM-MEDIA-SEO-004-B-local-discovery-human.webp",
+    "bytes": 295148,
+    "sha256": "8524c9a5ac5029eca8ca6d746787f0d2a2321f72c4f992855ac7e8454f94733b",
+    "source_type": "AI-generated conceptual artwork; fictional people and interfaces.",
+    "source_sha256": "f4444222bcba116814060fb5faf822f272b4aa24ce56da5eeec63840f56cef07",
+    "source_dimensions": [
+      1536,
+      1024
+    ],
+    "processing": "Original alpha retained; near-zero alpha noise cleared, near-opaque alpha normalized, tiny disconnected specks removed. Antialiasing retained. Proportionally fit original canvas inside a transparent 24px minimum perimeter; no cropping. WebP quality 93, full alpha quality.",
+    "usage": [
+      "SEO service page",
+      "draft visual review"
+    ],
+    "background_policy": "transparent illustration",
+    "theme": "both themes",
+    "transparency": {
+      "transparent_pixel_percent": 35.91,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "edge_alpha_max": 0
+    },
+    "review_notes": "Fictional Style Boutique signage and listing; natural skin, plant and interior lighting colors. Not an actual client or search result. Owner visual preference accepted; review embedded text and contextual accuracy before production.",
+    "production_ready": false
   }
 ]
