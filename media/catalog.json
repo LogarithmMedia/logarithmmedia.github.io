@@ -3,7 +3,7 @@
   "collection": "LM-MEDIA",
   "title": "Media Library",
   "release_status": "draft",
-  "notes": "Clean restart: nine transparent service illustrations, four transparent challenge illustrations, six transparent conceptual project mockups, four intentional full-bleed customer segment photographs, four transparent growth framework illustrations, five transparent process illustrations, six intentional full-bleed editorial covers, eight opaque abstract brand backgrounds (four original and four calm alternatives), five opaque social sharing cover bases, four opaque hero alternatives, three transparent pricing and engagement illustrations, one transparent contextual help illustration, four transparent brand identity PNGs, eight transparent SEO service-page illustrations (four original variants and four human-led supplements), eight transparent Google Ads & PPC service-page illustrations (four object-only and four human-led), eight transparent Search Engine Marketing service-page illustrations (four object-only and four human-led), and twelve intentional full-bleed Social Media Marketing photographs and twelve transparent Social Media Marketing illustrations (four object-only A, four female-led B and four male-led C), plus four supplemental male-oriented derived crops with observed alpha, and eighteen transparent Content Marketing illustrations (nine core and nine supplemental; three core slots pending), and fourteen transparent Email Marketing illustrations (eleven core and three supplemental; retention object-only pending; six edge-alpha review flags), and sixteen transparent Market Research illustrations (nine core and seven supplemental; three core slots pending). Draft only; owner approval required before production use.",
+  "notes": "Clean restart: nine transparent service illustrations, four transparent challenge illustrations, six transparent conceptual project mockups, four intentional full-bleed customer segment photographs, four transparent growth framework illustrations, five transparent process illustrations, six intentional full-bleed editorial covers, eight opaque abstract brand backgrounds (four original and four calm alternatives), five opaque social sharing cover bases, four opaque hero alternatives, three transparent pricing and engagement illustrations, one transparent contextual help illustration, four transparent brand identity PNGs, eight transparent SEO service-page illustrations (four original variants and four human-led supplements), eight transparent Google Ads & PPC service-page illustrations (four object-only and four human-led), eight transparent Search Engine Marketing service-page illustrations (four object-only and four human-led), and twelve intentional full-bleed Social Media Marketing photographs and twelve transparent Social Media Marketing illustrations (four object-only A, four female-led B and four male-led C), plus four supplemental male-oriented derived crops with observed alpha, and eighteen transparent Content Marketing illustrations (nine core and nine supplemental; three core slots pending), and fourteen transparent Email Marketing illustrations (eleven core and three supplemental; retention object-only pending; six edge-alpha review flags), and twenty-two transparent Market Research illustrations (twelve core and ten supplemental). Draft only; owner approval required before production use.",
   "assets": [
     {
       "id": "LM-MEDIA-SVC-001-A",
@@ -6285,6 +6285,295 @@
       "review_notes": "Illustrative charts, not client data. Original bottom crop preserved with padding. Owner review required.",
       "production_ready": false,
       "counts_toward_core_variants": true
+    },
+    {
+      "id": "LM-MEDIA-MR-001-C",
+      "collection": "LM-MEDIA-023",
+      "service": "market-research",
+      "subcategory": "human-led-transparent",
+      "title": "Market intelligence",
+      "variant": "C",
+      "visual_type": "male-led",
+      "concept": "001",
+      "concept_title": "Market intelligence",
+      "description": "Male analyst reading a printed market report beside a bar chart and magnifier.",
+      "alt": "Male analyst reading a printed market report beside a bar chart and magnifier.",
+      "format": "webp",
+      "width": 1536,
+      "height": 1024,
+      "alpha": true,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/market-research/LM-MEDIA-MR-001-C-market-intelligence-male-led.webp",
+      "bytes": 157118,
+      "sha256": "e4f34ec33ab0f0492f86bbbb4acca0477baf3192e607120836e084bf47d3276d",
+      "source_type": "AI-generated conceptual artwork",
+      "processing": "Low-alpha residue cleanup within a 3-pixel antialias boundary; remove tiny isolated components; proportional transparent padding; WebP quality 92. No recoloring.",
+      "usage": [
+        "Market research service page",
+        "Draft visual review"
+      ],
+      "background_policy": "transparent illustration",
+      "theme": "both themes",
+      "transparency": {
+        "transparent_pixel_percent": 46.36,
+        "edge_alpha_max": 0,
+        "corner_alpha": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "review_notes": "Illustrative charts, not actual data. Original bottom crop retained with padding. Draft review only.",
+      "production_ready": false,
+      "counts_toward_core_variants": true,
+      "source_sha256": "789bfa49a11c4abef6d99c032fdf41ae28be4aa53c0df5a73ccf3364281704fe",
+      "source_dimensions": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "id": "LM-MEDIA-MR-003-C",
+      "collection": "LM-MEDIA-023",
+      "service": "market-research",
+      "subcategory": "human-led-transparent",
+      "title": "Competitor analysis",
+      "variant": "C",
+      "visual_type": "male-led",
+      "concept": "003",
+      "concept_title": "Competitor analysis",
+      "description": "Male analyst reviewing a storefront comparison matrix on a laptop.",
+      "alt": "Male analyst reviewing a storefront comparison matrix on a laptop.",
+      "format": "webp",
+      "width": 1536,
+      "height": 1024,
+      "alpha": true,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/market-research/LM-MEDIA-MR-003-C-competitor-analysis-male-led.webp",
+      "bytes": 143214,
+      "sha256": "eb9f47d0292ed5ac6f6c6f49e6fce000ec3258a36d6615238fbeb5d4b09549f6",
+      "source_type": "AI-generated conceptual artwork",
+      "processing": "Low-alpha residue cleanup within a 3-pixel antialias boundary; remove tiny isolated components; proportional transparent padding; WebP quality 92. No recoloring.",
+      "usage": [
+        "Market research service page",
+        "Draft visual review"
+      ],
+      "background_policy": "transparent illustration",
+      "theme": "both themes",
+      "transparency": {
+        "transparent_pixel_percent": 51.62,
+        "edge_alpha_max": 0,
+        "corner_alpha": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "review_notes": "Illustrative charts, not actual data. Original bottom crop retained with padding. Draft review only.",
+      "production_ready": false,
+      "counts_toward_core_variants": true,
+      "source_sha256": "af0b413fbba602b9fc17c0dca786f1bbfa7af9c829ef0857ce7aa2fb06b3e9ea",
+      "source_dimensions": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "id": "LM-MEDIA-MR-004-B",
+      "collection": "LM-MEDIA-023",
+      "service": "market-research",
+      "subcategory": "human-led-transparent",
+      "title": "Business decisions",
+      "variant": "B",
+      "visual_type": "female-led",
+      "concept": "004",
+      "concept_title": "Business decisions",
+      "description": "Photorealistic female strategist holding a tablet beside a decision matrix, target and chess piece.",
+      "alt": "Photorealistic female strategist holding a tablet beside a decision matrix, target and chess piece.",
+      "format": "webp",
+      "width": 1448,
+      "height": 1086,
+      "alpha": true,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/market-research/LM-MEDIA-MR-004-B-business-decisions-female-led.webp",
+      "bytes": 246548,
+      "sha256": "a9f2f3b2ec84293e3596fc8a5cd42061ed52ffbab2225ffedbc59bac4bdda0c1",
+      "source_sha256": "cb204b9dc89b6e77ce4ce2d23e46fe7c041b125d11db7e9f134d120e0b2dd21a",
+      "source_dimensions": [
+        1448,
+        1086
+      ],
+      "source_type": "AI-generated conceptual artwork",
+      "processing": "Alpha residue outside 2px of foreground removed; tiny isolated components removed; near-opaque alpha normalized; proportional padding; WebP quality 92. No recoloring.",
+      "usage": [
+        "Market research service page",
+        "Draft visual review"
+      ],
+      "background_policy": "transparent illustration",
+      "theme": "both themes",
+      "transparency": {
+        "transparent_pixel_percent": 36.47,
+        "edge_alpha_max": 0,
+        "corner_alpha": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "review_notes": "AI-generated photorealistic character with illustrative 3D props; charts are conceptual, not actual results. Original waist/desk crop retained; review before production.",
+      "production_ready": false,
+      "counts_toward_core_variants": true,
+      "replaces_sha256": "8a805eeacf0359c3fa2dcd4561d88fc7ee2d1090604fb08e286b2f03b89ba406"
+    },
+    {
+      "id": "LM-MEDIA-MR-EX-010-B",
+      "collection": "LM-MEDIA-023",
+      "service": "market-research",
+      "subcategory": "supplemental-human-led-transparent",
+      "title": "Market intelligence alternative",
+      "variant": "B",
+      "visual_type": "female-led",
+      "concept": "001",
+      "concept_title": "Market intelligence",
+      "description": "Photorealistic female analyst with crossed arms beside a laptop and magnified chart.",
+      "alt": "Photorealistic female analyst with crossed arms beside a laptop and magnified chart.",
+      "format": "webp",
+      "width": 1448,
+      "height": 1086,
+      "alpha": true,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/market-research/LM-MEDIA-MR-EX-010-B-market-intelligence-alternative-female-led.webp",
+      "bytes": 180878,
+      "sha256": "ac9c3c7326e4205023b6928d122bd6e1068602caedb46bb66278eb9c034a672a",
+      "source_sha256": "3c3a16b282e21e529bdcdb211e7f2a35b2805a6d335e90b1dddba1f504a6435b",
+      "source_dimensions": [
+        1448,
+        1086
+      ],
+      "source_type": "AI-generated conceptual artwork",
+      "processing": "Alpha residue outside 2px of foreground removed; tiny isolated components removed; near-opaque alpha normalized; proportional padding; WebP quality 92. No recoloring.",
+      "usage": [
+        "Market research service page",
+        "Draft visual review"
+      ],
+      "background_policy": "transparent illustration",
+      "theme": "both themes",
+      "transparency": {
+        "transparent_pixel_percent": 53.43,
+        "edge_alpha_max": 0,
+        "corner_alpha": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "review_notes": "AI-generated photorealistic character with illustrative 3D props; charts are conceptual, not actual results. Original waist/desk crop retained; review before production.",
+      "production_ready": false,
+      "counts_toward_core_variants": false
+    },
+    {
+      "id": "LM-MEDIA-MR-EX-011-B",
+      "collection": "LM-MEDIA-023",
+      "service": "market-research",
+      "subcategory": "supplemental-human-led-transparent",
+      "title": "Customer insights alternative",
+      "variant": "B",
+      "visual_type": "female-led",
+      "concept": "002",
+      "concept_title": "Customer insights",
+      "description": "Photorealistic female researcher with a laptop, audience profiles and charts.",
+      "alt": "Photorealistic female researcher with a laptop, audience profiles and charts.",
+      "format": "webp",
+      "width": 1448,
+      "height": 1086,
+      "alpha": true,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/market-research/LM-MEDIA-MR-EX-011-B-customer-insights-alternative-female-led.webp",
+      "bytes": 199678,
+      "sha256": "932be37451b9b9f2d0899585c87edfbcb29351f0193b43c78cf34f3293b7cd3f",
+      "source_sha256": "785dce072ac430d12be129c58a9c73e200e5c0ff2286d1c1394254a672005f07",
+      "source_dimensions": [
+        1448,
+        1086
+      ],
+      "source_type": "AI-generated conceptual artwork",
+      "processing": "Alpha residue outside 2px of foreground removed; tiny isolated components removed; near-opaque alpha normalized; proportional padding; WebP quality 92. No recoloring.",
+      "usage": [
+        "Market research service page",
+        "Draft visual review"
+      ],
+      "background_policy": "transparent illustration",
+      "theme": "both themes",
+      "transparency": {
+        "transparent_pixel_percent": 40.81,
+        "edge_alpha_max": 0,
+        "corner_alpha": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "review_notes": "AI-generated photorealistic character with illustrative 3D props; charts are conceptual, not actual results. Original waist/desk crop retained; review before production.",
+      "production_ready": false,
+      "counts_toward_core_variants": false
+    },
+    {
+      "id": "LM-MEDIA-MR-EX-012-B",
+      "collection": "LM-MEDIA-023",
+      "service": "market-research",
+      "subcategory": "supplemental-human-led-transparent",
+      "title": "Competitor analysis alternative",
+      "variant": "B",
+      "visual_type": "female-led",
+      "concept": "003",
+      "concept_title": "Competitor analysis",
+      "description": "Photorealistic female analyst at a laptop beside two illustrative competitor scorecards.",
+      "alt": "Photorealistic female analyst at a laptop beside two illustrative competitor scorecards.",
+      "format": "webp",
+      "width": 1448,
+      "height": 1086,
+      "alpha": true,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/market-research/LM-MEDIA-MR-EX-012-B-competitor-analysis-alternative-female-led.webp",
+      "bytes": 186940,
+      "sha256": "fd1ed156dd3ce9eb5c4cf7ba20bcc29c7a27000fec6765f8c86e31bc2615c871",
+      "source_sha256": "6009d39949fd8d56db27d8c8071b52a0881f2ac8949e18c1ebcc5abcf4598553",
+      "source_dimensions": [
+        1448,
+        1086
+      ],
+      "source_type": "AI-generated conceptual artwork",
+      "processing": "Alpha residue outside 2px of foreground removed; tiny isolated components removed; near-opaque alpha normalized; proportional padding; WebP quality 92. No recoloring.",
+      "usage": [
+        "Market research service page",
+        "Draft visual review"
+      ],
+      "background_policy": "transparent illustration",
+      "theme": "both themes",
+      "transparency": {
+        "transparent_pixel_percent": 32.61,
+        "edge_alpha_max": 0,
+        "corner_alpha": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "review_notes": "AI-generated photorealistic character with illustrative 3D props; charts are conceptual, not actual results. Original waist/desk crop retained; review before production. Embedded 92% and 76% figures and ranking badges are fictional; do not present as measured performance.",
+      "production_ready": false,
+      "counts_toward_core_variants": false
     }
   ],
   "collections": [
