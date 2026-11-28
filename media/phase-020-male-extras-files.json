@@ -1,0 +1,162 @@
+[
+  {
+    "id": "LM-MEDIA-SMM-MALE-EXTRA-001-A",
+    "collection": "LM-MEDIA-020",
+    "service": "social-media",
+    "subcategory": "male-extras",
+    "title": "Male supplemental creative 1",
+    "variant": "A",
+    "visual_type": "human-led-derived-crop",
+    "description": "Male-oriented social media marketing concept-sheet crop, supplemental creative 1.",
+    "alt": "Male-oriented social media marketing illustration, supplemental creative 1.",
+    "format": "webp",
+    "width": 1536,
+    "height": 1024,
+    "alpha": true,
+    "status": "draft",
+    "availability": "available",
+    "path": "assets/social-media-male-extras/LM-MEDIA-SMM-MALE-EXTRA-001-A.webp",
+    "bytes": 250854,
+    "sha256": "2a9639de24cf74b54b875bbb350c86b6fa070e90a309c12e7594daa47f8dcadc",
+    "source_type": "AI-generated conceptual artwork, derived crop from earlier concept sheet",
+    "processing": "Imported processed crop as supplied; observed alpha retained.",
+    "usage": [
+      "Supplemental draft visual review"
+    ],
+    "background_policy": "derived crop with observed transparency; originally described as opaque/full-bleed",
+    "theme": "both themes; supplemental crop",
+    "transparency": {
+      "transparent_pixel_percent": 34.08,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "edge_alpha_max": 1
+    },
+    "review_notes": "Derived from earlier rejected concept sheets. Package labels these opaque/full-bleed, but the actual WebP contains transparent pixels. Review crop, background and composition before production. Package includes no independent per-image checksum manifest; SHA-256 recorded at import.",
+    "production_ready": false,
+    "counts_toward_core_variants": false
+  },
+  {
+    "id": "LM-MEDIA-SMM-MALE-EXTRA-002-A",
+    "collection": "LM-MEDIA-020",
+    "service": "social-media",
+    "subcategory": "male-extras",
+    "title": "Male supplemental creative 2",
+    "variant": "A",
+    "visual_type": "human-led-derived-crop",
+    "description": "Male-oriented social media marketing concept-sheet crop, supplemental creative 2.",
+    "alt": "Male-oriented social media marketing illustration, supplemental creative 2.",
+    "format": "webp",
+    "width": 1536,
+    "height": 1024,
+    "alpha": true,
+    "status": "draft",
+    "availability": "available",
+    "path": "assets/social-media-male-extras/LM-MEDIA-SMM-MALE-EXTRA-002-A.webp",
+    "bytes": 212844,
+    "sha256": "2b062bd336879d380286906247f7ea26d06c7e47241032d681e75db05a8776fe",
+    "source_type": "AI-generated conceptual artwork, derived crop from earlier concept sheet",
+    "processing": "Imported processed crop as supplied; observed alpha retained.",
+    "usage": [
+      "Supplemental draft visual review"
+    ],
+    "background_policy": "derived crop with observed transparency; originally described as opaque/full-bleed",
+    "theme": "both themes; supplemental crop",
+    "transparency": {
+      "transparent_pixel_percent": 29.29,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "edge_alpha_max": 20
+    },
+    "review_notes": "Derived from earlier rejected concept sheets. Package labels these opaque/full-bleed, but the actual WebP contains transparent pixels. Review crop, background and composition before production. Package includes no independent per-image checksum manifest; SHA-256 recorded at import.",
+    "production_ready": false,
+    "counts_toward_core_variants": false
+  },
+  {
+    "id": "LM-MEDIA-SMM-MALE-EXTRA-003-A",
+    "collection": "LM-MEDIA-020",
+    "service": "social-media",
+    "subcategory": "male-extras",
+    "title": "Male supplemental creative 3",
+    "variant": "A",
+    "visual_type": "human-led-derived-crop",
+    "description": "Male-oriented social media marketing concept-sheet crop, supplemental creative 3.",
+    "alt": "Male-oriented social media marketing illustration, supplemental creative 3.",
+    "format": "webp",
+    "width": 1536,
+    "height": 1024,
+    "alpha": true,
+    "status": "draft",
+    "availability": "available",
+    "path": "assets/social-media-male-extras/LM-MEDIA-SMM-MALE-EXTRA-003-A.webp",
+    "bytes": 274970,
+    "sha256": "ec5854b30e5cd83d17d0bb26f3af4e8475fba1c0c75eb38c3b55dac44ed52d73",
+    "source_type": "AI-generated conceptual artwork, derived crop from earlier concept sheet",
+    "processing": "Imported processed crop as supplied; observed alpha retained.",
+    "usage": [
+      "Supplemental draft visual review"
+    ],
+    "background_policy": "derived crop with observed transparency; originally described as opaque/full-bleed",
+    "theme": "both themes; supplemental crop",
+    "transparency": {
+      "transparent_pixel_percent": 38.58,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "edge_alpha_max": 2
+    },
+    "review_notes": "Derived from earlier rejected concept sheets. Package labels these opaque/full-bleed, but the actual WebP contains transparent pixels. Review crop, background and composition before production. Package includes no independent per-image checksum manifest; SHA-256 recorded at import.",
+    "production_ready": false,
+    "counts_toward_core_variants": false
+  },
+  {
+    "id": "LM-MEDIA-SMM-MALE-EXTRA-004-A",
+    "collection": "LM-MEDIA-020",
+    "service": "social-media",
+    "subcategory": "male-extras",
+    "title": "Male supplemental creative 4",
+    "variant": "A",
+    "visual_type": "human-led-derived-crop",
+    "description": "Male-oriented social media marketing concept-sheet crop, supplemental creative 4.",
+    "alt": "Male-oriented social media marketing illustration, supplemental creative 4.",
+    "format": "webp",
+    "width": 1536,
+    "height": 1024,
+    "alpha": true,
+    "status": "draft",
+    "availability": "available",
+    "path": "assets/social-media-male-extras/LM-MEDIA-SMM-MALE-EXTRA-004-A.webp",
+    "bytes": 143836,
+    "sha256": "59a78eddbfa06a2f62f3c4840e8709258d69240d1b6fe20c3c141d361c7c9ad9",
+    "source_type": "AI-generated conceptual artwork, derived crop from earlier concept sheet",
+    "processing": "Imported processed crop as supplied; observed alpha retained.",
+    "usage": [
+      "Supplemental draft visual review"
+    ],
+    "background_policy": "derived crop with observed transparency; originally described as opaque/full-bleed",
+    "theme": "both themes; supplemental crop",
+    "transparency": {
+      "transparent_pixel_percent": 63.22,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "edge_alpha_max": 0
+    },
+    "review_notes": "Derived from earlier rejected concept sheets. Package labels these opaque/full-bleed, but the actual WebP contains transparent pixels. Review crop, background and composition before production. Package includes no independent per-image checksum manifest; SHA-256 recorded at import.",
+    "production_ready": false,
+    "counts_toward_core_variants": false
+  }
+]

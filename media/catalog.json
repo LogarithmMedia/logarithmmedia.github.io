@@ -3,7 +3,7 @@
   "collection": "LM-MEDIA",
   "title": "Media Library",
   "release_status": "draft",
-  "notes": "Clean restart: nine transparent service illustrations, four transparent challenge illustrations, six transparent conceptual project mockups, four intentional full-bleed customer segment photographs, four transparent growth framework illustrations, five transparent process illustrations, six intentional full-bleed editorial covers, eight opaque abstract brand backgrounds (four original and four calm alternatives), five opaque social sharing cover bases, four opaque hero alternatives, three transparent pricing and engagement illustrations, one transparent contextual help illustration, four transparent brand identity PNGs, eight transparent SEO service-page illustrations (four original variants and four human-led supplements), eight transparent Google Ads & PPC service-page illustrations (four object-only and four human-led), eight transparent Search Engine Marketing service-page illustrations (four object-only and four human-led), and twelve intentional full-bleed Social Media Marketing photographs (the eight core transparent illustrations remain pending). Draft only; owner approval required before production use.",
+  "notes": "Clean restart: nine transparent service illustrations, four transparent challenge illustrations, six transparent conceptual project mockups, four intentional full-bleed customer segment photographs, four transparent growth framework illustrations, five transparent process illustrations, six intentional full-bleed editorial covers, eight opaque abstract brand backgrounds (four original and four calm alternatives), five opaque social sharing cover bases, four opaque hero alternatives, three transparent pricing and engagement illustrations, one transparent contextual help illustration, four transparent brand identity PNGs, eight transparent SEO service-page illustrations (four original variants and four human-led supplements), eight transparent Google Ads & PPC service-page illustrations (four object-only and four human-led), eight transparent Search Engine Marketing service-page illustrations (four object-only and four human-led), and twelve intentional full-bleed Social Media Marketing photographs (four transparent human-led illustrations imported, four core object-only illustrations pending), and four supplemental male-oriented derived crops with observed alpha. Draft only; owner approval required before production use.",
   "assets": [
     {
       "id": "LM-MEDIA-SVC-001-A",
@@ -3344,6 +3344,358 @@
       "background_policy": "intentional opaque full-bleed photography",
       "theme": "both themes; opaque image surface",
       "review_notes": "AI-generated illustrative scene, not actual staff or client photography. Natural skin, foliage and photographic lighting retained. Review any simulated interface elements; no claim of real engagement or performance. Contains cyan accents in conceptual graphics.",
+      "production_ready": false,
+      "counts_toward_core_variants": false
+    },
+    {
+      "id": "LM-MEDIA-SMM-001-B",
+      "collection": "LM-MEDIA-020",
+      "service": "social-media",
+      "subcategory": "human-led-transparent",
+      "title": "Brand presence \u2014 human-led",
+      "variant": "B",
+      "visual_type": "human-led",
+      "concept": "001",
+      "concept_title": "Brand presence",
+      "description": "Indian professional presenting a social profile mockup with reaction icons and a conceptual bar chart.",
+      "alt": "Indian professional presenting a social profile mockup with reaction icons and a conceptual bar chart.",
+      "format": "webp",
+      "width": 1536,
+      "height": 1024,
+      "alpha": true,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/social-media/LM-MEDIA-SMM-001-B-brand-presence-human.webp",
+      "bytes": 224282,
+      "sha256": "427f5f6bd74f7b49193a0a26d99c8254bf308bf034811093b49eef4db54997de",
+      "source_sha256": "754c9f1cf285e8358a8b4079189a1837d218c67538f300e252ec6a29358251e9",
+      "source_type": "AI-generated conceptual artwork",
+      "source_dimensions": [
+        1536,
+        1024
+      ],
+      "processing": "Original alpha retained; alpha <=4 cleared, >=250 normalized; isolated components under 12 pixels removed; proportional transparent padding; WebP quality 93. No crop, recoloring or recomposition.",
+      "usage": [
+        "Social media service page",
+        "draft visual review"
+      ],
+      "background_policy": "transparent illustration",
+      "theme": "both themes",
+      "transparency": {
+        "transparent_pixel_percent": 47.27,
+        "corner_alpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "edge_alpha_max": 0
+      },
+      "review_notes": "AI-generated conceptual scene, not actual staff or client photography. Natural skin tones preserved. Characters are visually similar across the batch; review for variety before production. Conceptual growth bars, not measured results. Intentional waist-level cut.",
+      "production_ready": false,
+      "counts_toward_core_variants": true
+    },
+    {
+      "id": "LM-MEDIA-SMM-002-B",
+      "collection": "LM-MEDIA-020",
+      "service": "social-media",
+      "subcategory": "human-led-transparent",
+      "title": "Content production \u2014 human-led",
+      "variant": "B",
+      "visual_type": "human-led",
+      "concept": "002",
+      "concept_title": "Content production",
+      "description": "Indian creator adjusting a phone tripod beside a camera, ring light and media production equipment.",
+      "alt": "Indian creator adjusting a phone tripod beside a camera, ring light and media production equipment.",
+      "format": "webp",
+      "width": 1536,
+      "height": 1024,
+      "alpha": true,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/social-media/LM-MEDIA-SMM-002-B-content-production-human.webp",
+      "bytes": 247556,
+      "sha256": "3b03680b9be115ab5249bd6264afd9c8f729cb4290a7a5791fe71adfedf0ef39",
+      "source_sha256": "4f2b29828cff1acea1c9079cd2470322ba96147daa7db40a24e0bf82a98f9b1b",
+      "source_type": "AI-generated conceptual artwork",
+      "source_dimensions": [
+        1536,
+        1024
+      ],
+      "processing": "Original alpha retained; alpha <=4 cleared, >=250 normalized; isolated components under 12 pixels removed; proportional transparent padding; WebP quality 93. No crop, recoloring or recomposition.",
+      "usage": [
+        "Social media service page",
+        "draft visual review"
+      ],
+      "background_policy": "transparent illustration",
+      "theme": "both themes",
+      "transparency": {
+        "transparent_pixel_percent": 43.95,
+        "corner_alpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "edge_alpha_max": 0
+      },
+      "review_notes": "AI-generated conceptual scene, not actual staff or client photography. Natural skin tones preserved. Characters are visually similar across the batch; review for variety before production. No measured results or client endorsement.",
+      "production_ready": false,
+      "counts_toward_core_variants": true
+    },
+    {
+      "id": "LM-MEDIA-SMM-003-B",
+      "collection": "LM-MEDIA-020",
+      "service": "social-media",
+      "subcategory": "human-led-transparent",
+      "title": "Publishing strategy \u2014 human-led",
+      "variant": "B",
+      "visual_type": "human-led",
+      "concept": "003",
+      "concept_title": "Publishing strategy",
+      "description": "Indian professional using a tablet beside a social publishing calendar and post preview cards.",
+      "alt": "Indian professional using a tablet beside a social publishing calendar and post preview cards.",
+      "format": "webp",
+      "width": 1536,
+      "height": 1024,
+      "alpha": true,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/social-media/LM-MEDIA-SMM-003-B-publishing-strategy-human.webp",
+      "bytes": 233342,
+      "sha256": "ca7dbdd1a9f6d6da734b569982625365089f71d809e491ebe993cf7cce87f19b",
+      "source_sha256": "7d12b10e763973a19dad0575bd227e6dab8c016360a5aafa2282a63d8e6462b2",
+      "source_type": "AI-generated conceptual artwork",
+      "source_dimensions": [
+        1536,
+        1024
+      ],
+      "processing": "Original alpha retained; alpha <=4 cleared, >=250 normalized; isolated components under 12 pixels removed; proportional transparent padding; WebP quality 93. No crop, recoloring or recomposition.",
+      "usage": [
+        "Social media service page",
+        "draft visual review"
+      ],
+      "background_policy": "transparent illustration",
+      "theme": "both themes",
+      "transparency": {
+        "transparent_pixel_percent": 35.22,
+        "corner_alpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "edge_alpha_max": 0
+      },
+      "review_notes": "AI-generated conceptual scene, not actual staff or client photography. Natural skin tones preserved. Characters are visually similar across the batch; review for variety before production. Intentional waist-level cut.",
+      "production_ready": false,
+      "counts_toward_core_variants": true
+    },
+    {
+      "id": "LM-MEDIA-SMM-004-B",
+      "collection": "LM-MEDIA-020",
+      "service": "social-media",
+      "subcategory": "human-led-transparent",
+      "title": "Community engagement \u2014 human-led",
+      "variant": "B",
+      "visual_type": "human-led",
+      "concept": "004",
+      "concept_title": "Community engagement",
+      "description": "Indian professional working at a laptop surrounded by conversation and community icons.",
+      "alt": "Indian professional working at a laptop surrounded by conversation and community icons.",
+      "format": "webp",
+      "width": 1536,
+      "height": 1024,
+      "alpha": true,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/social-media/LM-MEDIA-SMM-004-B-community-engagement-human.webp",
+      "bytes": 182148,
+      "sha256": "57b3a1423c07fcb15630fb7c14bfd64ba70a7ea9f1cbf5ba2a3b8c0538650dab",
+      "source_sha256": "05f7dcebf10c52507a294b527a993fefa1ae8cab21ef1eef4a6b6f0915565786",
+      "source_type": "AI-generated conceptual artwork",
+      "source_dimensions": [
+        1536,
+        1024
+      ],
+      "processing": "Original alpha retained; alpha <=4 cleared, >=250 normalized; isolated components under 12 pixels removed; proportional transparent padding; WebP quality 93. No crop, recoloring or recomposition.",
+      "usage": [
+        "Social media service page",
+        "draft visual review"
+      ],
+      "background_policy": "transparent illustration",
+      "theme": "both themes",
+      "transparency": {
+        "transparent_pixel_percent": 51.87,
+        "corner_alpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "edge_alpha_max": 0
+      },
+      "review_notes": "AI-generated conceptual scene, not actual staff or client photography. Natural skin tones preserved. Characters are visually similar across the batch; review for variety before production. No measured results or client endorsement.",
+      "production_ready": false,
+      "counts_toward_core_variants": true
+    },
+    {
+      "id": "LM-MEDIA-SMM-MALE-EXTRA-001-A",
+      "collection": "LM-MEDIA-020",
+      "service": "social-media",
+      "subcategory": "male-extras",
+      "title": "Male supplemental creative 1",
+      "variant": "A",
+      "visual_type": "human-led-derived-crop",
+      "description": "Male-oriented social media marketing concept-sheet crop, supplemental creative 1.",
+      "alt": "Male-oriented social media marketing illustration, supplemental creative 1.",
+      "format": "webp",
+      "width": 1536,
+      "height": 1024,
+      "alpha": true,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/social-media-male-extras/LM-MEDIA-SMM-MALE-EXTRA-001-A.webp",
+      "bytes": 250854,
+      "sha256": "2a9639de24cf74b54b875bbb350c86b6fa070e90a309c12e7594daa47f8dcadc",
+      "source_type": "AI-generated conceptual artwork, derived crop from earlier concept sheet",
+      "processing": "Imported processed crop as supplied; observed alpha retained.",
+      "usage": [
+        "Supplemental draft visual review"
+      ],
+      "background_policy": "derived crop with observed transparency; originally described as opaque/full-bleed",
+      "theme": "both themes; supplemental crop",
+      "transparency": {
+        "transparent_pixel_percent": 34.08,
+        "corner_alpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "edge_alpha_max": 1
+      },
+      "review_notes": "Derived from earlier rejected concept sheets. Package labels these opaque/full-bleed, but the actual WebP contains transparent pixels. Review crop, background and composition before production. Package includes no independent per-image checksum manifest; SHA-256 recorded at import.",
+      "production_ready": false,
+      "counts_toward_core_variants": false
+    },
+    {
+      "id": "LM-MEDIA-SMM-MALE-EXTRA-002-A",
+      "collection": "LM-MEDIA-020",
+      "service": "social-media",
+      "subcategory": "male-extras",
+      "title": "Male supplemental creative 2",
+      "variant": "A",
+      "visual_type": "human-led-derived-crop",
+      "description": "Male-oriented social media marketing concept-sheet crop, supplemental creative 2.",
+      "alt": "Male-oriented social media marketing illustration, supplemental creative 2.",
+      "format": "webp",
+      "width": 1536,
+      "height": 1024,
+      "alpha": true,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/social-media-male-extras/LM-MEDIA-SMM-MALE-EXTRA-002-A.webp",
+      "bytes": 212844,
+      "sha256": "2b062bd336879d380286906247f7ea26d06c7e47241032d681e75db05a8776fe",
+      "source_type": "AI-generated conceptual artwork, derived crop from earlier concept sheet",
+      "processing": "Imported processed crop as supplied; observed alpha retained.",
+      "usage": [
+        "Supplemental draft visual review"
+      ],
+      "background_policy": "derived crop with observed transparency; originally described as opaque/full-bleed",
+      "theme": "both themes; supplemental crop",
+      "transparency": {
+        "transparent_pixel_percent": 29.29,
+        "corner_alpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "edge_alpha_max": 20
+      },
+      "review_notes": "Derived from earlier rejected concept sheets. Package labels these opaque/full-bleed, but the actual WebP contains transparent pixels. Review crop, background and composition before production. Package includes no independent per-image checksum manifest; SHA-256 recorded at import.",
+      "production_ready": false,
+      "counts_toward_core_variants": false
+    },
+    {
+      "id": "LM-MEDIA-SMM-MALE-EXTRA-003-A",
+      "collection": "LM-MEDIA-020",
+      "service": "social-media",
+      "subcategory": "male-extras",
+      "title": "Male supplemental creative 3",
+      "variant": "A",
+      "visual_type": "human-led-derived-crop",
+      "description": "Male-oriented social media marketing concept-sheet crop, supplemental creative 3.",
+      "alt": "Male-oriented social media marketing illustration, supplemental creative 3.",
+      "format": "webp",
+      "width": 1536,
+      "height": 1024,
+      "alpha": true,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/social-media-male-extras/LM-MEDIA-SMM-MALE-EXTRA-003-A.webp",
+      "bytes": 274970,
+      "sha256": "ec5854b30e5cd83d17d0bb26f3af4e8475fba1c0c75eb38c3b55dac44ed52d73",
+      "source_type": "AI-generated conceptual artwork, derived crop from earlier concept sheet",
+      "processing": "Imported processed crop as supplied; observed alpha retained.",
+      "usage": [
+        "Supplemental draft visual review"
+      ],
+      "background_policy": "derived crop with observed transparency; originally described as opaque/full-bleed",
+      "theme": "both themes; supplemental crop",
+      "transparency": {
+        "transparent_pixel_percent": 38.58,
+        "corner_alpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "edge_alpha_max": 2
+      },
+      "review_notes": "Derived from earlier rejected concept sheets. Package labels these opaque/full-bleed, but the actual WebP contains transparent pixels. Review crop, background and composition before production. Package includes no independent per-image checksum manifest; SHA-256 recorded at import.",
+      "production_ready": false,
+      "counts_toward_core_variants": false
+    },
+    {
+      "id": "LM-MEDIA-SMM-MALE-EXTRA-004-A",
+      "collection": "LM-MEDIA-020",
+      "service": "social-media",
+      "subcategory": "male-extras",
+      "title": "Male supplemental creative 4",
+      "variant": "A",
+      "visual_type": "human-led-derived-crop",
+      "description": "Male-oriented social media marketing concept-sheet crop, supplemental creative 4.",
+      "alt": "Male-oriented social media marketing illustration, supplemental creative 4.",
+      "format": "webp",
+      "width": 1536,
+      "height": 1024,
+      "alpha": true,
+      "status": "draft",
+      "availability": "available",
+      "path": "assets/social-media-male-extras/LM-MEDIA-SMM-MALE-EXTRA-004-A.webp",
+      "bytes": 143836,
+      "sha256": "59a78eddbfa06a2f62f3c4840e8709258d69240d1b6fe20c3c141d361c7c9ad9",
+      "source_type": "AI-generated conceptual artwork, derived crop from earlier concept sheet",
+      "processing": "Imported processed crop as supplied; observed alpha retained.",
+      "usage": [
+        "Supplemental draft visual review"
+      ],
+      "background_policy": "derived crop with observed transparency; originally described as opaque/full-bleed",
+      "theme": "both themes; supplemental crop",
+      "transparency": {
+        "transparent_pixel_percent": 63.22,
+        "corner_alpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "edge_alpha_max": 0
+      },
+      "review_notes": "Derived from earlier rejected concept sheets. Package labels these opaque/full-bleed, but the actual WebP contains transparent pixels. Review crop, background and composition before production. Package includes no independent per-image checksum manifest; SHA-256 recorded at import.",
       "production_ready": false,
       "counts_toward_core_variants": false
     }
