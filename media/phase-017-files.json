@@ -1,0 +1,94 @@
+[
+  {
+    "id": "LM-MEDIA-SEO-001-A",
+    "collection": "LM-MEDIA-017",
+    "service": "seo",
+    "title": "Organic search discovery hero",
+    "description": "A premium SEO hero illustration showing organic search discovery and upward progress using search-result panels, a magnifying glass and a stepped path with a flag.",
+    "path": "assets/seo/LM-MEDIA-SEO-001-A-discovery-hero.webp",
+    "status": "draft",
+    "availability": "available",
+    "width": 1536,
+    "height": 1024,
+    "alpha": true,
+    "bytes": 136862,
+    "sha256": "d2b1eca1ce53e04845ba4aa8789e466794d6d7950236971ea16665558477ceef",
+    "alt": "A premium SEO hero illustration showing organic search discovery and upward progress using search-result panels, a magnifying glass and a stepped path with a flag.",
+    "transparency": {
+      "transparent_pixel_percent": 29.2
+    },
+    "usage": [
+      "SEO service page",
+      "LM-SEC-004"
+    ]
+  },
+  {
+    "id": "LM-MEDIA-SEO-002-A",
+    "collection": "LM-MEDIA-017",
+    "service": "seo",
+    "title": "Technical website audit",
+    "description": "A premium technical SEO audit illustration showing a website interface, audit checklist, speed gauge, magnifier and structured site elements.",
+    "path": "assets/seo/LM-MEDIA-SEO-002-A-technical-audit.webp",
+    "status": "draft",
+    "availability": "available",
+    "width": 1536,
+    "height": 1024,
+    "alpha": true,
+    "bytes": 178418,
+    "sha256": "2f938caa2e11bb02f3bbc3eab1b2f8b7ed9d049a4a95d33e228ad3ecc3d9676a",
+    "alt": "A premium technical SEO audit illustration showing a website interface, audit checklist, speed gauge, magnifier and structured site elements.",
+    "transparency": {
+      "transparent_pixel_percent": 35.22
+    },
+    "usage": [
+      "SEO service page",
+      "LM-SEC-004"
+    ]
+  },
+  {
+    "id": "LM-MEDIA-SEO-003-A",
+    "collection": "LM-MEDIA-017",
+    "service": "seo",
+    "title": "Search intent and content architecture",
+    "description": "A premium search-intent and content-architecture illustration showing a central content hub branching into structured topic clusters.",
+    "path": "assets/seo/LM-MEDIA-SEO-003-A-content-architecture.webp",
+    "status": "draft",
+    "availability": "available",
+    "width": 1536,
+    "height": 1024,
+    "alpha": true,
+    "bytes": 176902,
+    "sha256": "77f134ce87c88d7f3df5b32d55f3fa4bb24e1b9f86cec810acca2ed298b66b80",
+    "alt": "A premium search-intent and content-architecture illustration showing a central content hub branching into structured topic clusters.",
+    "transparency": {
+      "transparent_pixel_percent": 31.75
+    },
+    "usage": [
+      "SEO service page",
+      "LM-SEC-004"
+    ]
+  },
+  {
+    "id": "LM-MEDIA-SEO-004-A",
+    "collection": "LM-MEDIA-017",
+    "service": "seo",
+    "title": "Local business discovery",
+    "description": "A premium local-search discovery creative featuring a North Indian boutique setting, a mobile local search interface and a location marker.",
+    "path": "assets/seo/LM-MEDIA-SEO-004-A-local-discovery.webp",
+    "status": "draft",
+    "availability": "available",
+    "width": 1536,
+    "height": 1024,
+    "alpha": true,
+    "bytes": 308802,
+    "sha256": "22cc1e182bf737bcb545878124ea895a685d8278e93861b2a7258db56a109a1c",
+    "alt": "A premium local-search discovery creative featuring a North Indian boutique setting, a mobile local search interface and a location marker.",
+    "transparency": {
+      "transparent_pixel_percent": 28.55
+    },
+    "usage": [
+      "SEO service page",
+      "LM-SEC-004"
+    ]
+  }
+]
